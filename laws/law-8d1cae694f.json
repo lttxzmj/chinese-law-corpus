@@ -1,0 +1,149 @@
+{
+  "id": "law-8d1cae694f",
+  "officialId": "",
+  "title": "中华人民共和国国歌法",
+  "category": "法律",
+  "issuingAuthority": "全国人民代表大会常务委员会",
+  "promulgationDate": "2017-09-01",
+  "effectiveDate": "2017-10-01",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/law-8d1cae694f/metadata.json",
+    "docxPath": "data/laws/law-8d1cae694f/official.docx",
+    "pdfPath": "data/laws/law-8d1cae694f/official.pdf"
+  },
+  "paragraphCount": 35,
+  "sectionCount": 0,
+  "articleCount": 16,
+  "sections": [],
+  "articles": [
+    {
+      "id": "law-8d1cae694f-0001",
+      "articleNumber": 1,
+      "displayNumber": "第一条",
+      "path": [],
+      "text": "为了维护国歌的尊严，规范国歌的奏唱、播放和使用，增强公民的国家观念，弘扬爱国主义精神，培育和践行社会主义核心价值观，根据宪法，制定本法。",
+      "order": 1
+    },
+    {
+      "id": "law-8d1cae694f-0002",
+      "articleNumber": 2,
+      "displayNumber": "第二条",
+      "path": [],
+      "text": "中华人民共和国国歌是《义勇军进行曲》。",
+      "order": 2
+    },
+    {
+      "id": "law-8d1cae694f-0003",
+      "articleNumber": 3,
+      "displayNumber": "第三条",
+      "path": [],
+      "text": "中华人民共和国国歌是中华人民共和国的象征和标志。\n一切公民和组织都应当尊重国歌，维护国歌的尊严。",
+      "order": 3
+    },
+    {
+      "id": "law-8d1cae694f-0004",
+      "articleNumber": 4,
+      "displayNumber": "第四条",
+      "path": [],
+      "text": "在下列场合，应当奏唱国歌：\n（一）全国人民代表大会会议和地方各级人民代表大会会议的开幕、闭幕；\n中国人民政治协商会议全国委员会会议和地方各级委员会会议的开幕、闭幕；\n（二）各政党、各人民团体的各级代表大会等；\n（三）宪法宣誓仪式；\n（四）升国旗仪式；\n（五）各级机关举行或者组织的重大庆典、表彰、纪念仪式等；\n（六）国家公祭仪式；\n（七）重大外交活动；\n（八）重大体育赛事；\n（九）其他应当奏唱国歌的场合。",
+      "order": 5
+    },
+    {
+      "id": "law-8d1cae694f-0005",
+      "articleNumber": 5,
+      "displayNumber": "第五条",
+      "path": [],
+      "text": "国家倡导公民和组织在适宜的场合奏唱国歌，表达爱国情感。",
+      "order": 16
+    },
+    {
+      "id": "law-8d1cae694f-0006",
+      "articleNumber": 6,
+      "displayNumber": "第六条",
+      "path": [],
+      "text": "奏唱国歌，应当按照本法附件所载国歌的歌词和曲谱，不得采取有损国歌尊严的奏唱形式。",
+      "order": 17
+    },
+    {
+      "id": "law-8d1cae694f-0007",
+      "articleNumber": 7,
+      "displayNumber": "第七条",
+      "path": [],
+      "text": "奏唱国歌时，在场人员应当肃立，举止庄重，不得有不尊重国歌的行为。",
+      "order": 18
+    },
+    {
+      "id": "law-8d1cae694f-0008",
+      "articleNumber": 8,
+      "displayNumber": "第八条",
+      "path": [],
+      "text": "国歌不得用于或者变相用于商标、商业广告，不得在私人丧事活动等不适宜的场合使用，不得作为公共场所的背景音乐等。",
+      "order": 19
+    },
+    {
+      "id": "law-8d1cae694f-0009",
+      "articleNumber": 9,
+      "displayNumber": "第九条",
+      "path": [],
+      "text": "外交活动中奏唱国歌的场合和礼仪，由外交部规定。\n军队奏唱国歌的场合和礼仪，由中央军事委员会规定。",
+      "order": 20
+    },
+    {
+      "id": "law-8d1cae694f-0010",
+      "articleNumber": 10,
+      "displayNumber": "第十条",
+      "path": [],
+      "text": "在本法第四条规定的场合奏唱国歌，应当使用国歌标准演奏曲谱或者国歌官方录音版本。\n外交部及驻外外交机构应当向有关国家外交部门和有关国际组织提供国歌标准演奏曲谱和国歌官方录音版本，供外交活动中使用。\n国务院体育行政部门应当向有关国际体育组织和赛会主办方提供国歌标准演奏曲谱和国歌官方录音版本，供国际体育赛会使用。\n国歌标准演奏曲谱、国歌官方录音版本由国务院确定的部门组织审定、录制，并在中国人大网和中国政府网上发布。",
+      "order": 22
+    },
+    {
+      "id": "law-8d1cae694f-0011",
+      "articleNumber": 11,
+      "displayNumber": "第十一条",
+      "path": [],
+      "text": "国歌纳入中小学教育。\n中小学应当将国歌作为爱国主义教育的重要内容，组织学生学唱国歌，教育学生了解国歌的历史和精神内涵、遵守国歌奏唱礼仪。",
+      "order": 26
+    },
+    {
+      "id": "law-8d1cae694f-0012",
+      "articleNumber": 12,
+      "displayNumber": "第十二条",
+      "path": [],
+      "text": "新闻媒体应当积极开展对国歌的宣传，普及国歌奏唱礼仪知识。",
+      "order": 28
+    },
+    {
+      "id": "law-8d1cae694f-0013",
+      "articleNumber": 13,
+      "displayNumber": "第十三条",
+      "path": [],
+      "text": "国庆节、国际劳动节等重要的国家法定节日、纪念日，中央和省、自治区、直辖市的广播电台、电视台应当按照国务院广播电视主管部门规定的时点播放国歌。",
+      "order": 29
+    },
+    {
+      "id": "law-8d1cae694f-0014",
+      "articleNumber": 14,
+      "displayNumber": "第十四条",
+      "path": [],
+      "text": "县级以上各级人民政府及其有关部门在各自职责范围内，对国歌的奏唱、播放和使用进行监督管理。",
+      "order": 30
+    },
+    {
+      "id": "law-8d1cae694f-0015",
+      "articleNumber": 15,
+      "displayNumber": "第十五条",
+      "path": [],
+      "text": "在公共场合，故意篡改国歌歌词、曲谱，以歪曲、贬损方式奏唱国歌，或者以其他方式侮辱国歌的，由公安机关处以警告或者十五日以下拘留；构成犯罪的，依法追究刑事责任。",
+      "order": 31
+    },
+    {
+      "id": "law-8d1cae694f-0016",
+      "articleNumber": 16,
+      "displayNumber": "第十六条",
+      "path": [],
+      "text": "本法自2017年10月1日起施行。\n附件：中华人民共和国国歌（五线谱版、简谱版）",
+      "order": 32
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "sfjs-d15b79e582",
+  "officialId": "",
+  "title": "最高人民法院关于确定民事侵权精神损害赔偿责任若干问题的解释",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院",
+  "promulgationDate": "2020-12-29",
+  "effectiveDate": "2021-01-01",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-d15b79e582/metadata.json",
+    "docxPath": "data/laws/sfjs-d15b79e582/official.docx",
+    "pdfPath": "data/laws/sfjs-d15b79e582/official.pdf"
+  },
+  "paragraphCount": 18,
+  "sectionCount": 0,
+  "articleCount": 6,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-d15b79e582-0001",
+      "articleNumber": 1,
+      "displayNumber": "第一条",
+      "path": [],
+      "text": "因人身权益或者具有人身意义的特定物受到侵害，自然人或者其近亲属向人民法院提起诉讼请求精神损害赔偿的，人民法院应当依法予以受理。",
+      "order": 1
+    },
+    {
+      "id": "sfjs-d15b79e582-0002",
+      "articleNumber": 2,
+      "displayNumber": "第二条",
+      "path": [],
+      "text": "非法使被监护人脱离监护，导致亲子关系或者近亲属间的亲属关系遭受严重损害，监护人向人民法院起诉请求赔偿精神损害的，人民法院应当依法予以受理。",
+      "order": 2
+    },
+    {
+      "id": "sfjs-d15b79e582-0003",
+      "articleNumber": 3,
+      "displayNumber": "第三条",
+      "path": [],
+      "text": "死者的姓名、肖像、名誉、荣誉、隐私、遗体、遗骨等受到侵害，其近亲属向人民法院提起诉讼请求精神损害赔偿的，人民法院应当依法予以支持。",
+      "order": 3
+    },
+    {
+      "id": "sfjs-d15b79e582-0004",
+      "articleNumber": 4,
+      "displayNumber": "第四条",
+      "path": [],
+      "text": "法人或者非法人组织以名誉权、荣誉权、名称权遭受侵害为由，向人民法院起诉请求精神损害赔偿的，人民法院不予支持。",
+      "order": 4
+    },
+    {
+      "id": "sfjs-d15b79e582-0005",
+      "articleNumber": 5,
+      "displayNumber": "第五条",
+      "path": [],
+      "text": "精神损害的赔偿数额根据以下因素确定：\n（一）侵权人的过错程度，但是法律另有规定的除外；\n（二）侵权行为的目的、方式、场合等具体情节；\n（三）侵权行为所造成的后果；\n（四）侵权人的获利情况；\n（五）侵权人承担责任的经济能力；\n（六）受理诉讼法院所在地的平均生活水平。",
+      "order": 5
+    },
+    {
+      "id": "sfjs-d15b79e582-0006",
+      "articleNumber": 6,
+      "displayNumber": "第六条",
+      "path": [],
+      "text": "在本解释公布施行之前已经生效施行的司法解释，其内容有与本解释不一致的，以本解释为准。\nPAGE\nPAGE 126",
+      "order": 12
+    }
+  ]
+}

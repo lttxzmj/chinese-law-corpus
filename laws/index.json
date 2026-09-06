@@ -1,0 +1,3298 @@
+[
+  {
+    "slug": "academic-degrees-law",
+    "title": "中华人民共和国学位法",
+    "outputPath": "data/processed/laws/academic-degrees-law.json",
+    "paragraphCount": 111,
+    "sectionCount": 7,
+    "articleCount": 45
+  },
+  {
+    "slug": "accessibility-law",
+    "title": "中华人民共和国无障碍环境建设法",
+    "outputPath": "data/processed/laws/accessibility-law.json",
+    "paragraphCount": 139,
+    "sectionCount": 8,
+    "articleCount": 72
+  },
+  {
+    "slug": "administrative-compulsion-law",
+    "title": "中华人民共和国行政强制法",
+    "outputPath": "data/processed/laws/administrative-compulsion-law.json",
+    "paragraphCount": 239,
+    "sectionCount": 13,
+    "articleCount": 71
+  },
+  {
+    "slug": "administrative-license-law",
+    "title": "中华人民共和国行政许可法",
+    "outputPath": "data/processed/laws/administrative-license-law.json",
+    "paragraphCount": 211,
+    "sectionCount": 14,
+    "articleCount": 83
+  },
+  {
+    "slug": "administrative-penalty-law",
+    "title": "中华人民共和国行政处罚法",
+    "outputPath": "data/processed/laws/administrative-penalty-law.json",
+    "paragraphCount": 229,
+    "sectionCount": 12,
+    "articleCount": 86
+  },
+  {
+    "slug": "administrative-procedure-law",
+    "title": "中华人民共和国行政诉讼法",
+    "outputPath": "data/processed/laws/administrative-procedure-law.json",
+    "paragraphCount": 281,
+    "sectionCount": 15,
+    "articleCount": 103
+  },
+  {
+    "slug": "administrative-reconsideration-law",
+    "title": "中华人民共和国行政复议法",
+    "outputPath": "data/processed/laws/administrative-reconsideration-law.json",
+    "paragraphCount": 285,
+    "sectionCount": 16,
+    "articleCount": 90
+  },
+  {
+    "slug": "advertising-law",
+    "title": "中华人民共和国广告法",
+    "outputPath": "data/processed/laws/advertising-law.json",
+    "paragraphCount": 230,
+    "sectionCount": 6,
+    "articleCount": 74
+  },
+  {
+    "slug": "anti-money-laundering-law",
+    "title": "中华人民共和国反洗钱法",
+    "outputPath": "data/processed/laws/anti-money-laundering-law.json",
+    "paragraphCount": 181,
+    "sectionCount": 7,
+    "articleCount": 65
+  },
+  {
+    "slug": "anti-monopoly-law",
+    "title": "中华人民共和国反垄断法",
+    "outputPath": "data/processed/laws/anti-monopoly-law.json",
+    "paragraphCount": 196,
+    "sectionCount": 8,
+    "articleCount": 70
+  },
+  {
+    "slug": "anti-telecom-fraud-law",
+    "title": "中华人民共和国反电信网络诈骗法",
+    "outputPath": "data/processed/laws/anti-telecom-fraud-law.json",
+    "paragraphCount": 134,
+    "sectionCount": 7,
+    "articleCount": 50
+  },
+  {
+    "slug": "anti-unfair-competition-law",
+    "title": "中华人民共和国反不正当竞争法",
+    "outputPath": "data/processed/laws/anti-unfair-competition-law.json",
+    "paragraphCount": 111,
+    "sectionCount": 10,
+    "articleCount": 41
+  },
+  {
+    "slug": "arbitration-law",
+    "title": "中华人民共和国仲裁法",
+    "outputPath": "data/processed/laws/arbitration-law.json",
+    "paragraphCount": 206,
+    "sectionCount": 22,
+    "articleCount": 96
+  },
+  {
+    "slug": "banking-supervision-law",
+    "title": "中华人民共和国银行业监督管理法",
+    "outputPath": "data/processed/laws/banking-supervision-law.json",
+    "paragraphCount": 121,
+    "sectionCount": 6,
+    "articleCount": 52
+  },
+  {
+    "slug": "civil-code",
+    "title": "中华人民共和国民法典",
+    "outputPath": "data/processed/laws/civil-code.json",
+    "paragraphCount": 2403,
+    "sectionCount": 136,
+    "articleCount": 1260
+  },
+  {
+    "slug": "civil-procedure-law",
+    "title": "中华人民共和国民事诉讼法",
+    "outputPath": "data/processed/laws/civil-procedure-law.json",
+    "paragraphCount": 773,
+    "sectionCount": 51,
+    "articleCount": 306
+  },
+  {
+    "slug": "civil-servant-law",
+    "title": "中华人民共和国公务员法",
+    "outputPath": "data/processed/laws/civil-servant-law.json",
+    "paragraphCount": 322,
+    "sectionCount": 18,
+    "articleCount": 113
+  },
+  {
+    "slug": "company-law",
+    "title": "中华人民共和国公司法",
+    "outputPath": "data/processed/laws/company-law.json",
+    "paragraphCount": 711,
+    "sectionCount": 24,
+    "articleCount": 266
+  },
+  {
+    "slug": "compulsory-education-law",
+    "title": "中华人民共和国义务教育法",
+    "outputPath": "data/processed/laws/compulsory-education-law.json",
+    "paragraphCount": 136,
+    "sectionCount": 8,
+    "articleCount": 63
+  },
+  {
+    "slug": "constitution",
+    "title": "中华人民共和国宪法（2018年修正文本）",
+    "outputPath": "data/processed/laws/constitution.json",
+    "paragraphCount": 397,
+    "sectionCount": 12,
+    "articleCount": 143
+  },
+  {
+    "slug": "consumer-rights-protection-law",
+    "title": "中华人民共和国消费者权益保护法",
+    "outputPath": "data/processed/laws/consumer-rights-protection-law.json",
+    "paragraphCount": 158,
+    "sectionCount": 8,
+    "articleCount": 63
+  },
+  {
+    "slug": "copyright-law",
+    "title": "中华人民共和国著作权法",
+    "outputPath": "data/processed/laws/copyright-law.json",
+    "paragraphCount": 241,
+    "sectionCount": 14,
+    "articleCount": 67
+  },
+  {
+    "slug": "criminal-law",
+    "title": "中华人民共和国刑法",
+    "outputPath": "data/processed/laws/criminal-law.json",
+    "paragraphCount": 1069,
+    "sectionCount": 54,
+    "articleCount": 452
+  },
+  {
+    "slug": "criminal-procedure-law",
+    "title": "中华人民共和国刑事诉讼法",
+    "outputPath": "data/processed/laws/criminal-procedure-law.json",
+    "paragraphCount": 795,
+    "sectionCount": 42,
+    "articleCount": 308
+  },
+  {
+    "slug": "cybersecurity-law",
+    "title": "中华人民共和国网络安全法",
+    "outputPath": "data/processed/laws/cybersecurity-law.json",
+    "paragraphCount": 162,
+    "sectionCount": 18,
+    "articleCount": 81
+  },
+  {
+    "slug": "data-security-law",
+    "title": "中华人民共和国数据安全法",
+    "outputPath": "data/processed/laws/data-security-law.json",
+    "paragraphCount": 91,
+    "sectionCount": 7,
+    "articleCount": 55
+  },
+  {
+    "slug": "e-commerce-law",
+    "title": "中华人民共和国电子商务法",
+    "outputPath": "data/processed/laws/e-commerce-law.json",
+    "paragraphCount": 160,
+    "sectionCount": 9,
+    "articleCount": 89
+  },
+  {
+    "slug": "electoral-law",
+    "title": "中华人民共和国全国人民代表大会和地方各级人民代表大会选举法",
+    "outputPath": "data/processed/laws/electoral-law.json",
+    "paragraphCount": 154,
+    "sectionCount": 12,
+    "articleCount": 60
+  },
+  {
+    "slug": "enterprise-bankruptcy-law",
+    "title": "中华人民共和国企业破产法",
+    "outputPath": "data/processed/laws/enterprise-bankruptcy-law.json",
+    "paragraphCount": 383,
+    "sectionCount": 22,
+    "articleCount": 136
+  },
+  {
+    "slug": "environmental-protection-law",
+    "title": "中华人民共和国环境保护法",
+    "outputPath": "data/processed/laws/environmental-protection-law.json",
+    "paragraphCount": 152,
+    "sectionCount": 7,
+    "articleCount": 70
+  },
+  {
+    "slug": "family-education-promotion-law",
+    "title": "中华人民共和国家庭教育促进法",
+    "outputPath": "data/processed/laws/family-education-promotion-law.json",
+    "paragraphCount": 111,
+    "sectionCount": 6,
+    "articleCount": 55
+  },
+  {
+    "slug": "food-safety-law",
+    "title": "中华人民共和国食品安全法",
+    "outputPath": "data/processed/laws/food-safety-law.json",
+    "paragraphCount": 466,
+    "sectionCount": 28,
+    "articleCount": 154
+  },
+  {
+    "slug": "foreign-investment-law",
+    "title": "中华人民共和国外商投资法",
+    "outputPath": "data/processed/laws/foreign-investment-law.json",
+    "paragraphCount": 84,
+    "sectionCount": 6,
+    "articleCount": 42
+  },
+  {
+    "slug": "individual-income-tax-law",
+    "title": "中华人民共和国个人所得税法",
+    "outputPath": "data/processed/laws/individual-income-tax-law.json",
+    "paragraphCount": 132,
+    "sectionCount": 0,
+    "articleCount": 22
+  },
+  {
+    "slug": "infectious-disease-prevention-law",
+    "title": "中华人民共和国传染病防治法",
+    "outputPath": "data/processed/laws/infectious-disease-prevention-law.json",
+    "paragraphCount": 320,
+    "sectionCount": 9,
+    "articleCount": 115
+  },
+  {
+    "slug": "insurance-law",
+    "title": "中华人民共和国保险法",
+    "outputPath": "data/processed/laws/insurance-law.json",
+    "paragraphCount": 455,
+    "sectionCount": 11,
+    "articleCount": 185
+  },
+  {
+    "slug": "labor-contract-law",
+    "title": "中华人民共和国劳动合同法",
+    "outputPath": "data/processed/laws/labor-contract-law.json",
+    "paragraphCount": 257,
+    "sectionCount": 11,
+    "articleCount": 98
+  },
+  {
+    "slug": "labor-dispute-mediation-arbitration-law",
+    "title": "中华人民共和国劳动争议调解仲裁法",
+    "outputPath": "data/processed/laws/labor-dispute-mediation-arbitration-law.json",
+    "paragraphCount": 132,
+    "sectionCount": 7,
+    "articleCount": 54
+  },
+  {
+    "slug": "labor-law",
+    "title": "中华人民共和国劳动法",
+    "outputPath": "data/processed/laws/labor-law.json",
+    "paragraphCount": 221,
+    "sectionCount": 13,
+    "articleCount": 107
+  },
+  {
+    "slug": "land-administration-law",
+    "title": "中华人民共和国土地管理法",
+    "outputPath": "data/processed/laws/land-administration-law.json",
+    "paragraphCount": 221,
+    "sectionCount": 8,
+    "articleCount": 87
+  },
+  {
+    "slug": "law-00ed05f188",
+    "title": "中华人民共和国各级人民代表大会常务委员会监督法",
+    "outputPath": "data/processed/laws/law-00ed05f188.json",
+    "paragraphCount": 150,
+    "sectionCount": 9,
+    "articleCount": 65
+  },
+  {
+    "slug": "law-018c2e44fb",
+    "title": "中华人民共和国药品管理法",
+    "outputPath": "data/processed/laws/law-018c2e44fb.json",
+    "paragraphCount": 330,
+    "sectionCount": 12,
+    "articleCount": 155
+  },
+  {
+    "slug": "law-01a651529a",
+    "title": "中华人民共和国人民法院组织法",
+    "outputPath": "data/processed/laws/law-01a651529a.json",
+    "paragraphCount": 137,
+    "sectionCount": 6,
+    "articleCount": 59
+  },
+  {
+    "slug": "law-0316cb73fd",
+    "title": "中华人民共和国石油天然气管道保护法",
+    "outputPath": "data/processed/laws/law-0316cb73fd.json",
+    "paragraphCount": 142,
+    "sectionCount": 6,
+    "articleCount": 61
+  },
+  {
+    "slug": "law-0359d47817",
+    "title": "中华人民共和国人民警察警衔条例",
+    "outputPath": "data/processed/laws/law-0359d47817.json",
+    "paragraphCount": 75,
+    "sectionCount": 6,
+    "articleCount": 26
+  },
+  {
+    "slug": "law-05d312aece",
+    "title": "中华人民共和国招标投标法",
+    "outputPath": "data/processed/laws/law-05d312aece.json",
+    "paragraphCount": 137,
+    "sectionCount": 6,
+    "articleCount": 68
+  },
+  {
+    "slug": "law-06967a2de9",
+    "title": "中华人民共和国香港特别行政区维护国家安全法",
+    "outputPath": "data/processed/laws/law-06967a2de9.json",
+    "paragraphCount": 182,
+    "sectionCount": 14,
+    "articleCount": 66
+  },
+  {
+    "slug": "law-0865f96a11",
+    "title": "中华人民共和国电子签名法",
+    "outputPath": "data/processed/laws/law-0865f96a11.json",
+    "paragraphCount": 100,
+    "sectionCount": 5,
+    "articleCount": 36
+  },
+  {
+    "slug": "law-0974d25ee2",
+    "title": "中华人民共和国预算法",
+    "outputPath": "data/processed/laws/law-0974d25ee2.json",
+    "paragraphCount": 275,
+    "sectionCount": 11,
+    "articleCount": 101
+  },
+  {
+    "slug": "law-097aa6e378",
+    "title": "中华人民共和国统计法",
+    "outputPath": "data/processed/laws/law-097aa6e378.json",
+    "paragraphCount": 134,
+    "sectionCount": 7,
+    "articleCount": 53
+  },
+  {
+    "slug": "law-0a856adfd4",
+    "title": "中华人民共和国循环经济促进法",
+    "outputPath": "data/processed/laws/law-0a856adfd4.json",
+    "paragraphCount": 133,
+    "sectionCount": 7,
+    "articleCount": 58
+  },
+  {
+    "slug": "law-0a9da86409",
+    "title": "中华人民共和国原子能法",
+    "outputPath": "data/processed/laws/law-0a9da86409.json",
+    "paragraphCount": 131,
+    "sectionCount": 20,
+    "articleCount": 62
+  },
+  {
+    "slug": "law-0b8f375f10",
+    "title": "中华人民共和国城市居民委员会组织法",
+    "outputPath": "data/processed/laws/law-0b8f375f10.json",
+    "paragraphCount": 130,
+    "sectionCount": 14,
+    "articleCount": 50
+  },
+  {
+    "slug": "law-0bbec83d8d",
+    "title": "中华人民共和国防震减灾法",
+    "outputPath": "data/processed/laws/law-0bbec83d8d.json",
+    "paragraphCount": 205,
+    "sectionCount": 9,
+    "articleCount": 93
+  },
+  {
+    "slug": "law-0c9bfb6c5b",
+    "title": "中华人民共和国烟草专卖法",
+    "outputPath": "data/processed/laws/law-0c9bfb6c5b.json",
+    "paragraphCount": 81,
+    "sectionCount": 8,
+    "articleCount": 43
+  },
+  {
+    "slug": "law-0cf006585b",
+    "title": "中华人民共和国外国中央银行财产司法强制措施豁免法",
+    "outputPath": "data/processed/laws/law-0cf006585b.json",
+    "paragraphCount": 7,
+    "sectionCount": 0,
+    "articleCount": 4
+  },
+  {
+    "slug": "law-0e5808b898",
+    "title": "中华人民共和国居民身份证法",
+    "outputPath": "data/processed/laws/law-0e5808b898.json",
+    "paragraphCount": 79,
+    "sectionCount": 5,
+    "articleCount": 23
+  },
+  {
+    "slug": "law-0e5c9fc702",
+    "title": "中华人民共和国海警法",
+    "outputPath": "data/processed/laws/law-0e5c9fc702.json",
+    "paragraphCount": 209,
+    "sectionCount": 11,
+    "articleCount": 84
+  },
+  {
+    "slug": "law-0e812f069c",
+    "title": "中华人民共和国陆地国界法",
+    "outputPath": "data/processed/laws/law-0e812f069c.json",
+    "paragraphCount": 128,
+    "sectionCount": 10,
+    "articleCount": 62
+  },
+  {
+    "slug": "law-0ea9781c87",
+    "title": "中华人民共和国农产品质量安全法",
+    "outputPath": "data/processed/laws/law-0ea9781c87.json",
+    "paragraphCount": 202,
+    "sectionCount": 8,
+    "articleCount": 81
+  },
+  {
+    "slug": "law-0ecd87eb8c",
+    "title": "中华人民共和国标准化法",
+    "outputPath": "data/processed/laws/law-0ecd87eb8c.json",
+    "paragraphCount": 83,
+    "sectionCount": 6,
+    "articleCount": 45
+  },
+  {
+    "slug": "law-100415b86b",
+    "title": "中华人民共和国旅游法",
+    "outputPath": "data/processed/laws/law-100415b86b.json",
+    "paragraphCount": 252,
+    "sectionCount": 10,
+    "articleCount": 112
+  },
+  {
+    "slug": "law-10af2de3d4",
+    "title": "中华人民共和国草原法",
+    "outputPath": "data/processed/laws/law-10af2de3d4.json",
+    "paragraphCount": 162,
+    "sectionCount": 9,
+    "articleCount": 75
+  },
+  {
+    "slug": "law-10d8f262fd",
+    "title": "中华人民共和国驻外外交人员法",
+    "outputPath": "data/processed/laws/law-10d8f262fd.json",
+    "paragraphCount": 167,
+    "sectionCount": 10,
+    "articleCount": 48
+  },
+  {
+    "slug": "law-1136583e78",
+    "title": "中华人民共和国电力法",
+    "outputPath": "data/processed/laws/law-1136583e78.json",
+    "paragraphCount": 153,
+    "sectionCount": 10,
+    "articleCount": 75
+  },
+  {
+    "slug": "law-1142dcbdf8",
+    "title": "中华人民共和国香港特别行政区驻军法",
+    "outputPath": "data/processed/laws/law-1142dcbdf8.json",
+    "paragraphCount": 68,
+    "sectionCount": 6,
+    "articleCount": 30
+  },
+  {
+    "slug": "law-130dfa1c88",
+    "title": "中华人民共和国注册会计师法",
+    "outputPath": "data/processed/laws/law-130dfa1c88.json",
+    "paragraphCount": 120,
+    "sectionCount": 7,
+    "articleCount": 46
+  },
+  {
+    "slug": "law-136f833219",
+    "title": "中华人民共和国防沙治沙法",
+    "outputPath": "data/processed/laws/law-136f833219.json",
+    "paragraphCount": 119,
+    "sectionCount": 7,
+    "articleCount": 47
+  },
+  {
+    "slug": "law-15523ff71a",
+    "title": "中华人民共和国法官法",
+    "outputPath": "data/processed/laws/law-15523ff71a.json",
+    "paragraphCount": 183,
+    "sectionCount": 8,
+    "articleCount": 69
+  },
+  {
+    "slug": "law-15c3116ff5",
+    "title": "中华人民共和国动物防疫法",
+    "outputPath": "data/processed/laws/law-15c3116ff5.json",
+    "paragraphCount": 295,
+    "sectionCount": 12,
+    "articleCount": 113
+  },
+  {
+    "slug": "law-1642188a69",
+    "title": "中华人民共和国反有组织犯罪法",
+    "outputPath": "data/processed/laws/law-1642188a69.json",
+    "paragraphCount": 168,
+    "sectionCount": 9,
+    "articleCount": 77
+  },
+  {
+    "slug": "law-17715149bb",
+    "title": "中华人民共和国船舶吨税法",
+    "outputPath": "data/processed/laws/law-17715149bb.json",
+    "paragraphCount": 108,
+    "sectionCount": 0,
+    "articleCount": 22
+  },
+  {
+    "slug": "law-19e7ce90b8",
+    "title": "中华人民共和国资产评估法",
+    "outputPath": "data/processed/laws/law-19e7ce90b8.json",
+    "paragraphCount": 155,
+    "sectionCount": 8,
+    "articleCount": 55
+  },
+  {
+    "slug": "law-1a2ce25817",
+    "title": "中华人民共和国禁毒法",
+    "outputPath": "data/processed/laws/law-1a2ce25817.json",
+    "paragraphCount": 145,
+    "sectionCount": 7,
+    "articleCount": 71
+  },
+  {
+    "slug": "law-1af1abe0c0",
+    "title": "中华人民共和国国防动员法",
+    "outputPath": "data/processed/laws/law-1af1abe0c0.json",
+    "paragraphCount": 164,
+    "sectionCount": 14,
+    "articleCount": 72
+  },
+  {
+    "slug": "law-1b46c86e99",
+    "title": "中华人民共和国海上交通安全法",
+    "outputPath": "data/processed/laws/law-1b46c86e99.json",
+    "paragraphCount": 314,
+    "sectionCount": 10,
+    "articleCount": 122
+  },
+  {
+    "slug": "law-1be710e8ec",
+    "title": "中华人民共和国电影产业促进法",
+    "outputPath": "data/processed/laws/law-1be710e8ec.json",
+    "paragraphCount": 145,
+    "sectionCount": 6,
+    "articleCount": 60
+  },
+  {
+    "slug": "law-1ccece62eb",
+    "title": "中华人民共和国特种设备安全法",
+    "outputPath": "data/processed/laws/law-1ccece62eb.json",
+    "paragraphCount": 251,
+    "sectionCount": 11,
+    "articleCount": 101
+  },
+  {
+    "slug": "law-1e2db1f22a",
+    "title": "中华人民共和国归侨侨眷权益保护法",
+    "outputPath": "data/processed/laws/law-1e2db1f22a.json",
+    "paragraphCount": 47,
+    "sectionCount": 0,
+    "articleCount": 30
+  },
+  {
+    "slug": "law-1fd1f2abbc",
+    "title": "中华人民共和国出口管制法",
+    "outputPath": "data/processed/laws/law-1fd1f2abbc.json",
+    "paragraphCount": 122,
+    "sectionCount": 8,
+    "articleCount": 49
+  },
+  {
+    "slug": "law-21ad6d71b5",
+    "title": "中华人民共和国法治宣传教育法",
+    "outputPath": "data/processed/laws/law-21ad6d71b5.json",
+    "paragraphCount": 111,
+    "sectionCount": 14,
+    "articleCount": 65
+  },
+  {
+    "slug": "law-229b398f65",
+    "title": "中华人民共和国国家勋章和国家荣誉称号法",
+    "outputPath": "data/processed/laws/law-229b398f65.json",
+    "paragraphCount": 28,
+    "sectionCount": 0,
+    "articleCount": 21
+  },
+  {
+    "slug": "law-230e7f72fe",
+    "title": "中华人民共和国专属经济区和大陆架法",
+    "outputPath": "data/processed/laws/law-230e7f72fe.json",
+    "paragraphCount": 30,
+    "sectionCount": 0,
+    "articleCount": 16
+  },
+  {
+    "slug": "law-24ace43176",
+    "title": "中华人民共和国企业国有资产法",
+    "outputPath": "data/processed/laws/law-24ace43176.json",
+    "paragraphCount": 165,
+    "sectionCount": 14,
+    "articleCount": 77
+  },
+  {
+    "slug": "law-25ea89368d",
+    "title": "中华人民共和国领海及毗连区法",
+    "outputPath": "data/processed/laws/law-25ea89368d.json",
+    "paragraphCount": 33,
+    "sectionCount": 0,
+    "articleCount": 17
+  },
+  {
+    "slug": "law-2726773876",
+    "title": "中华人民共和国进出境动植物检疫法",
+    "outputPath": "data/processed/laws/law-2726773876.json",
+    "paragraphCount": 109,
+    "sectionCount": 8,
+    "articleCount": 50
+  },
+  {
+    "slug": "law-27b84a6eb0",
+    "title": "中华人民共和国密码法",
+    "outputPath": "data/processed/laws/law-27b84a6eb0.json",
+    "paragraphCount": 79,
+    "sectionCount": 5,
+    "articleCount": 44
+  },
+  {
+    "slug": "law-29362025b8",
+    "title": "中华人民共和国国家发展规划法",
+    "outputPath": "data/processed/laws/law-29362025b8.json",
+    "paragraphCount": 86,
+    "sectionCount": 12,
+    "articleCount": 38
+  },
+  {
+    "slug": "law-29614e4167",
+    "title": "第五届全国人民代表大会常务委员会关于批准《广东省经济特区条例》的决议",
+    "outputPath": "data/processed/laws/law-29614e4167.json",
+    "paragraphCount": 45,
+    "sectionCount": 6,
+    "articleCount": 26
+  },
+  {
+    "slug": "law-29a0fef23a",
+    "title": "中华人民共和国消防法",
+    "outputPath": "data/processed/laws/law-29a0fef23a.json",
+    "paragraphCount": 209,
+    "sectionCount": 7,
+    "articleCount": 74
+  },
+  {
+    "slug": "law-2a1ac04584",
+    "title": "中华人民共和国民营经济促进法",
+    "outputPath": "data/processed/laws/law-2a1ac04584.json",
+    "paragraphCount": 142,
+    "sectionCount": 9,
+    "articleCount": 78
+  },
+  {
+    "slug": "law-2a77c84bf5",
+    "title": "中华人民共和国种子法",
+    "outputPath": "data/processed/laws/law-2a77c84bf5.json",
+    "paragraphCount": 239,
+    "sectionCount": 10,
+    "articleCount": 92
+  },
+  {
+    "slug": "law-2b78b78598",
+    "title": "中华人民共和国文物保护法",
+    "outputPath": "data/processed/laws/law-2b78b78598.json",
+    "paragraphCount": 283,
+    "sectionCount": 8,
+    "articleCount": 101
+  },
+  {
+    "slug": "law-2d9d1a0eb9",
+    "title": "中华人民共和国戒严法",
+    "outputPath": "data/processed/laws/law-2d9d1a0eb9.json",
+    "paragraphCount": 88,
+    "sectionCount": 5,
+    "articleCount": 32
+  },
+  {
+    "slug": "law-2f83499859",
+    "title": "中国人民解放军选举全国人民代表大会和县级以上地方各级人民代表大会代表的办法",
+    "outputPath": "data/processed/laws/law-2f83499859.json",
+    "paragraphCount": 99,
+    "sectionCount": 8,
+    "articleCount": 40
+  },
+  {
+    "slug": "law-34014cf253",
+    "title": "中华人民共和国全国人民代表大会常务委员会议事规则",
+    "outputPath": "data/processed/laws/law-34014cf253.json",
+    "paragraphCount": 121,
+    "sectionCount": 8,
+    "articleCount": 52
+  },
+  {
+    "slug": "law-34727b030f",
+    "title": "中华人民共和国护照法",
+    "outputPath": "data/processed/laws/law-34727b030f.json",
+    "paragraphCount": 67,
+    "sectionCount": 0,
+    "articleCount": 26
+  },
+  {
+    "slug": "law-34dde7ddf6",
+    "title": "中华人民共和国建筑法",
+    "outputPath": "data/processed/laws/law-34dde7ddf6.json",
+    "paragraphCount": 169,
+    "sectionCount": 13,
+    "articleCount": 85
+  },
+  {
+    "slug": "law-370b894ed9",
+    "title": "中华人民共和国香港特别行政区基本法",
+    "outputPath": "data/processed/laws/law-370b894ed9.json",
+    "paragraphCount": 528,
+    "sectionCount": 19,
+    "articleCount": 160
+  },
+  {
+    "slug": "law-373a1450f2",
+    "title": "中华人民共和国军人保险法",
+    "outputPath": "data/processed/laws/law-373a1450f2.json",
+    "paragraphCount": 101,
+    "sectionCount": 9,
+    "articleCount": 51
+  },
+  {
+    "slug": "law-380deebce1",
+    "title": "中华人民共和国价格法",
+    "outputPath": "data/processed/laws/law-380deebce1.json",
+    "paragraphCount": 107,
+    "sectionCount": 7,
+    "articleCount": 48
+  },
+  {
+    "slug": "law-386c95cacd",
+    "title": "中华人民共和国野生动物保护法",
+    "outputPath": "data/processed/laws/law-386c95cacd.json",
+    "paragraphCount": 164,
+    "sectionCount": 5,
+    "articleCount": 64
+  },
+  {
+    "slug": "law-38dcae8b85",
+    "title": "中华人民共和国国家情报法",
+    "outputPath": "data/processed/laws/law-38dcae8b85.json",
+    "paragraphCount": 56,
+    "sectionCount": 5,
+    "articleCount": 32
+  },
+  {
+    "slug": "law-39e968d259",
+    "title": "中华人民共和国农村土地承包经营纠纷调解仲裁法",
+    "outputPath": "data/processed/laws/law-39e968d259.json",
+    "paragraphCount": 130,
+    "sectionCount": 8,
+    "articleCount": 53
+  },
+  {
+    "slug": "law-3a94164d1b",
+    "title": "中华人民共和国可再生能源法",
+    "outputPath": "data/processed/laws/law-3a94164d1b.json",
+    "paragraphCount": 95,
+    "sectionCount": 8,
+    "articleCount": 33
+  },
+  {
+    "slug": "law-3b0d2f905f",
+    "title": "中华人民共和国社会救助法",
+    "outputPath": "data/processed/laws/law-3b0d2f905f.json",
+    "paragraphCount": 138,
+    "sectionCount": 14,
+    "articleCount": 78
+  },
+  {
+    "slug": "law-3cfabcd7ed",
+    "title": "中华人民共和国慈善法",
+    "outputPath": "data/processed/laws/law-3cfabcd7ed.json",
+    "paragraphCount": 303,
+    "sectionCount": 13,
+    "articleCount": 125
+  },
+  {
+    "slug": "law-3eaedf7e55",
+    "title": "中华人民共和国军人地位和权益保障法",
+    "outputPath": "data/processed/laws/law-3eaedf7e55.json",
+    "paragraphCount": 134,
+    "sectionCount": 7,
+    "articleCount": 71
+  },
+  {
+    "slug": "law-3f8de6abe5",
+    "title": "中华人民共和国退役军人保障法",
+    "outputPath": "data/processed/laws/law-3f8de6abe5.json",
+    "paragraphCount": 183,
+    "sectionCount": 10,
+    "articleCount": 85
+  },
+  {
+    "slug": "law-3f8def2873",
+    "title": "中华人民共和国审计法",
+    "outputPath": "data/processed/laws/law-3f8def2873.json",
+    "paragraphCount": 118,
+    "sectionCount": 7,
+    "articleCount": 60
+  },
+  {
+    "slug": "law-40edb05366",
+    "title": "中华人民共和国献血法",
+    "outputPath": "data/processed/laws/law-40edb05366.json",
+    "paragraphCount": 42,
+    "sectionCount": 0,
+    "articleCount": 24
+  },
+  {
+    "slug": "law-41153190da",
+    "title": "中华人民共和国生物安全法",
+    "outputPath": "data/processed/laws/law-41153190da.json",
+    "paragraphCount": 216,
+    "sectionCount": 10,
+    "articleCount": 88
+  },
+  {
+    "slug": "law-41e2571082",
+    "title": "中华人民共和国国防教育法",
+    "outputPath": "data/processed/laws/law-41e2571082.json",
+    "paragraphCount": 98,
+    "sectionCount": 6,
+    "articleCount": 42
+  },
+  {
+    "slug": "law-43678e6618",
+    "title": "中华人民共和国澳门特别行政区基本法",
+    "outputPath": "data/processed/laws/law-43678e6618.json",
+    "paragraphCount": 437,
+    "sectionCount": 16,
+    "articleCount": 145
+  },
+  {
+    "slug": "law-44659fa333",
+    "title": "中华人民共和国进出口商品检验法",
+    "outputPath": "data/processed/laws/law-44659fa333.json",
+    "paragraphCount": 63,
+    "sectionCount": 6,
+    "articleCount": 39
+  },
+  {
+    "slug": "law-4625e957f3",
+    "title": "中华人民共和国公共图书馆法",
+    "outputPath": "data/processed/laws/law-4625e957f3.json",
+    "paragraphCount": 108,
+    "sectionCount": 6,
+    "articleCount": 55
+  },
+  {
+    "slug": "law-463876ad57",
+    "title": "中华人民共和国企业所得税法",
+    "outputPath": "data/processed/laws/law-463876ad57.json",
+    "paragraphCount": 151,
+    "sectionCount": 8,
+    "articleCount": 60
+  },
+  {
+    "slug": "law-48be66e12d",
+    "title": "中华人民共和国澳门特别行政区驻军法",
+    "outputPath": "data/processed/laws/law-48be66e12d.json",
+    "paragraphCount": 70,
+    "sectionCount": 6,
+    "articleCount": 30
+  },
+  {
+    "slug": "law-4a9aed9831",
+    "title": "中华人民共和国监察法",
+    "outputPath": "data/processed/laws/law-4a9aed9831.json",
+    "paragraphCount": 221,
+    "sectionCount": 9,
+    "articleCount": 78
+  },
+  {
+    "slug": "law-4d48e773d3",
+    "title": "中华人民共和国科学技术进步法",
+    "outputPath": "data/processed/laws/law-4d48e773d3.json",
+    "paragraphCount": 260,
+    "sectionCount": 12,
+    "articleCount": 117
+  },
+  {
+    "slug": "law-4d9ca57549",
+    "title": "中华人民共和国证券投资基金法",
+    "outputPath": "data/processed/laws/law-4d9ca57549.json",
+    "paragraphCount": 462,
+    "sectionCount": 15,
+    "articleCount": 154
+  },
+  {
+    "slug": "law-5018b9eb76",
+    "title": "中华人民共和国固体废物污染环境防治法",
+    "outputPath": "data/processed/laws/law-5018b9eb76.json",
+    "paragraphCount": 300,
+    "sectionCount": 9,
+    "articleCount": 126
+  },
+  {
+    "slug": "law-50bb23401f",
+    "title": "中华人民共和国能源法",
+    "outputPath": "data/processed/laws/law-50bb23401f.json",
+    "paragraphCount": 172,
+    "sectionCount": 9,
+    "articleCount": 80
+  },
+  {
+    "slug": "law-52481143a9",
+    "title": "中华人民共和国关税法",
+    "outputPath": "data/processed/laws/law-52481143a9.json",
+    "paragraphCount": 221,
+    "sectionCount": 7,
+    "articleCount": 72
+  },
+  {
+    "slug": "law-5323b557ef",
+    "title": "中华人民共和国海岛保护法",
+    "outputPath": "data/processed/laws/law-5323b557ef.json",
+    "paragraphCount": 123,
+    "sectionCount": 10,
+    "articleCount": 58
+  },
+  {
+    "slug": "law-571c241ce0",
+    "title": "中华人民共和国红十字会法",
+    "outputPath": "data/processed/laws/law-571c241ce0.json",
+    "paragraphCount": 96,
+    "sectionCount": 7,
+    "articleCount": 30
+  },
+  {
+    "slug": "law-574695b1a9",
+    "title": "中华人民共和国现役军官法",
+    "outputPath": "data/processed/laws/law-574695b1a9.json",
+    "paragraphCount": 155,
+    "sectionCount": 8,
+    "articleCount": 54
+  },
+  {
+    "slug": "law-589af18f36",
+    "title": "中华人民共和国监狱法",
+    "outputPath": "data/processed/laws/law-589af18f36.json",
+    "paragraphCount": 178,
+    "sectionCount": 19,
+    "articleCount": 78
+  },
+  {
+    "slug": "law-59e0f182a4",
+    "title": "中华人民共和国水污染防治法",
+    "outputPath": "data/processed/laws/law-59e0f182a4.json",
+    "paragraphCount": 244,
+    "sectionCount": 13,
+    "articleCount": 103
+  },
+  {
+    "slug": "law-5a7576b5db",
+    "title": "中华人民共和国资源税法",
+    "outputPath": "data/processed/laws/law-5a7576b5db.json",
+    "paragraphCount": 161,
+    "sectionCount": 0,
+    "articleCount": 17
+  },
+  {
+    "slug": "law-5cc255e0b2",
+    "title": "中华人民共和国气象法",
+    "outputPath": "data/processed/laws/law-5cc255e0b2.json",
+    "paragraphCount": 102,
+    "sectionCount": 8,
+    "articleCount": 45
+  },
+  {
+    "slug": "law-5ccbf2abf6",
+    "title": "中华人民共和国商业银行法",
+    "outputPath": "data/processed/laws/law-5ccbf2abf6.json",
+    "paragraphCount": 243,
+    "sectionCount": 9,
+    "articleCount": 95
+  },
+  {
+    "slug": "law-5fd04c8db7",
+    "title": "中华人民共和国农村集体经济组织法",
+    "outputPath": "data/processed/laws/law-5fd04c8db7.json",
+    "paragraphCount": 244,
+    "sectionCount": 8,
+    "articleCount": 67
+  },
+  {
+    "slug": "law-6012917805",
+    "title": "中华人民共和国铁路法",
+    "outputPath": "data/processed/laws/law-6012917805.json",
+    "paragraphCount": 134,
+    "sectionCount": 6,
+    "articleCount": 74
+  },
+  {
+    "slug": "law-6226ba40d8",
+    "title": "中华人民共和国海关关衔条例",
+    "outputPath": "data/processed/laws/law-6226ba40d8.json",
+    "paragraphCount": 63,
+    "sectionCount": 6,
+    "articleCount": 23
+  },
+  {
+    "slug": "law-62dadf2361",
+    "title": "中华人民共和国航道法",
+    "outputPath": "data/processed/laws/law-62dadf2361.json",
+    "paragraphCount": 108,
+    "sectionCount": 7,
+    "articleCount": 48
+  },
+  {
+    "slug": "law-62f3c8b37e",
+    "title": "中华人民共和国畜牧法",
+    "outputPath": "data/processed/laws/law-62f3c8b37e.json",
+    "paragraphCount": 213,
+    "sectionCount": 10,
+    "articleCount": 94
+  },
+  {
+    "slug": "law-6332aa3491",
+    "title": "中华人民共和国全国人民代表大会议事规则",
+    "outputPath": "data/processed/laws/law-6332aa3491.json",
+    "paragraphCount": 147,
+    "sectionCount": 18,
+    "articleCount": 66
+  },
+  {
+    "slug": "law-63d98aeca8",
+    "title": "中华人民共和国反外国制裁法",
+    "outputPath": "data/processed/laws/law-63d98aeca8.json",
+    "paragraphCount": 30,
+    "sectionCount": 0,
+    "articleCount": 16
+  },
+  {
+    "slug": "law-66d712f396",
+    "title": "中华人民共和国出境入境管理法",
+    "outputPath": "data/processed/laws/law-66d712f396.json",
+    "paragraphCount": 271,
+    "sectionCount": 12,
+    "articleCount": 93
+  },
+  {
+    "slug": "law-684da6d3f7",
+    "title": "中华人民共和国反食品浪费法",
+    "outputPath": "data/processed/laws/law-684da6d3f7.json",
+    "paragraphCount": 72,
+    "sectionCount": 0,
+    "articleCount": 32
+  },
+  {
+    "slug": "law-68dce69e40",
+    "title": "中华人民共和国全国人民代表大会组织法",
+    "outputPath": "data/processed/laws/law-68dce69e40.json",
+    "paragraphCount": 120,
+    "sectionCount": 5,
+    "articleCount": 49
+  },
+  {
+    "slug": "law-698dd68055",
+    "title": "中华人民共和国科学技术普及法",
+    "outputPath": "data/processed/laws/law-698dd68055.json",
+    "paragraphCount": 108,
+    "sectionCount": 8,
+    "articleCount": 60
+  },
+  {
+    "slug": "law-69ca17408c",
+    "title": "中华人民共和国农民专业合作社法",
+    "outputPath": "data/processed/laws/law-69ca17408c.json",
+    "paragraphCount": 205,
+    "sectionCount": 10,
+    "articleCount": 74
+  },
+  {
+    "slug": "law-6e19f06baa",
+    "title": "中华人民共和国人民陪审员法",
+    "outputPath": "data/processed/laws/law-6e19f06baa.json",
+    "paragraphCount": 74,
+    "sectionCount": 0,
+    "articleCount": 32
+  },
+  {
+    "slug": "law-703831d503",
+    "title": "中华人民共和国职业病防治法",
+    "outputPath": "data/processed/laws/law-703831d503.json",
+    "paragraphCount": 250,
+    "sectionCount": 7,
+    "articleCount": 88
+  },
+  {
+    "slug": "law-74c36b1730",
+    "title": "中华人民共和国黑土地保护法",
+    "outputPath": "data/processed/laws/law-74c36b1730.json",
+    "paragraphCount": 84,
+    "sectionCount": 0,
+    "articleCount": 38
+  },
+  {
+    "slug": "law-7679d0ee6d",
+    "title": "中华人民共和国海商法",
+    "outputPath": "data/processed/laws/law-7679d0ee6d.json",
+    "paragraphCount": 773,
+    "sectionCount": 86,
+    "articleCount": 310
+  },
+  {
+    "slug": "law-76dbec6a8a",
+    "title": "中华人民共和国教育法",
+    "outputPath": "data/processed/laws/law-76dbec6a8a.json",
+    "paragraphCount": 206,
+    "sectionCount": 10,
+    "articleCount": 86
+  },
+  {
+    "slug": "law-782a466a52",
+    "title": "中华人民共和国国籍法",
+    "outputPath": "data/processed/laws/law-782a466a52.json",
+    "paragraphCount": 26,
+    "sectionCount": 0,
+    "articleCount": 18
+  },
+  {
+    "slug": "law-7962fdb163",
+    "title": "中华人民共和国中医药法",
+    "outputPath": "data/processed/laws/law-7962fdb163.json",
+    "paragraphCount": 123,
+    "sectionCount": 9,
+    "articleCount": 63
+  },
+  {
+    "slug": "law-7b8d952b7d",
+    "title": "中华人民共和国海关法",
+    "outputPath": "data/processed/laws/law-7b8d952b7d.json",
+    "paragraphCount": 246,
+    "sectionCount": 9,
+    "articleCount": 102
+  },
+  {
+    "slug": "law-7fda437f4f",
+    "title": "中华人民共和国耕地占用税法",
+    "outputPath": "data/processed/laws/law-7fda437f4f.json",
+    "paragraphCount": 56,
+    "sectionCount": 0,
+    "articleCount": 16
+  },
+  {
+    "slug": "law-809f00c0f4",
+    "title": "中华人民共和国煤炭法",
+    "outputPath": "data/processed/laws/law-809f00c0f4.json",
+    "paragraphCount": 116,
+    "sectionCount": 8,
+    "articleCount": 67
+  },
+  {
+    "slug": "law-8198937445",
+    "title": "中华人民共和国引渡法",
+    "outputPath": "data/processed/laws/law-8198937445.json",
+    "paragraphCount": 137,
+    "sectionCount": 11,
+    "articleCount": 55
+  },
+  {
+    "slug": "law-83054aa703",
+    "title": "中华人民共和国印花税法",
+    "outputPath": "data/processed/laws/law-83054aa703.json",
+    "paragraphCount": 91,
+    "sectionCount": 0,
+    "articleCount": 20
+  },
+  {
+    "slug": "law-8473bf900b",
+    "title": "中华人民共和国非物质文化遗产法",
+    "outputPath": "data/processed/laws/law-8473bf900b.json",
+    "paragraphCount": 102,
+    "sectionCount": 6,
+    "articleCount": 45
+  },
+  {
+    "slug": "law-86948d8df1",
+    "title": "中华人民共和国海南自由贸易港法",
+    "outputPath": "data/processed/laws/law-86948d8df1.json",
+    "paragraphCount": 105,
+    "sectionCount": 8,
+    "articleCount": 57
+  },
+  {
+    "slug": "law-86a496b2cc",
+    "title": "中华人民共和国车船税法",
+    "outputPath": "data/processed/laws/law-86a496b2cc.json",
+    "paragraphCount": 81,
+    "sectionCount": 0,
+    "articleCount": 13
+  },
+  {
+    "slug": "law-89005798e3",
+    "title": "中华人民共和国防洪法",
+    "outputPath": "data/processed/laws/law-89005798e3.json",
+    "paragraphCount": 152,
+    "sectionCount": 8,
+    "articleCount": 65
+  },
+  {
+    "slug": "law-899829ba27",
+    "title": "中华人民共和国精神卫生法",
+    "outputPath": "data/processed/laws/law-899829ba27.json",
+    "paragraphCount": 190,
+    "sectionCount": 7,
+    "articleCount": 85
+  },
+  {
+    "slug": "law-89b9e7bc5b",
+    "title": "中华人民共和国票据法",
+    "outputPath": "data/processed/laws/law-89b9e7bc5b.json",
+    "paragraphCount": 271,
+    "sectionCount": 13,
+    "articleCount": 110
+  },
+  {
+    "slug": "law-8b3c4bf6e5",
+    "title": "中华人民共和国海域使用管理法",
+    "outputPath": "data/processed/laws/law-8b3c4bf6e5.json",
+    "paragraphCount": 136,
+    "sectionCount": 8,
+    "articleCount": 54
+  },
+  {
+    "slug": "law-8c1b72ca54",
+    "title": "中华人民共和国粮食安全保障法",
+    "outputPath": "data/processed/laws/law-8c1b72ca54.json",
+    "paragraphCount": 170,
+    "sectionCount": 11,
+    "articleCount": 74
+  },
+  {
+    "slug": "law-8cb93801bb",
+    "title": "中华人民共和国人民武装警察法",
+    "outputPath": "data/processed/laws/law-8cb93801bb.json",
+    "paragraphCount": 135,
+    "sectionCount": 8,
+    "articleCount": 51
+  },
+  {
+    "slug": "law-8d0e921fb4",
+    "title": "中华人民共和国矿产资源法",
+    "outputPath": "data/processed/laws/law-8d0e921fb4.json",
+    "paragraphCount": 200,
+    "sectionCount": 8,
+    "articleCount": 80
+  },
+  {
+    "slug": "law-8d1cae694f",
+    "title": "中华人民共和国国歌法",
+    "outputPath": "data/processed/laws/law-8d1cae694f.json",
+    "paragraphCount": 35,
+    "sectionCount": 0,
+    "articleCount": 16
+  },
+  {
+    "slug": "law-8d296329b7",
+    "title": "中华人民共和国反家庭暴力法",
+    "outputPath": "data/processed/laws/law-8d296329b7.json",
+    "paragraphCount": 78,
+    "sectionCount": 6,
+    "articleCount": 38
+  },
+  {
+    "slug": "law-8da82f8f8a",
+    "title": "中华人民共和国中国人民银行法",
+    "outputPath": "data/processed/laws/law-8da82f8f8a.json",
+    "paragraphCount": 120,
+    "sectionCount": 8,
+    "articleCount": 53
+  },
+  {
+    "slug": "law-8daf4a841f",
+    "title": "中华人民共和国母婴保健法",
+    "outputPath": "data/processed/laws/law-8daf4a841f.json",
+    "paragraphCount": 89,
+    "sectionCount": 7,
+    "articleCount": 39
+  },
+  {
+    "slug": "law-8eb7e663aa",
+    "title": "中华人民共和国民用航空法",
+    "outputPath": "data/processed/laws/law-8eb7e663aa.json",
+    "paragraphCount": 601,
+    "sectionCount": 66,
+    "articleCount": 262
+  },
+  {
+    "slug": "law-9097e6079d",
+    "title": "中华人民共和国湿地保护法",
+    "outputPath": "data/processed/laws/law-9097e6079d.json",
+    "paragraphCount": 144,
+    "sectionCount": 7,
+    "articleCount": 65
+  },
+  {
+    "slug": "law-922c974ba5",
+    "title": "中华人民共和国民族区域自治法",
+    "outputPath": "data/processed/laws/law-922c974ba5.json",
+    "paragraphCount": 157,
+    "sectionCount": 7,
+    "articleCount": 74
+  },
+  {
+    "slug": "law-94108ca2ea",
+    "title": "中华人民共和国人民检察院组织法",
+    "outputPath": "data/processed/laws/law-94108ca2ea.json",
+    "paragraphCount": 110,
+    "sectionCount": 6,
+    "articleCount": 53
+  },
+  {
+    "slug": "law-945dc6f5af",
+    "title": "中华人民共和国领事特权与豁免条例",
+    "outputPath": "data/processed/laws/law-945dc6f5af.json",
+    "paragraphCount": 74,
+    "sectionCount": 0,
+    "articleCount": 29
+  },
+  {
+    "slug": "law-94d4a693d0",
+    "title": "中华人民共和国军事设施保护法",
+    "outputPath": "data/processed/laws/law-94d4a693d0.json",
+    "paragraphCount": 164,
+    "sectionCount": 8,
+    "articleCount": 72
+  },
+  {
+    "slug": "law-95ac930197",
+    "title": "中华人民共和国人民调解法",
+    "outputPath": "data/processed/laws/law-95ac930197.json",
+    "paragraphCount": 78,
+    "sectionCount": 6,
+    "articleCount": 35
+  },
+  {
+    "slug": "law-9737ffce50",
+    "title": "中华人民共和国外交特权与豁免条例",
+    "outputPath": "data/processed/laws/law-9737ffce50.json",
+    "paragraphCount": 71,
+    "sectionCount": 0,
+    "articleCount": 29
+  },
+  {
+    "slug": "law-97480b2073",
+    "title": "中华人民共和国深海海底区域资源勘探开发法",
+    "outputPath": "data/processed/laws/law-97480b2073.json",
+    "paragraphCount": 82,
+    "sectionCount": 7,
+    "articleCount": 29
+  },
+  {
+    "slug": "law-98149596bd",
+    "title": "中华人民共和国缔结条约程序法",
+    "outputPath": "data/processed/laws/law-98149596bd.json",
+    "paragraphCount": 57,
+    "sectionCount": 0,
+    "articleCount": 21
+  },
+  {
+    "slug": "law-992a831900",
+    "title": "中华人民共和国农村土地承包法",
+    "outputPath": "data/processed/laws/law-992a831900.json",
+    "paragraphCount": 181,
+    "sectionCount": 10,
+    "articleCount": 70
+  },
+  {
+    "slug": "law-9db26a8a65",
+    "title": "中华人民共和国政府采购法",
+    "outputPath": "data/processed/laws/law-9db26a8a65.json",
+    "paragraphCount": 208,
+    "sectionCount": 9,
+    "articleCount": 88
+  },
+  {
+    "slug": "law-9e0713ca90",
+    "title": "中华人民共和国反恐怖主义法",
+    "outputPath": "data/processed/laws/law-9e0713ca90.json",
+    "paragraphCount": 243,
+    "sectionCount": 10,
+    "articleCount": 97
+  },
+  {
+    "slug": "law-9f4683e022",
+    "title": "中华人民共和国公路法",
+    "outputPath": "data/processed/laws/law-9f4683e022.json",
+    "paragraphCount": 166,
+    "sectionCount": 9,
+    "articleCount": 87
+  },
+  {
+    "slug": "law-9f66b8a118",
+    "title": "中华人民共和国烟叶税法",
+    "outputPath": "data/processed/laws/law-9f66b8a118.json",
+    "paragraphCount": 12,
+    "sectionCount": 0,
+    "articleCount": 10
+  },
+  {
+    "slug": "law-a00bdffd51",
+    "title": "中华人民共和国农业法",
+    "outputPath": "data/processed/laws/law-a00bdffd51.json",
+    "paragraphCount": 221,
+    "sectionCount": 13,
+    "articleCount": 99
+  },
+  {
+    "slug": "law-a011ca05bb",
+    "title": "中华人民共和国人口与计划生育法",
+    "outputPath": "data/processed/laws/law-a011ca05bb.json",
+    "paragraphCount": 104,
+    "sectionCount": 7,
+    "articleCount": 48
+  },
+  {
+    "slug": "law-a030e7117b",
+    "title": "中华人民共和国海事诉讼特别程序法",
+    "outputPath": "data/processed/laws/law-a030e7117b.json",
+    "paragraphCount": 277,
+    "sectionCount": 19,
+    "articleCount": 127
+  },
+  {
+    "slug": "law-a1a798e9ae",
+    "title": "中华人民共和国突发事件应对法",
+    "outputPath": "data/processed/laws/law-a1a798e9ae.json",
+    "paragraphCount": 224,
+    "sectionCount": 8,
+    "articleCount": 106
+  },
+  {
+    "slug": "law-a31c3c6a0f",
+    "title": "中华人民共和国城市维护建设税法",
+    "outputPath": "data/processed/laws/law-a31c3c6a0f.json",
+    "paragraphCount": 19,
+    "sectionCount": 0,
+    "articleCount": 11
+  },
+  {
+    "slug": "law-a6471adb19",
+    "title": "中华人民共和国学前教育法",
+    "outputPath": "data/processed/laws/law-a6471adb19.json",
+    "paragraphCount": 197,
+    "sectionCount": 9,
+    "articleCount": 85
+  },
+  {
+    "slug": "law-a6ba3b4982",
+    "title": "中华人民共和国促进科技成果转化法",
+    "outputPath": "data/processed/laws/law-a6ba3b4982.json",
+    "paragraphCount": 111,
+    "sectionCount": 6,
+    "articleCount": 52
+  },
+  {
+    "slug": "law-a6eed84e72",
+    "title": "中华人民共和国森林法",
+    "outputPath": "data/processed/laws/law-a6eed84e72.json",
+    "paragraphCount": 206,
+    "sectionCount": 9,
+    "articleCount": 84
+  },
+  {
+    "slug": "law-a7458586db",
+    "title": "中华人民共和国就业促进法",
+    "outputPath": "data/processed/laws/law-a7458586db.json",
+    "paragraphCount": 146,
+    "sectionCount": 9,
+    "articleCount": 69
+  },
+  {
+    "slug": "law-a87353ba59",
+    "title": "中华人民共和国城乡规划法",
+    "outputPath": "data/processed/laws/law-a87353ba59.json",
+    "paragraphCount": 160,
+    "sectionCount": 7,
+    "articleCount": 70
+  },
+  {
+    "slug": "law-a9a24478d7",
+    "title": "中华人民共和国环境影响评价法",
+    "outputPath": "data/processed/laws/law-a9a24478d7.json",
+    "paragraphCount": 99,
+    "sectionCount": 5,
+    "articleCount": 37
+  },
+  {
+    "slug": "law-ab232ef031",
+    "title": "中华人民共和国民办教育促进法",
+    "outputPath": "data/processed/laws/law-ab232ef031.json",
+    "paragraphCount": 166,
+    "sectionCount": 10,
+    "articleCount": 67
+  },
+  {
+    "slug": "law-ac3423e04f",
+    "title": "中华人民共和国拍卖法",
+    "outputPath": "data/processed/laws/law-ac3423e04f.json",
+    "paragraphCount": 139,
+    "sectionCount": 14,
+    "articleCount": 68
+  },
+  {
+    "slug": "law-ac622a2d4f",
+    "title": "中华人民共和国农业技术推广法",
+    "outputPath": "data/processed/laws/law-ac622a2d4f.json",
+    "paragraphCount": 100,
+    "sectionCount": 6,
+    "articleCount": 39
+  },
+  {
+    "slug": "law-ad403c637c",
+    "title": "中华人民共和国核安全法",
+    "outputPath": "data/processed/laws/law-ad403c637c.json",
+    "paragraphCount": 288,
+    "sectionCount": 8,
+    "articleCount": 94
+  },
+  {
+    "slug": "law-ad55cb0044",
+    "title": "反分裂国家法",
+    "outputPath": "data/processed/laws/law-ad55cb0044.json",
+    "paragraphCount": 30,
+    "sectionCount": 0,
+    "articleCount": 10
+  },
+  {
+    "slug": "law-ad781f06b3",
+    "title": "中华人民共和国户口登记条例",
+    "outputPath": "data/processed/laws/law-ad781f06b3.json",
+    "paragraphCount": 53,
+    "sectionCount": 0,
+    "articleCount": 24
+  },
+  {
+    "slug": "law-af3670784e",
+    "title": "中华人民共和国放射性污染防治法",
+    "outputPath": "data/processed/laws/law-af3670784e.json",
+    "paragraphCount": 137,
+    "sectionCount": 8,
+    "articleCount": 63
+  },
+  {
+    "slug": "law-afd4174601",
+    "title": "中华人民共和国村民委员会组织法",
+    "outputPath": "data/processed/laws/law-afd4174601.json",
+    "paragraphCount": 144,
+    "sectionCount": 14,
+    "articleCount": 50
+  },
+  {
+    "slug": "law-b468cf47e2",
+    "title": "中华人民共和国清洁生产促进法",
+    "outputPath": "data/processed/laws/law-b468cf47e2.json",
+    "paragraphCount": 83,
+    "sectionCount": 6,
+    "articleCount": 40
+  },
+  {
+    "slug": "law-b6fc9c91eb",
+    "title": "中华人民共和国基本医疗卫生与健康促进法",
+    "outputPath": "data/processed/laws/law-b6fc9c91eb.json",
+    "paragraphCount": 235,
+    "sectionCount": 10,
+    "articleCount": 110
+  },
+  {
+    "slug": "law-b8c372474e",
+    "title": "中华人民共和国水土保持法",
+    "outputPath": "data/processed/laws/law-b8c372474e.json",
+    "paragraphCount": 123,
+    "sectionCount": 7,
+    "articleCount": 60
+  },
+  {
+    "slug": "law-b94c79783f",
+    "title": "中华人民共和国黄河保护法",
+    "outputPath": "data/processed/laws/law-b94c79783f.json",
+    "paragraphCount": 286,
+    "sectionCount": 11,
+    "articleCount": 122
+  },
+  {
+    "slug": "law-b98897c6df",
+    "title": "中华人民共和国预备役人员法",
+    "outputPath": "data/processed/laws/law-b98897c6df.json",
+    "paragraphCount": 170,
+    "sectionCount": 10,
+    "articleCount": 65
+  },
+  {
+    "slug": "law-be07be63a3",
+    "title": "中华人民共和国集会游行示威法",
+    "outputPath": "data/processed/laws/law-be07be63a3.json",
+    "paragraphCount": 83,
+    "sectionCount": 5,
+    "articleCount": 36
+  },
+  {
+    "slug": "law-be2d352d0c",
+    "title": "中华人民共和国人民防空法",
+    "outputPath": "data/processed/laws/law-be2d352d0c.json",
+    "paragraphCount": 115,
+    "sectionCount": 9,
+    "articleCount": 53
+  },
+  {
+    "slug": "law-becf00d568",
+    "title": "中华人民共和国国境卫生检疫法",
+    "outputPath": "data/processed/laws/law-becf00d568.json",
+    "paragraphCount": 135,
+    "sectionCount": 8,
+    "articleCount": 57
+  },
+  {
+    "slug": "law-c025646800",
+    "title": "中华人民共和国期货和衍生品法",
+    "outputPath": "data/processed/laws/law-c025646800.json",
+    "paragraphCount": 420,
+    "sectionCount": 16,
+    "articleCount": 155
+  },
+  {
+    "slug": "law-c0646902dd",
+    "title": "中华人民共和国邮政法",
+    "outputPath": "data/processed/laws/law-c0646902dd.json",
+    "paragraphCount": 221,
+    "sectionCount": 9,
+    "articleCount": 87
+  },
+  {
+    "slug": "law-c0aab3faa9",
+    "title": "中华人民共和国反间谍法",
+    "outputPath": "data/processed/laws/law-c0aab3faa9.json",
+    "paragraphCount": 138,
+    "sectionCount": 6,
+    "articleCount": 71
+  },
+  {
+    "slug": "law-c19762ca25",
+    "title": "中华人民共和国国家通用语言文字法",
+    "outputPath": "data/processed/laws/law-c19762ca25.json",
+    "paragraphCount": 78,
+    "sectionCount": 10,
+    "articleCount": 32
+  },
+  {
+    "slug": "law-c2aea0b856",
+    "title": "中华人民共和国对外关系法",
+    "outputPath": "data/processed/laws/law-c2aea0b856.json",
+    "paragraphCount": 87,
+    "sectionCount": 6,
+    "articleCount": 45
+  },
+  {
+    "slug": "law-c48cd7435d",
+    "title": "中华人民共和国环境保护税法",
+    "outputPath": "data/processed/laws/law-c48cd7435d.json",
+    "paragraphCount": 397,
+    "sectionCount": 10,
+    "articleCount": 29
+  },
+  {
+    "slug": "law-c674c950be",
+    "title": "中华人民共和国社区矫正法",
+    "outputPath": "data/processed/laws/law-c674c950be.json",
+    "paragraphCount": 134,
+    "sectionCount": 9,
+    "articleCount": 63
+  },
+  {
+    "slug": "law-c7381e5758",
+    "title": "中华人民共和国国防法",
+    "outputPath": "data/processed/laws/law-c7381e5758.json",
+    "paragraphCount": 168,
+    "sectionCount": 12,
+    "articleCount": 73
+  },
+  {
+    "slug": "law-c86388bc91",
+    "title": "中华人民共和国高等教育法",
+    "outputPath": "data/processed/laws/law-c86388bc91.json",
+    "paragraphCount": 164,
+    "sectionCount": 8,
+    "articleCount": 69
+  },
+  {
+    "slug": "law-c8d75000a7",
+    "title": "中华人民共和国青藏高原生态保护法",
+    "outputPath": "data/processed/laws/law-c8d75000a7.json",
+    "paragraphCount": 129,
+    "sectionCount": 7,
+    "articleCount": 63
+  },
+  {
+    "slug": "law-c944951e9e",
+    "title": "中华人民共和国长江保护法",
+    "outputPath": "data/processed/laws/law-c944951e9e.json",
+    "paragraphCount": 200,
+    "sectionCount": 9,
+    "articleCount": 96
+  },
+  {
+    "slug": "law-ccc60f022b",
+    "title": "中华人民共和国公职人员政务处分法",
+    "outputPath": "data/processed/laws/law-ccc60f022b.json",
+    "paragraphCount": 218,
+    "sectionCount": 7,
+    "articleCount": 68
+  },
+  {
+    "slug": "law-cd0fc831d4",
+    "title": "中华人民共和国国际刑事司法协助法",
+    "outputPath": "data/processed/laws/law-cd0fc831d4.json",
+    "paragraphCount": 247,
+    "sectionCount": 23,
+    "articleCount": 70
+  },
+  {
+    "slug": "law-cd2d84491d",
+    "title": "中华人民共和国农业机械化促进法",
+    "outputPath": "data/processed/laws/law-cd2d84491d.json",
+    "paragraphCount": 69,
+    "sectionCount": 8,
+    "articleCount": 35
+  },
+  {
+    "slug": "law-cd2f1f5b38",
+    "title": "中华人民共和国信托法",
+    "outputPath": "data/processed/laws/law-cd2f1f5b38.json",
+    "paragraphCount": 182,
+    "sectionCount": 10,
+    "articleCount": 74
+  },
+  {
+    "slug": "law-cd3b385dd1",
+    "title": "中华人民共和国渔业法",
+    "outputPath": "data/processed/laws/law-cd3b385dd1.json",
+    "paragraphCount": 227,
+    "sectionCount": 14,
+    "articleCount": 90
+  },
+  {
+    "slug": "law-cd4d392750",
+    "title": "中华人民共和国国家赔偿法",
+    "outputPath": "data/processed/laws/law-cd4d392750.json",
+    "paragraphCount": 150,
+    "sectionCount": 12,
+    "articleCount": 42
+  },
+  {
+    "slug": "law-cebfc66f11",
+    "title": "中华人民共和国公证法",
+    "outputPath": "data/processed/laws/law-cebfc66f11.json",
+    "paragraphCount": 151,
+    "sectionCount": 7,
+    "articleCount": 47
+  },
+  {
+    "slug": "law-cf97bb4be6",
+    "title": "中华人民共和国预防未成年人犯罪法",
+    "outputPath": "data/processed/laws/law-cf97bb4be6.json",
+    "paragraphCount": 146,
+    "sectionCount": 7,
+    "articleCount": 68
+  },
+  {
+    "slug": "law-d23d7d5023",
+    "title": "中华人民共和国土壤污染防治法",
+    "outputPath": "data/processed/laws/law-d23d7d5023.json",
+    "paragraphCount": 256,
+    "sectionCount": 10,
+    "articleCount": 99
+  },
+  {
+    "slug": "law-d371151d30",
+    "title": "中华人民共和国水法",
+    "outputPath": "data/processed/laws/law-d371151d30.json",
+    "paragraphCount": 166,
+    "sectionCount": 8,
+    "articleCount": 82
+  },
+  {
+    "slug": "law-d3a66d628b",
+    "title": "中华人民共和国职业教育法",
+    "outputPath": "data/processed/laws/law-d3a66d628b.json",
+    "paragraphCount": 175,
+    "sectionCount": 8,
+    "articleCount": 69
+  },
+  {
+    "slug": "law-d3c54e7893",
+    "title": "中华人民共和国节约能源法",
+    "outputPath": "data/processed/laws/law-d3c54e7893.json",
+    "paragraphCount": 164,
+    "sectionCount": 13,
+    "articleCount": 87
+  },
+  {
+    "slug": "law-d42834f991",
+    "title": "中华人民共和国消防救援衔条例",
+    "outputPath": "data/processed/laws/law-d42834f991.json",
+    "paragraphCount": 102,
+    "sectionCount": 7,
+    "articleCount": 28
+  },
+  {
+    "slug": "law-d6cb3d521f",
+    "title": "中华人民共和国残疾人保障法",
+    "outputPath": "data/processed/laws/law-d6cb3d521f.json",
+    "paragraphCount": 165,
+    "sectionCount": 9,
+    "articleCount": 68
+  },
+  {
+    "slug": "law-d717d3f81c",
+    "title": "中华人民共和国国家公园法",
+    "outputPath": "data/processed/laws/law-d717d3f81c.json",
+    "paragraphCount": 130,
+    "sectionCount": 14,
+    "articleCount": 63
+  },
+  {
+    "slug": "law-d9518d9f38",
+    "title": "中华人民共和国全国人民代表大会和地方各级人民代表大会代表法",
+    "outputPath": "data/processed/laws/law-d9518d9f38.json",
+    "paragraphCount": 158,
+    "sectionCount": 6,
+    "articleCount": 65
+  },
+  {
+    "slug": "law-d95503e396",
+    "title": "中华人民共和国国务院组织法",
+    "outputPath": "data/processed/laws/law-d95503e396.json",
+    "paragraphCount": 34,
+    "sectionCount": 0,
+    "articleCount": 20
+  },
+  {
+    "slug": "law-db3d69f41c",
+    "title": "中华人民共和国大气污染防治法",
+    "outputPath": "data/processed/laws/law-db3d69f41c.json",
+    "paragraphCount": 276,
+    "sectionCount": 13,
+    "articleCount": 129
+  },
+  {
+    "slug": "law-dbe8fbcf0c",
+    "title": "中华人民共和国枪支管理法",
+    "outputPath": "data/processed/laws/law-dbe8fbcf0c.json",
+    "paragraphCount": 119,
+    "sectionCount": 8,
+    "articleCount": 50
+  },
+  {
+    "slug": "law-dded1f7d3a",
+    "title": "中华人民共和国外国国家豁免法",
+    "outputPath": "data/processed/laws/law-dded1f7d3a.json",
+    "paragraphCount": 78,
+    "sectionCount": 0,
+    "articleCount": 23
+  },
+  {
+    "slug": "law-dfa0cf7aeb",
+    "title": "中华人民共和国港口法",
+    "outputPath": "data/processed/laws/law-dfa0cf7aeb.json",
+    "paragraphCount": 120,
+    "sectionCount": 6,
+    "articleCount": 62
+  },
+  {
+    "slug": "law-dfa630463b",
+    "title": "中华人民共和国海洋环境保护法",
+    "outputPath": "data/processed/laws/law-dfa630463b.json",
+    "paragraphCount": 326,
+    "sectionCount": 9,
+    "articleCount": 124
+  },
+  {
+    "slug": "law-e006aacc71",
+    "title": "中华人民共和国民族团结进步促进法",
+    "outputPath": "data/processed/laws/law-e006aacc71.json",
+    "paragraphCount": 132,
+    "sectionCount": 7,
+    "articleCount": 65
+  },
+  {
+    "slug": "law-e51f180ab2",
+    "title": "中华人民共和国契税法",
+    "outputPath": "data/processed/laws/law-e51f180ab2.json",
+    "paragraphCount": 40,
+    "sectionCount": 0,
+    "articleCount": 16
+  },
+  {
+    "slug": "law-e5c60e88ad",
+    "title": "中华人民共和国档案法",
+    "outputPath": "data/processed/laws/law-e5c60e88ad.json",
+    "paragraphCount": 126,
+    "sectionCount": 8,
+    "articleCount": 53
+  },
+  {
+    "slug": "law-e65d684fa8",
+    "title": "中华人民共和国国防交通法",
+    "outputPath": "data/processed/laws/law-e65d684fa8.json",
+    "paragraphCount": 147,
+    "sectionCount": 9,
+    "articleCount": 60
+  },
+  {
+    "slug": "law-e7a53a5b6b",
+    "title": "中华人民共和国对外贸易法",
+    "outputPath": "data/processed/laws/law-e7a53a5b6b.json",
+    "paragraphCount": 177,
+    "sectionCount": 22,
+    "articleCount": 83
+  },
+  {
+    "slug": "law-e7ac2bb046",
+    "title": "中华人民共和国矿山安全法",
+    "outputPath": "data/processed/laws/law-e7ac2bb046.json",
+    "paragraphCount": 116,
+    "sectionCount": 8,
+    "articleCount": 50
+  },
+  {
+    "slug": "law-e836804815",
+    "title": "中华人民共和国突发公共卫生事件应对法",
+    "outputPath": "data/processed/laws/law-e836804815.json",
+    "paragraphCount": 166,
+    "sectionCount": 16,
+    "articleCount": 65
+  },
+  {
+    "slug": "law-e837c631ef",
+    "title": "中华人民共和国教师法",
+    "outputPath": "data/processed/laws/law-e837c631ef.json",
+    "paragraphCount": 114,
+    "sectionCount": 9,
+    "articleCount": 43
+  },
+  {
+    "slug": "law-e9e0721e2f",
+    "title": "中华人民共和国境外非政府组织境内活动管理法",
+    "outputPath": "data/processed/laws/law-e9e0721e2f.json",
+    "paragraphCount": 156,
+    "sectionCount": 7,
+    "articleCount": 54
+  },
+  {
+    "slug": "law-eb1260c4a1",
+    "title": "中华人民共和国公共文化服务保障法",
+    "outputPath": "data/processed/laws/law-eb1260c4a1.json",
+    "paragraphCount": 115,
+    "sectionCount": 6,
+    "articleCount": 65
+  },
+  {
+    "slug": "law-eb714926aa",
+    "title": "中华人民共和国测绘法",
+    "outputPath": "data/processed/laws/law-eb714926aa.json",
+    "paragraphCount": 150,
+    "sectionCount": 10,
+    "articleCount": 68
+  },
+  {
+    "slug": "law-ebb23336cd",
+    "title": "中华人民共和国车辆购置税法",
+    "outputPath": "data/processed/laws/law-ebb23336cd.json",
+    "paragraphCount": 32,
+    "sectionCount": 0,
+    "articleCount": 19
+  },
+  {
+    "slug": "law-ec3694af23",
+    "title": "中华人民共和国计量法",
+    "outputPath": "data/processed/laws/law-ec3694af23.json",
+    "paragraphCount": 56,
+    "sectionCount": 6,
+    "articleCount": 34
+  },
+  {
+    "slug": "law-ed05388bd7",
+    "title": "中华人民共和国老年人权益保障法",
+    "outputPath": "data/processed/laws/law-ed05388bd7.json",
+    "paragraphCount": 185,
+    "sectionCount": 9,
+    "articleCount": 85
+  },
+  {
+    "slug": "law-ee83238794",
+    "title": "中华人民共和国疫苗管理法",
+    "outputPath": "data/processed/laws/law-ee83238794.json",
+    "paragraphCount": 271,
+    "sectionCount": 11,
+    "articleCount": 100
+  },
+  {
+    "slug": "law-f13e45e11d",
+    "title": "中华人民共和国监察官法",
+    "outputPath": "data/processed/laws/law-f13e45e11d.json",
+    "paragraphCount": 185,
+    "sectionCount": 9,
+    "articleCount": 68
+  },
+  {
+    "slug": "law-f1bfd4b633",
+    "title": "中华人民共和国中小企业促进法",
+    "outputPath": "data/processed/laws/law-f1bfd4b633.json",
+    "paragraphCount": 115,
+    "sectionCount": 10,
+    "articleCount": 61
+  },
+  {
+    "slug": "law-f37f36a6f3",
+    "title": "中华人民共和国保守国家秘密法",
+    "outputPath": "data/processed/laws/law-f37f36a6f3.json",
+    "paragraphCount": 155,
+    "sectionCount": 6,
+    "articleCount": 65
+  },
+  {
+    "slug": "law-f44188c3ba",
+    "title": "中华人民共和国公益事业捐赠法",
+    "outputPath": "data/processed/laws/law-f44188c3ba.json",
+    "paragraphCount": 70,
+    "sectionCount": 6,
+    "articleCount": 32
+  },
+  {
+    "slug": "law-f45e145bbb",
+    "title": "中华人民共和国增值税法",
+    "outputPath": "data/processed/laws/law-f45e145bbb.json",
+    "paragraphCount": 118,
+    "sectionCount": 6,
+    "articleCount": 38
+  },
+  {
+    "slug": "law-f68c53aca8",
+    "title": "中华人民共和国噪声污染防治法",
+    "outputPath": "data/processed/laws/law-f68c53aca8.json",
+    "paragraphCount": 197,
+    "sectionCount": 9,
+    "articleCount": 90
+  },
+  {
+    "slug": "law-f762d1c6cb",
+    "title": "中华人民共和国地方各级人民代表大会和地方各级人民政府组织法",
+    "outputPath": "data/processed/laws/law-f762d1c6cb.json",
+    "paragraphCount": 291,
+    "sectionCount": 19,
+    "articleCount": 90
+  },
+  {
+    "slug": "law-f80aa26bfe",
+    "title": "中华人民共和国危险化学品安全法",
+    "outputPath": "data/processed/laws/law-f80aa26bfe.json",
+    "paragraphCount": 397,
+    "sectionCount": 20,
+    "articleCount": 127
+  },
+  {
+    "slug": "law-f92347d895",
+    "title": "中华人民共和国涉外民事关系法律适用法",
+    "outputPath": "data/processed/laws/law-f92347d895.json",
+    "paragraphCount": 76,
+    "sectionCount": 8,
+    "articleCount": 52
+  },
+  {
+    "slug": "law-f9b2c09563",
+    "title": "中华人民共和国英雄烈士保护法",
+    "outputPath": "data/processed/laws/law-f9b2c09563.json",
+    "paragraphCount": 58,
+    "sectionCount": 0,
+    "articleCount": 30
+  },
+  {
+    "slug": "law-fcb28dddb5",
+    "title": "中华人民共和国台湾同胞投资保护法",
+    "outputPath": "data/processed/laws/law-fcb28dddb5.json",
+    "paragraphCount": 22,
+    "sectionCount": 0,
+    "articleCount": 14
+  },
+  {
+    "slug": "law-fd8bffc337",
+    "title": "中华人民共和国会计法",
+    "outputPath": "data/processed/laws/law-fd8bffc337.json",
+    "paragraphCount": 134,
+    "sectionCount": 6,
+    "articleCount": 51
+  },
+  {
+    "slug": "law-fe6358efe8",
+    "title": "中华人民共和国乡村振兴促进法",
+    "outputPath": "data/processed/laws/law-fe6358efe8.json",
+    "paragraphCount": 148,
+    "sectionCount": 10,
+    "articleCount": 74
+  },
+  {
+    "slug": "lawyers-law",
+    "title": "中华人民共和国律师法",
+    "outputPath": "data/processed/laws/lawyers-law.json",
+    "paragraphCount": 180,
+    "sectionCount": 7,
+    "articleCount": 60
+  },
+  {
+    "slug": "legal-aid-law",
+    "title": "中华人民共和国法律援助法",
+    "outputPath": "data/processed/laws/legal-aid-law.json",
+    "paragraphCount": 168,
+    "sectionCount": 7,
+    "articleCount": 71
+  },
+  {
+    "slug": "legislation-law",
+    "title": "中华人民共和国立法法",
+    "outputPath": "data/processed/laws/legislation-law.json",
+    "paragraphCount": 278,
+    "sectionCount": 13,
+    "articleCount": 120
+  },
+  {
+    "slug": "military-service-law",
+    "title": "中华人民共和国兵役法",
+    "outputPath": "data/processed/laws/military-service-law.json",
+    "paragraphCount": 147,
+    "sectionCount": 11,
+    "articleCount": 65
+  },
+  {
+    "slug": "minors-protection-law",
+    "title": "中华人民共和国未成年人保护法",
+    "outputPath": "data/processed/laws/minors-protection-law.json",
+    "paragraphCount": 272,
+    "sectionCount": 9,
+    "articleCount": 132
+  },
+  {
+    "slug": "national-emblem-law",
+    "title": "中华人民共和国国徽法",
+    "outputPath": "data/processed/laws/national-emblem-law.json",
+    "paragraphCount": 78,
+    "sectionCount": 0,
+    "articleCount": 19
+  },
+  {
+    "slug": "national-flag-law",
+    "title": "中华人民共和国国旗法",
+    "outputPath": "data/processed/laws/national-flag-law.json",
+    "paragraphCount": 93,
+    "sectionCount": 0,
+    "articleCount": 24
+  },
+  {
+    "slug": "national-security-law",
+    "title": "中华人民共和国国家安全法",
+    "outputPath": "data/processed/laws/national-security-law.json",
+    "paragraphCount": 134,
+    "sectionCount": 12,
+    "articleCount": 84
+  },
+  {
+    "slug": "partnership-enterprise-law",
+    "title": "中华人民共和国合伙企业法",
+    "outputPath": "data/processed/laws/partnership-enterprise-law.json",
+    "paragraphCount": 249,
+    "sectionCount": 12,
+    "articleCount": 109
+  },
+  {
+    "slug": "patent-law",
+    "title": "中华人民共和国专利法",
+    "outputPath": "data/processed/laws/patent-law.json",
+    "paragraphCount": 190,
+    "sectionCount": 8,
+    "articleCount": 82
+  },
+  {
+    "slug": "patriotic-education-law",
+    "title": "中华人民共和国爱国主义教育法",
+    "outputPath": "data/processed/laws/patriotic-education-law.json",
+    "paragraphCount": 80,
+    "sectionCount": 5,
+    "articleCount": 40
+  },
+  {
+    "slug": "peoples-police-law",
+    "title": "中华人民共和国人民警察法",
+    "outputPath": "data/processed/laws/peoples-police-law.json",
+    "paragraphCount": 145,
+    "sectionCount": 8,
+    "articleCount": 52
+  },
+  {
+    "slug": "personal-information-protection-law",
+    "title": "中华人民共和国个人信息保护法",
+    "outputPath": "data/processed/laws/personal-information-protection-law.json",
+    "paragraphCount": 196,
+    "sectionCount": 11,
+    "articleCount": 74
+  },
+  {
+    "slug": "physicians-law",
+    "title": "中华人民共和国医师法",
+    "outputPath": "data/processed/laws/physicians-law.json",
+    "paragraphCount": 190,
+    "sectionCount": 7,
+    "articleCount": 67
+  },
+  {
+    "slug": "product-quality-law",
+    "title": "中华人民共和国产品质量法",
+    "outputPath": "data/processed/laws/product-quality-law.json",
+    "paragraphCount": 141,
+    "sectionCount": 8,
+    "articleCount": 74
+  },
+  {
+    "slug": "public-security-administration-punishments-law",
+    "title": "中华人民共和国治安管理处罚法",
+    "outputPath": "data/processed/laws/public-security-administration-punishments-law.json",
+    "paragraphCount": 424,
+    "sectionCount": 26,
+    "articleCount": 144
+  },
+  {
+    "slug": "road-traffic-safety-law",
+    "title": "中华人民共和国道路交通安全法",
+    "outputPath": "data/processed/laws/road-traffic-safety-law.json",
+    "paragraphCount": 310,
+    "sectionCount": 15,
+    "articleCount": 124
+  },
+  {
+    "slug": "securities-law",
+    "title": "中华人民共和国证券法",
+    "outputPath": "data/processed/laws/securities-law.json",
+    "paragraphCount": 607,
+    "sectionCount": 17,
+    "articleCount": 226
+  },
+  {
+    "slug": "sfjs-02a31d7163",
+    "title": "最高人民法院关于审理生态环境侵权责任纠纷案件适用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-02a31d7163.json",
+    "paragraphCount": 73,
+    "sectionCount": 0,
+    "articleCount": 29
+  },
+  {
+    "slug": "sfjs-055e0006a6",
+    "title": "最高人民法院关于网络查询、冻结被执行人存款的规定",
+    "outputPath": "data/processed/laws/sfjs-055e0006a6.json",
+    "paragraphCount": 31,
+    "sectionCount": 0,
+    "articleCount": 10
+  },
+  {
+    "slug": "sfjs-05609c5692",
+    "title": "最高人民法院关于知识产权民事诉讼证据的若干规定",
+    "outputPath": "data/processed/laws/sfjs-05609c5692.json",
+    "paragraphCount": 84,
+    "sectionCount": 0,
+    "articleCount": 33
+  },
+  {
+    "slug": "sfjs-066ef8b990",
+    "title": "最高人民法院关于执行担保若干问题的规定",
+    "outputPath": "data/processed/laws/sfjs-066ef8b990.json",
+    "paragraphCount": 26,
+    "sectionCount": 0,
+    "articleCount": 16
+  },
+  {
+    "slug": "sfjs-078c53d6b9",
+    "title": "最高人民法院关于内地与澳门特别行政区法院就民商事案件相互委托送达司法文书和调取证据的安排",
+    "outputPath": "data/processed/laws/sfjs-078c53d6b9.json",
+    "paragraphCount": 58,
+    "sectionCount": 0,
+    "articleCount": 27
+  },
+  {
+    "slug": "sfjs-095b1c053f",
+    "title": "最高人民法院关于民事执行中变更、追加当事人若干问题的规定",
+    "outputPath": "data/processed/laws/sfjs-095b1c053f.json",
+    "paragraphCount": 55,
+    "sectionCount": 0,
+    "articleCount": 35
+  },
+  {
+    "slug": "sfjs-09d0062049",
+    "title": "最高人民法院关于内地与澳门特别行政区就仲裁程序相互协助保全的安排",
+    "outputPath": "data/processed/laws/sfjs-09d0062049.json",
+    "paragraphCount": 41,
+    "sectionCount": 0,
+    "articleCount": 12
+  },
+  {
+    "slug": "sfjs-0bb4df4166",
+    "title": "最高人民法院关于审理网络消费纠纷案件适用法律若干问题的规定（一）",
+    "outputPath": "data/processed/laws/sfjs-0bb4df4166.json",
+    "paragraphCount": 32,
+    "sectionCount": 0,
+    "articleCount": 20
+  },
+  {
+    "slug": "sfjs-0c90d86229",
+    "title": "最高人民法院关于审理技术合同纠纷案件适用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-0c90d86229.json",
+    "paragraphCount": 114,
+    "sectionCount": 0,
+    "articleCount": 47
+  },
+  {
+    "slug": "sfjs-0e50d0dc4a",
+    "title": "最高人民法院关于审理商标民事纠纷案件适用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-0e50d0dc4a.json",
+    "paragraphCount": 53,
+    "sectionCount": 0,
+    "articleCount": 24
+  },
+  {
+    "slug": "sfjs-1061722245",
+    "title": "最高人民法院关于审理铁路运输人身损害赔偿纠纷案件适用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-1061722245.json",
+    "paragraphCount": 28,
+    "sectionCount": 0,
+    "articleCount": 13
+  },
+  {
+    "slug": "sfjs-10645b78a0",
+    "title": "最高人民法院关于第一审知识产权民事、行政案件管辖的若干规定",
+    "outputPath": "data/processed/laws/sfjs-10645b78a0.json",
+    "paragraphCount": 16,
+    "sectionCount": 0,
+    "articleCount": 6
+  },
+  {
+    "slug": "sfjs-129f5a94e9",
+    "title": "最高人民法院关于适用《中华人民共和国公司法》时间效力的若干规定",
+    "outputPath": "data/processed/laws/sfjs-129f5a94e9.json",
+    "paragraphCount": 37,
+    "sectionCount": 0,
+    "articleCount": 8
+  },
+  {
+    "slug": "sfjs-1a098d31c0",
+    "title": "最高人民法院关于审判人员在诉讼活动中执行回避制度若干问题的规定",
+    "outputPath": "data/processed/laws/sfjs-1a098d31c0.json",
+    "paragraphCount": 42,
+    "sectionCount": 0,
+    "articleCount": 15
+  },
+  {
+    "slug": "sfjs-1f6e12442f",
+    "title": "最高人民法院关于执行程序中计算迟延履行期间的债务利息适用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-1f6e12442f.json",
+    "paragraphCount": 23,
+    "sectionCount": 0,
+    "articleCount": 7
+  },
+  {
+    "slug": "sfjs-22da2d8661",
+    "title": "最高人民法院关于审理涉及计算机网络域名民事纠纷案件适用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-22da2d8661.json",
+    "paragraphCount": 28,
+    "sectionCount": 0,
+    "articleCount": 7
+  },
+  {
+    "slug": "sfjs-260aa5eda5",
+    "title": "最高人民法院关于内地与香港特别行政区法院相互认可和执行婚姻家庭民事案件判决的安排",
+    "outputPath": "data/processed/laws/sfjs-260aa5eda5.json",
+    "paragraphCount": 87,
+    "sectionCount": 0,
+    "articleCount": 22
+  },
+  {
+    "slug": "sfjs-27244ba301",
+    "title": "最高人民法院关于审理城镇房屋租赁合同纠纷案件具体应用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-27244ba301.json",
+    "paragraphCount": 39,
+    "sectionCount": 0,
+    "articleCount": 16
+  },
+  {
+    "slug": "sfjs-27c1d8ee06",
+    "title": "最高人民法院关于审理企业破产案件指定管理人的规定",
+    "outputPath": "data/processed/laws/sfjs-27c1d8ee06.json",
+    "paragraphCount": 126,
+    "sectionCount": 0,
+    "articleCount": 40
+  },
+  {
+    "slug": "sfjs-2a9333bfbd",
+    "title": "最高人民法院关于审理使用人脸识别技术处理个人信息相关民事案件适用法律若干问题的规定",
+    "outputPath": "data/processed/laws/sfjs-2a9333bfbd.json",
+    "paragraphCount": 46,
+    "sectionCount": 0,
+    "articleCount": 16
+  },
+  {
+    "slug": "sfjs-2af3b157e7",
+    "title": "最高人民法院关于审理工伤保险行政案件若干问题的规定",
+    "outputPath": "data/processed/laws/sfjs-2af3b157e7.json",
+    "paragraphCount": 47,
+    "sectionCount": 0,
+    "articleCount": 9
+  },
+  {
+    "slug": "sfjs-34c6236565",
+    "title": "最高人民法院关于审理著作权民事纠纷案件适用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-34c6236565.json",
+    "paragraphCount": 69,
+    "sectionCount": 0,
+    "articleCount": 30
+  },
+  {
+    "slug": "sfjs-3652baa6a1",
+    "title": "最高人民法院关于公证债权文书执行若干问题的规定",
+    "outputPath": "data/processed/laws/sfjs-3652baa6a1.json",
+    "paragraphCount": 63,
+    "sectionCount": 0,
+    "articleCount": 25
+  },
+  {
+    "slug": "sfjs-37049576cc",
+    "title": "最高人民法院关于认可和执行台湾地区法院民事判决的规定",
+    "outputPath": "data/processed/laws/sfjs-37049576cc.json",
+    "paragraphCount": 64,
+    "sectionCount": 0,
+    "articleCount": 27
+  },
+  {
+    "slug": "sfjs-37fdaa6e8f",
+    "title": "最高人民法院关于审理融资租赁合同纠纷案件适用法律问题的解释",
+    "outputPath": "data/processed/laws/sfjs-37fdaa6e8f.json",
+    "paragraphCount": 40,
+    "sectionCount": 0,
+    "articleCount": 15
+  },
+  {
+    "slug": "sfjs-3ea83176db",
+    "title": "最高人民法院关于人民法院民事执行中查封、扣押、冻结财产的规定",
+    "outputPath": "data/processed/laws/sfjs-3ea83176db.json",
+    "paragraphCount": 72,
+    "sectionCount": 0,
+    "articleCount": 30
+  },
+  {
+    "slug": "sfjs-3f2bef822e",
+    "title": "最高人民法院关于审查知识产权纠纷行为保全案件适用法律若干问题的规定",
+    "outputPath": "data/processed/laws/sfjs-3f2bef822e.json",
+    "paragraphCount": 70,
+    "sectionCount": 0,
+    "articleCount": 21
+  },
+  {
+    "slug": "sfjs-40b8c51584",
+    "title": "最高人民法院关于证券纠纷代表人诉讼若干问题的规定",
+    "outputPath": "data/processed/laws/sfjs-40b8c51584.json",
+    "paragraphCount": 104,
+    "sectionCount": 0,
+    "articleCount": 42
+  },
+  {
+    "slug": "sfjs-45dada33fb",
+    "title": "最高人民法院关于审理涉及驰名商标保护的民事纠纷案件应用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-45dada33fb.json",
+    "paragraphCount": 45,
+    "sectionCount": 0,
+    "articleCount": 14
+  },
+  {
+    "slug": "sfjs-508fb6bac6",
+    "title": "最高人民法院关于人民法院民事执行中拍卖、变卖财产的规定",
+    "outputPath": "data/processed/laws/sfjs-508fb6bac6.json",
+    "paragraphCount": 66,
+    "sectionCount": 0,
+    "articleCount": 33
+  },
+  {
+    "slug": "sfjs-51431a6c91",
+    "title": "最高人民法院关于技术调查官参与知识产权案件诉讼活动的若干规定",
+    "outputPath": "data/processed/laws/sfjs-51431a6c91.json",
+    "paragraphCount": 38,
+    "sectionCount": 0,
+    "articleCount": 15
+  },
+  {
+    "slug": "sfjs-53ed4d5678",
+    "title": "最高人民法院关于审理专利授权确权行政案件适用法律若干问题的规定（一）",
+    "outputPath": "data/processed/laws/sfjs-53ed4d5678.json",
+    "paragraphCount": 88,
+    "sectionCount": 0,
+    "articleCount": 32
+  },
+  {
+    "slug": "sfjs-55e2a6b670",
+    "title": "最高人民法院关于办理申请人民法院强制执行国有土地上房屋征收补偿决定案件若干问题的规定",
+    "outputPath": "data/processed/laws/sfjs-55e2a6b670.json",
+    "paragraphCount": 38,
+    "sectionCount": 0,
+    "articleCount": 11
+  },
+  {
+    "slug": "sfjs-571b7d6fd0",
+    "title": "最高人民法院关于审理道路交通事故损害赔偿案件适用法律若干问题的解释（二）",
+    "outputPath": "data/processed/laws/sfjs-571b7d6fd0.json",
+    "paragraphCount": 24,
+    "sectionCount": 0,
+    "articleCount": 12
+  },
+  {
+    "slug": "sfjs-573aa5be62",
+    "title": "最高人民法院关于内地与香港特别行政区法院就民商事案件相互委托提取证据的安排",
+    "outputPath": "data/processed/laws/sfjs-573aa5be62.json",
+    "paragraphCount": 47,
+    "sectionCount": 0,
+    "articleCount": 12
+  },
+  {
+    "slug": "sfjs-57921b3c0a",
+    "title": "最高人民法院关于人民法院办理执行异议和复议案件若干问题的规定",
+    "outputPath": "data/processed/laws/sfjs-57921b3c0a.json",
+    "paragraphCount": 106,
+    "sectionCount": 0,
+    "articleCount": 32
+  },
+  {
+    "slug": "sfjs-5ccdaff9e2",
+    "title": "最高人民法院关于审理医疗损害责任纠纷案件适用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-5ccdaff9e2.json",
+    "paragraphCount": 76,
+    "sectionCount": 0,
+    "articleCount": 26
+  },
+  {
+    "slug": "sfjs-5e193c2165",
+    "title": "最高人民法院关于适用《中华人民共和国民事诉讼法》执行程序若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-5e193c2165.json",
+    "paragraphCount": 50,
+    "sectionCount": 0,
+    "articleCount": 27
+  },
+  {
+    "slug": "sfjs-5fd17f3758",
+    "title": "最高人民法院关于北京、上海、广州知识产权法院案件管辖的规定",
+    "outputPath": "data/processed/laws/sfjs-5fd17f3758.json",
+    "paragraphCount": 25,
+    "sectionCount": 0,
+    "articleCount": 8
+  },
+  {
+    "slug": "sfjs-639a663942",
+    "title": "最高人民法院关于执行和解若干问题的规定",
+    "outputPath": "data/processed/laws/sfjs-639a663942.json",
+    "paragraphCount": 40,
+    "sectionCount": 0,
+    "articleCount": 20
+  },
+  {
+    "slug": "sfjs-66d81ee604",
+    "title": "最高人民法院关于人民法院网络司法拍卖若干问题的规定",
+    "outputPath": "data/processed/laws/sfjs-66d81ee604.json",
+    "paragraphCount": 128,
+    "sectionCount": 0,
+    "articleCount": 38
+  },
+  {
+    "slug": "sfjs-67298c63dd",
+    "title": "最高人民法院关于审理执行异议之诉案件适用法律问题的解释",
+    "outputPath": "data/processed/laws/sfjs-67298c63dd.json",
+    "paragraphCount": 68,
+    "sectionCount": 0,
+    "articleCount": 23
+  },
+  {
+    "slug": "sfjs-68ca3f8c29",
+    "title": "最高人民法院关于商标法修改决定施行后商标案件管辖和法律适用问题的解释",
+    "outputPath": "data/processed/laws/sfjs-68ca3f8c29.json",
+    "paragraphCount": 34,
+    "sectionCount": 0,
+    "articleCount": 9
+  },
+  {
+    "slug": "sfjs-6ce825c5bd",
+    "title": "最高人民法院关于民事执行中财产调查若干问题的规定",
+    "outputPath": "data/processed/laws/sfjs-6ce825c5bd.json",
+    "paragraphCount": 73,
+    "sectionCount": 0,
+    "articleCount": 26
+  },
+  {
+    "slug": "sfjs-7949978a75",
+    "title": "最高人民法院关于人民法院审理事业单位人事争议案件若干问题的规定",
+    "outputPath": "data/processed/laws/sfjs-7949978a75.json",
+    "paragraphCount": 9,
+    "sectionCount": 0,
+    "articleCount": 3
+  },
+  {
+    "slug": "sfjs-7c86c3392f",
+    "title": "最高人民法院关于审理侵犯专利权纠纷案件应用法律若干问题的解释（二）",
+    "outputPath": "data/processed/laws/sfjs-7c86c3392f.json",
+    "paragraphCount": 55,
+    "sectionCount": 0,
+    "articleCount": 31
+  },
+  {
+    "slug": "sfjs-7e9d715a52",
+    "title": "最高人民法院关于人民法院办理仲裁裁决执行案件若干问题的规定",
+    "outputPath": "data/processed/laws/sfjs-7e9d715a52.json",
+    "paragraphCount": 73,
+    "sectionCount": 0,
+    "articleCount": 24
+  },
+  {
+    "slug": "sfjs-83355ec6cf",
+    "title": "最高人民法院关于审理仲裁司法审查案件若干问题的规定",
+    "outputPath": "data/processed/laws/sfjs-83355ec6cf.json",
+    "paragraphCount": 56,
+    "sectionCount": 0,
+    "articleCount": 22
+  },
+  {
+    "slug": "sfjs-83c3e104ca",
+    "title": "最高人民法院关于审理生态环境侵权纠纷案件适用惩罚性赔偿的解释",
+    "outputPath": "data/processed/laws/sfjs-83c3e104ca.json",
+    "paragraphCount": 38,
+    "sectionCount": 0,
+    "articleCount": 14
+  },
+  {
+    "slug": "sfjs-86a0d8d47e",
+    "title": "最高人民法院关于审理涉及国有土地使用权合同纠纷案件适用法律问题的解释",
+    "outputPath": "data/processed/laws/sfjs-86a0d8d47e.json",
+    "paragraphCount": 49,
+    "sectionCount": 0,
+    "articleCount": 25
+  },
+  {
+    "slug": "sfjs-886bccaa66",
+    "title": "最高人民法院关于公布失信被执行人名单信息的若干规定",
+    "outputPath": "data/processed/laws/sfjs-886bccaa66.json",
+    "paragraphCount": 107,
+    "sectionCount": 0,
+    "articleCount": 13
+  },
+  {
+    "slug": "sfjs-8dc7b79ba1",
+    "title": "最高人民法院关于审理票据纠纷案件若干问题的规定",
+    "outputPath": "data/processed/laws/sfjs-8dc7b79ba1.json",
+    "paragraphCount": 136,
+    "sectionCount": 0,
+    "articleCount": 75
+  },
+  {
+    "slug": "sfjs-94041b8c62",
+    "title": "最高人民法院关于执行我国加入的《承认及执行外国仲裁裁决公约》的通知",
+    "outputPath": "data/processed/laws/sfjs-94041b8c62.json",
+    "paragraphCount": 43,
+    "sectionCount": 0,
+    "articleCount": 4
+  },
+  {
+    "slug": "sfjs-95f80c9e60",
+    "title": "最高人民法院关于内地与澳门特别行政区相互认可和执行仲裁裁决的安排",
+    "outputPath": "data/processed/laws/sfjs-95f80c9e60.json",
+    "paragraphCount": 49,
+    "sectionCount": 0,
+    "articleCount": 16
+  },
+  {
+    "slug": "sfjs-96445ae0c9",
+    "title": "最高人民法院关于适用《中华人民共和国企业破产法》若干问题的规定（二）",
+    "outputPath": "data/processed/laws/sfjs-96445ae0c9.json",
+    "paragraphCount": 114,
+    "sectionCount": 0,
+    "articleCount": 48
+  },
+  {
+    "slug": "sfjs-973b0dfb96",
+    "title": "最高人民法院关于审理涉及会计师事务所在审计业务活动中民事侵权赔偿案件的若干规定",
+    "outputPath": "data/processed/laws/sfjs-973b0dfb96.json",
+    "paragraphCount": 55,
+    "sectionCount": 0,
+    "articleCount": 13
+  },
+  {
+    "slug": "sfjs-9743594718",
+    "title": "最高人民法院关于知识产权法庭若干问题的规定",
+    "outputPath": "data/processed/laws/sfjs-9743594718.json",
+    "paragraphCount": 29,
+    "sectionCount": 0,
+    "articleCount": 11
+  },
+  {
+    "slug": "sfjs-9e99e955b2",
+    "title": "最高人民法院关于仲裁司法审查案件报核问题的有关规定",
+    "outputPath": "data/processed/laws/sfjs-9e99e955b2.json",
+    "paragraphCount": 20,
+    "sectionCount": 0,
+    "articleCount": 9
+  },
+  {
+    "slug": "sfjs-a280bf0da7",
+    "title": "最高人民法院关于内地与澳门特别行政区关于相互认可和执行民商事判决的安排",
+    "outputPath": "data/processed/laws/sfjs-a280bf0da7.json",
+    "paragraphCount": 64,
+    "sectionCount": 0,
+    "articleCount": 24
+  },
+  {
+    "slug": "sfjs-a2df6ac48b",
+    "title": "最高人民法院关于限制被执行人高消费及有关消费的若干规定",
+    "outputPath": "data/processed/laws/sfjs-a2df6ac48b.json",
+    "paragraphCount": 55,
+    "sectionCount": 0,
+    "articleCount": 12
+  },
+  {
+    "slug": "sfjs-a6af4a0ad4",
+    "title": "最高人民法院关于审理商标授权确权行政案件若干问题的规定",
+    "outputPath": "data/processed/laws/sfjs-a6af4a0ad4.json",
+    "paragraphCount": 82,
+    "sectionCount": 0,
+    "articleCount": 31
+  },
+  {
+    "slug": "sfjs-b0f609354c",
+    "title": "最高人民法院关于审理侵害知识产权民事纠纷案件适用惩罚性赔偿的解释",
+    "outputPath": "data/processed/laws/sfjs-b0f609354c.json",
+    "paragraphCount": 39,
+    "sectionCount": 0,
+    "articleCount": 14
+  },
+  {
+    "slug": "sfjs-b296d68518",
+    "title": "最高人民法院关于适用《中华人民共和国保险法》若干问题的解释（一）",
+    "outputPath": "data/processed/laws/sfjs-b296d68518.json",
+    "paragraphCount": 21,
+    "sectionCount": 0,
+    "articleCount": 6
+  },
+  {
+    "slug": "sfjs-b2bee72fe4",
+    "title": "最高人民法院关于内地与香港特别行政区法院就仲裁程序相互协助保全的安排",
+    "outputPath": "data/processed/laws/sfjs-b2bee72fe4.json",
+    "paragraphCount": 48,
+    "sectionCount": 0,
+    "articleCount": 11
+  },
+  {
+    "slug": "sfjs-b5fc775ee0",
+    "title": "最高人民法院关于冻结、拍卖上市公司国有股和社会法人股若干问题的规定",
+    "outputPath": "data/processed/laws/sfjs-b5fc775ee0.json",
+    "paragraphCount": 34,
+    "sectionCount": 0,
+    "articleCount": 17
+  },
+  {
+    "slug": "sfjs-b7dcaf3f02",
+    "title": "最高人民法院关于审理涉及农村土地承包经营纠纷调解仲裁案件适用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-b7dcaf3f02.json",
+    "paragraphCount": 38,
+    "sectionCount": 0,
+    "articleCount": 12
+  },
+  {
+    "slug": "sfjs-b94862e2b6",
+    "title": "最高人民法院关于内地与香港特别行政区法院相互认可和执行民商事案件判决的安排",
+    "outputPath": "data/processed/laws/sfjs-b94862e2b6.json",
+    "paragraphCount": 91,
+    "sectionCount": 0,
+    "articleCount": 32
+  },
+  {
+    "slug": "sfjs-ba563b4ca7",
+    "title": "最高人民法院关于审理注册商标、企业名称与在先权利冲突的民事纠纷案件若干问题的规定",
+    "outputPath": "data/processed/laws/sfjs-ba563b4ca7.json",
+    "paragraphCount": 14,
+    "sectionCount": 0,
+    "articleCount": 4
+  },
+  {
+    "slug": "sfjs-c22364fd06",
+    "title": "最高人民法院关于人民法院对经劳动争议仲裁裁决的纠纷准予撤诉或驳回起诉后劳动争议仲裁裁决从何时起生效的解释",
+    "outputPath": "data/processed/laws/sfjs-c22364fd06.json",
+    "paragraphCount": 10,
+    "sectionCount": 0,
+    "articleCount": 3
+  },
+  {
+    "slug": "sfjs-c2428faa93",
+    "title": "最高人民法院关于审理房屋登记案件若干问题的规定",
+    "outputPath": "data/processed/laws/sfjs-c2428faa93.json",
+    "paragraphCount": 43,
+    "sectionCount": 0,
+    "articleCount": 14
+  },
+  {
+    "slug": "sfjs-c297ae05ee",
+    "title": "最高人民法院关于审理海上保险纠纷案件若干问题的规定",
+    "outputPath": "data/processed/laws/sfjs-c297ae05ee.json",
+    "paragraphCount": 25,
+    "sectionCount": 0,
+    "articleCount": 17
+  },
+  {
+    "slug": "sfjs-c318f0d3f1",
+    "title": "最高人民法院关于审理证券市场虚假陈述侵权民事赔偿案件的若干规定",
+    "outputPath": "data/processed/laws/sfjs-c318f0d3f1.json",
+    "paragraphCount": 119,
+    "sectionCount": 0,
+    "articleCount": 35
+  },
+  {
+    "slug": "sfjs-c3dca7c59d",
+    "title": "最高人民法院关于行政诉讼证据若干问题的规定",
+    "outputPath": "data/processed/laws/sfjs-c3dca7c59d.json",
+    "paragraphCount": 225,
+    "sectionCount": 0,
+    "articleCount": 80
+  },
+  {
+    "slug": "sfjs-c50322c31e",
+    "title": "最高人民法院关于审理申请注册的药品相关的专利权纠纷民事案件适用法律若干问题的规定",
+    "outputPath": "data/processed/laws/sfjs-c50322c31e.json",
+    "paragraphCount": 25,
+    "sectionCount": 0,
+    "articleCount": 14
+  },
+  {
+    "slug": "sfjs-c60b2e76da",
+    "title": "最高人民法院关于认可和执行台湾地区仲裁裁决的规定",
+    "outputPath": "data/processed/laws/sfjs-c60b2e76da.json",
+    "paragraphCount": 57,
+    "sectionCount": 0,
+    "articleCount": 22
+  },
+  {
+    "slug": "sfjs-c7902e049e",
+    "title": "最高人民法院关于审理专利纠纷案件适用法律问题的若干规定",
+    "outputPath": "data/processed/laws/sfjs-c7902e049e.json",
+    "paragraphCount": 60,
+    "sectionCount": 0,
+    "articleCount": 20
+  },
+  {
+    "slug": "sfjs-c7fe05429b",
+    "title": "最高人民法院关于审理预付式消费民事纠纷案件适用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-c7fe05429b.json",
+    "paragraphCount": 72,
+    "sectionCount": 0,
+    "articleCount": 27
+  },
+  {
+    "slug": "sfjs-cbd39aa13a",
+    "title": "最高人民法院关于审理利用信息网络侵害人身权益民事纠纷案件适用法律若干问题的规定",
+    "outputPath": "data/processed/laws/sfjs-cbd39aa13a.json",
+    "paragraphCount": 40,
+    "sectionCount": 0,
+    "articleCount": 13
+  },
+  {
+    "slug": "sfjs-d15b79e582",
+    "title": "最高人民法院关于确定民事侵权精神损害赔偿责任若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-d15b79e582.json",
+    "paragraphCount": 18,
+    "sectionCount": 0,
+    "articleCount": 6
+  },
+  {
+    "slug": "sfjs-d64ff07e46",
+    "title": "最高人民法院关于严格执行案件审理期限制度的若干规定",
+    "outputPath": "data/processed/laws/sfjs-d64ff07e46.json",
+    "paragraphCount": 75,
+    "sectionCount": 0,
+    "articleCount": 24
+  },
+  {
+    "slug": "sfjs-d9565182f3",
+    "title": "最高人民法院关于审理企业破产案件若干问题的规定",
+    "outputPath": "data/processed/laws/sfjs-d9565182f3.json",
+    "paragraphCount": 270,
+    "sectionCount": 0,
+    "articleCount": 106
+  },
+  {
+    "slug": "sfjs-d979866f84",
+    "title": "最高人民法院关于委托执行若干问题的规定",
+    "outputPath": "data/processed/laws/sfjs-d979866f84.json",
+    "paragraphCount": 42,
+    "sectionCount": 0,
+    "articleCount": 15
+  },
+  {
+    "slug": "sfjs-da9a83df57",
+    "title": "最高人民法院关于审理消费民事公益诉讼案件适用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-da9a83df57.json",
+    "paragraphCount": 45,
+    "sectionCount": 0,
+    "articleCount": 19
+  },
+  {
+    "slug": "sfjs-danbao",
+    "title": "最高人民法院关于适用《中华人民共和国民法典》有关担保制度的解释",
+    "outputPath": "data/processed/laws/sfjs-danbao.json",
+    "paragraphCount": 200,
+    "sectionCount": 0,
+    "articleCount": 71
+  },
+  {
+    "slug": "sfjs-dbb782658e",
+    "title": "最高人民法院关于审理企业破产案件确定管理人报酬的规定",
+    "outputPath": "data/processed/laws/sfjs-dbb782658e.json",
+    "paragraphCount": 57,
+    "sectionCount": 0,
+    "articleCount": 18
+  },
+  {
+    "slug": "sfjs-df877fa00b",
+    "title": "最高人民法院关于适用《中华人民共和国民事诉讼法》审判监督程序若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-df877fa00b.json",
+    "paragraphCount": 57,
+    "sectionCount": 0,
+    "articleCount": 30
+  },
+  {
+    "slug": "sfjs-e00d0f5af3",
+    "title": "最高人民法院关于生态环境侵权民事诉讼证据的若干规定",
+    "outputPath": "data/processed/laws/sfjs-e00d0f5af3.json",
+    "paragraphCount": 64,
+    "sectionCount": 0,
+    "articleCount": 34
+  },
+  {
+    "slug": "sfjs-e23320b273",
+    "title": "最高人民法院关于适用《中华人民共和国仲裁法》若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-e23320b273.json",
+    "paragraphCount": 53,
+    "sectionCount": 0,
+    "articleCount": 31
+  },
+  {
+    "slug": "sfjs-e4109b30f8",
+    "title": "最高人民法院关于以法院专递方式邮寄送达民事诉讼文书的若干规定",
+    "outputPath": "data/processed/laws/sfjs-e4109b30f8.json",
+    "paragraphCount": 39,
+    "sectionCount": 0,
+    "articleCount": 12
+  },
+  {
+    "slug": "sfjs-e7e323671e",
+    "title": "最高人民法院关于人民法院对注册商标权进行财产保全的解释",
+    "outputPath": "data/processed/laws/sfjs-e7e323671e.json",
+    "paragraphCount": 12,
+    "sectionCount": 0,
+    "articleCount": 3
+  },
+  {
+    "slug": "sfjs-ef9972cb26",
+    "title": "最高人民法院关于修改后的民事诉讼法施行时未结案件适用法律若干问题的规定",
+    "outputPath": "data/processed/laws/sfjs-ef9972cb26.json",
+    "paragraphCount": 28,
+    "sectionCount": 0,
+    "articleCount": 8
+  },
+  {
+    "slug": "sfjs-f8155f5a8d",
+    "title": "最高人民法院关于审理商标案件有关管辖和法律适用范围问题的解释",
+    "outputPath": "data/processed/laws/sfjs-f8155f5a8d.json",
+    "paragraphCount": 35,
+    "sectionCount": 0,
+    "articleCount": 10
+  },
+  {
+    "slug": "sfjs-f874af669f",
+    "title": "最高人民法院关于审理涉执行司法赔偿案件适用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-f874af669f.json",
+    "paragraphCount": 68,
+    "sectionCount": 0,
+    "articleCount": 20
+  },
+  {
+    "slug": "sfjs-fb66131bcb",
+    "title": "最高人民法院关于人民法院强制执行股权若干问题的规定",
+    "outputPath": "data/processed/laws/sfjs-fb66131bcb.json",
+    "paragraphCount": 72,
+    "sectionCount": 0,
+    "articleCount": 19
+  },
+  {
+    "slug": "sfjs-fe24968be3",
+    "title": "最高人民法院关于《中华人民共和国企业破产法》施行时尚未审结的企业破产案件适用法律若干问题的规定",
+    "outputPath": "data/processed/laws/sfjs-fe24968be3.json",
+    "paragraphCount": 35,
+    "sectionCount": 0,
+    "articleCount": 16
+  },
+  {
+    "slug": "sfjs-ff2a450263",
+    "title": "最高人民法院关于审理侵害信息网络传播权民事纠纷案件适用法律若干问题的规定",
+    "outputPath": "data/processed/laws/sfjs-ff2a450263.json",
+    "paragraphCount": 43,
+    "sectionCount": 0,
+    "articleCount": 16
+  },
+  {
+    "slug": "sfjs-gongsifa-3",
+    "title": "最高人民法院关于适用《中华人民共和国公司法》若干问题的规定（三）",
+    "outputPath": "data/processed/laws/sfjs-gongsifa-3.json",
+    "paragraphCount": 66,
+    "sectionCount": 0,
+    "articleCount": 28
+  },
+  {
+    "slug": "sfjs-jianshe",
+    "title": "最高人民法院关于审理建设工程施工合同纠纷案件适用法律问题的解释（一）",
+    "outputPath": "data/processed/laws/sfjs-jianshe.json",
+    "paragraphCount": 85,
+    "sectionCount": 0,
+    "articleCount": 45
+  },
+  {
+    "slug": "sfjs-jiedai",
+    "title": "最高人民法院关于审理民间借贷案件适用法律若干问题的规定",
+    "outputPath": "data/processed/laws/sfjs-jiedai.json",
+    "paragraphCount": 79,
+    "sectionCount": 0,
+    "articleCount": 31
+  },
+  {
+    "slug": "sfjs-laodong-1",
+    "title": "最高人民法院关于审理劳动争议案件适用法律问题的解释（一）",
+    "outputPath": "data/processed/laws/sfjs-laodong-1.json",
+    "paragraphCount": 131,
+    "sectionCount": 0,
+    "articleCount": 54
+  },
+  {
+    "slug": "sfjs-maimai",
+    "title": "最高人民法院关于审理买卖合同纠纷案件适用法律问题的解释",
+    "outputPath": "data/processed/laws/sfjs-maimai.json",
+    "paragraphCount": 75,
+    "sectionCount": 0,
+    "articleCount": 33
+  },
+  {
+    "slug": "sfjs-mfd-hetong",
+    "title": "最高人民法院关于适用《中华人民共和国民法典》合同编通则若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-mfd-hetong.json",
+    "paragraphCount": 195,
+    "sectionCount": 0,
+    "articleCount": 69
+  },
+  {
+    "slug": "sfjs-mfd-hunyin-2",
+    "title": "最高人民法院关于适用《中华人民共和国民法典》婚姻家庭编的解释（二）",
+    "outputPath": "data/processed/laws/sfjs-mfd-hunyin-2.json",
+    "paragraphCount": 45,
+    "sectionCount": 0,
+    "articleCount": 23
+  },
+  {
+    "slug": "sfjs-mfd-jicheng",
+    "title": "最高人民法院关于适用《中华人民共和国民法典》继承编的解释（一）",
+    "outputPath": "data/processed/laws/sfjs-mfd-jicheng.json",
+    "paragraphCount": 62,
+    "sectionCount": 0,
+    "articleCount": 45
+  },
+  {
+    "slug": "sfjs-mfd-qinquan",
+    "title": "最高人民法院关于适用《中华人民共和国民法典》侵权责任编的解释（一）",
+    "outputPath": "data/processed/laws/sfjs-mfd-qinquan.json",
+    "paragraphCount": 46,
+    "sectionCount": 0,
+    "articleCount": 26
+  },
+  {
+    "slug": "sfjs-mfd-shijian",
+    "title": "最高人民法院关于适用《中华人民共和国民法典》时间效力的若干规定",
+    "outputPath": "data/processed/laws/sfjs-mfd-shijian.json",
+    "paragraphCount": 42,
+    "sectionCount": 0,
+    "articleCount": 28
+  },
+  {
+    "slug": "sfjs-mfd-wuquan",
+    "title": "最高人民法院关于适用《中华人民共和国民法典》物权编的解释（一）",
+    "outputPath": "data/processed/laws/sfjs-mfd-wuquan.json",
+    "paragraphCount": 43,
+    "sectionCount": 0,
+    "articleCount": 21
+  },
+  {
+    "slug": "sfjs-mfd-zongze",
+    "title": "最高人民法院关于适用《中华人民共和国民法典》总则编若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-mfd-zongze.json",
+    "paragraphCount": 87,
+    "sectionCount": 0,
+    "articleCount": 39
+  },
+  {
+    "slug": "sfjs-minsusong",
+    "title": "最高人民法院关于适用《中华人民共和国民事诉讼法》的解释",
+    "outputPath": "data/processed/laws/sfjs-minsusong.json",
+    "paragraphCount": 1122,
+    "sectionCount": 0,
+    "articleCount": 550
+  },
+  {
+    "slug": "sfjs-renshen",
+    "title": "最高人民法院关于审理人身损害赔偿案件适用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-renshen.json",
+    "paragraphCount": 48,
+    "sectionCount": 0,
+    "articleCount": 24
+  },
+  {
+    "slug": "sfjs-shangpinfang",
+    "title": "最高人民法院关于审理商品房买卖合同纠纷案件适用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-shangpinfang.json",
+    "paragraphCount": 45,
+    "sectionCount": 0,
+    "articleCount": 24
+  },
+  {
+    "slug": "sfjs-zhengju",
+    "title": "最高人民法院关于民事诉讼证据的若干规定",
+    "outputPath": "data/processed/laws/sfjs-zhengju.json",
+    "paragraphCount": 269,
+    "sectionCount": 0,
+    "articleCount": 100
+  },
+  {
+    "slug": "social-insurance-law",
+    "title": "中华人民共和国社会保险法",
+    "outputPath": "data/processed/laws/social-insurance-law.json",
+    "paragraphCount": 228,
+    "sectionCount": 12,
+    "articleCount": 98
+  },
+  {
+    "slug": "sole-proprietorship-enterprise-law",
+    "title": "中华人民共和国个人独资企业法",
+    "outputPath": "data/processed/laws/sole-proprietorship-enterprise-law.json",
+    "paragraphCount": 101,
+    "sectionCount": 6,
+    "articleCount": 48
+  },
+  {
+    "slug": "sports-law",
+    "title": "中华人民共和国体育法",
+    "outputPath": "data/processed/laws/sports-law.json",
+    "paragraphCount": 237,
+    "sectionCount": 12,
+    "articleCount": 122
+  },
+  {
+    "slug": "tax-collection-administration-law",
+    "title": "中华人民共和国税收征收管理法",
+    "outputPath": "data/processed/laws/tax-collection-administration-law.json",
+    "paragraphCount": 190,
+    "sectionCount": 9,
+    "articleCount": 94
+  },
+  {
+    "slug": "trade-union-law",
+    "title": "中华人民共和国工会法",
+    "outputPath": "data/processed/laws/trade-union-law.json",
+    "paragraphCount": 130,
+    "sectionCount": 7,
+    "articleCount": 58
+  },
+  {
+    "slug": "trademark-law",
+    "title": "中华人民共和国商标法",
+    "outputPath": "data/processed/laws/trademark-law.json",
+    "paragraphCount": 184,
+    "sectionCount": 8,
+    "articleCount": 73
+  },
+  {
+    "slug": "urban-real-estate-administration-law",
+    "title": "中华人民共和国城市房地产管理法",
+    "outputPath": "data/processed/laws/urban-real-estate-administration-law.json",
+    "paragraphCount": 159,
+    "sectionCount": 14,
+    "articleCount": 73
+  },
+  {
+    "slug": "women-rights-protection-law",
+    "title": "中华人民共和国妇女权益保障法",
+    "outputPath": "data/processed/laws/women-rights-protection-law.json",
+    "paragraphCount": 185,
+    "sectionCount": 10,
+    "articleCount": 86
+  },
+  {
+    "slug": "work-safety-law",
+    "title": "中华人民共和国安全生产法",
+    "outputPath": "data/processed/laws/work-safety-law.json",
+    "paragraphCount": 274,
+    "sectionCount": 7,
+    "articleCount": 119
+  }
+]

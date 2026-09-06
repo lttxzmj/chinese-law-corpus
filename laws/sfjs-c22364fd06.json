@@ -1,0 +1,45 @@
+{
+  "id": "sfjs-c22364fd06",
+  "officialId": "",
+  "title": "最高人民法院关于人民法院对经劳动争议仲裁裁决的纠纷准予撤诉或驳回起诉后劳动争议仲裁裁决从何时起生效的解释",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院",
+  "promulgationDate": "2000-07-10",
+  "effectiveDate": "2000-07-19",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-c22364fd06/metadata.json",
+    "docxPath": "data/laws/sfjs-c22364fd06/official.docx",
+    "pdfPath": "data/laws/sfjs-c22364fd06/official.pdf"
+  },
+  "paragraphCount": 10,
+  "sectionCount": 0,
+  "articleCount": 3,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-c22364fd06-0001",
+      "articleNumber": 1,
+      "displayNumber": "第一条",
+      "path": [],
+      "text": "当事人不服劳动争议仲裁裁决向人民法院起诉后又申请撤诉，经人民法院审查准予撤诉的，原仲裁裁决自人民法院裁定送达当事人之日起发生法律效力。",
+      "order": 1
+    },
+    {
+      "id": "sfjs-c22364fd06-0002",
+      "articleNumber": 2,
+      "displayNumber": "第二条",
+      "path": [],
+      "text": "当事人因超过起诉期间而被人民法院裁定驳回起诉的，原仲裁裁决自起诉期间届满之次日起恢复法律效力。",
+      "order": 2
+    },
+    {
+      "id": "sfjs-c22364fd06-0003",
+      "articleNumber": 3,
+      "displayNumber": "第三条",
+      "path": [],
+      "text": "因仲裁裁决确定的主体资格错误或仲裁裁决事项不属于劳动争议，被人民法院驳回起诉的，原仲裁裁决不发生法律效力。",
+      "order": 3
+    }
+  ]
+}

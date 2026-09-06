@@ -1,0 +1,45 @@
+{
+  "id": "sfjs-e7e323671e",
+  "officialId": "",
+  "title": "最高人民法院关于人民法院对注册商标权进行财产保全的解释",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院",
+  "promulgationDate": "2020-12-29",
+  "effectiveDate": "2021-01-01",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-e7e323671e/metadata.json",
+    "docxPath": "data/laws/sfjs-e7e323671e/official.docx",
+    "pdfPath": "data/laws/sfjs-e7e323671e/official.pdf"
+  },
+  "paragraphCount": 12,
+  "sectionCount": 0,
+  "articleCount": 3,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-e7e323671e-0001",
+      "articleNumber": 1,
+      "displayNumber": "第一条",
+      "path": [],
+      "text": "人民法院根据民事诉讼法有关规定采取财产保全措施时，需要对注册商标权进行保全的，应当向国家知识产权局商标局（以下简称商标局）发出协助执行通知书，载明要求商标局协助保全的注册商标的名称、注册人、注册证号码、保全期限以及协助执行保全的内容，包括禁止转让、注销注册商标、变更注册事项和办理商标权质押登记等事项。",
+      "order": 1
+    },
+    {
+      "id": "sfjs-e7e323671e-0002",
+      "articleNumber": 2,
+      "displayNumber": "第二条",
+      "path": [],
+      "text": "对注册商标权保全的期限一次不得超过一年，自商标局收到协助执行通知书之日起计算。如果仍然需要对该注册商标权继续采取保全措施的，人民法院应当在保全期限届满前向商标局重新发出协助执行通知书，要求继续保全。否则，视为自动解除对该注册商标权的财产保全。",
+      "order": 2
+    },
+    {
+      "id": "sfjs-e7e323671e-0003",
+      "articleNumber": 3,
+      "displayNumber": "第三条",
+      "path": [],
+      "text": "人民法院对已经进行保全的注册商标权，不得重复进行保全。",
+      "order": 3
+    }
+  ]
+}

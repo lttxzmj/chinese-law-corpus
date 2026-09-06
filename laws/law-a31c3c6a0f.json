@@ -1,0 +1,109 @@
+{
+  "id": "law-a31c3c6a0f",
+  "officialId": "",
+  "title": "中华人民共和国城市维护建设税法",
+  "category": "法律",
+  "issuingAuthority": "全国人民代表大会常务委员会",
+  "promulgationDate": "2020-08-11",
+  "effectiveDate": "2021-09-01",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/law-a31c3c6a0f/metadata.json",
+    "docxPath": "data/laws/law-a31c3c6a0f/official.docx",
+    "pdfPath": "data/laws/law-a31c3c6a0f/official.pdf"
+  },
+  "paragraphCount": 19,
+  "sectionCount": 0,
+  "articleCount": 11,
+  "sections": [],
+  "articles": [
+    {
+      "id": "law-a31c3c6a0f-0001",
+      "articleNumber": 1,
+      "displayNumber": "第一条",
+      "path": [],
+      "text": "在中华人民共和国境内缴纳增值税、消费税的单位和个人，为城市维护建设税的纳税人，应当依照本法规定缴纳城市维护建设税。",
+      "order": 1
+    },
+    {
+      "id": "law-a31c3c6a0f-0002",
+      "articleNumber": 2,
+      "displayNumber": "第二条",
+      "path": [],
+      "text": "城市维护建设税以纳税人依法实际缴纳的增值税、消费税税额为计税依据。\n城市维护建设税的计税依据应当按照规定扣除期末留抵退税退还的增值税税额。\n城市维护建设税计税依据的具体确定办法，由国务院依据本法和有关税收法律、行政法规规定，报全国人民代表大会常务委员会备案。",
+      "order": 2
+    },
+    {
+      "id": "law-a31c3c6a0f-0003",
+      "articleNumber": 3,
+      "displayNumber": "第三条",
+      "path": [],
+      "text": "对进口货物或者境外单位和个人向境内销售劳务、服务、无形资产缴纳的增值税、消费税税额，不征收城市维护建设税。",
+      "order": 5
+    },
+    {
+      "id": "law-a31c3c6a0f-0004",
+      "articleNumber": 4,
+      "displayNumber": "第四条",
+      "path": [],
+      "text": "城市维护建设税税率如下：\n（一）纳税人所在地在市区的，税率为百分之七；\n（二）纳税人所在地在县城、镇的，税率为百分之五；\n（三）纳税人所在地不在市区、县城或者镇的，税率为百分之一。\n前款所称纳税人所在地，是指纳税人住所地或者与纳税人生产经营活动相关的其他地点，具体地点由省、自治区、直辖市确定。",
+      "order": 6
+    },
+    {
+      "id": "law-a31c3c6a0f-0005",
+      "articleNumber": 5,
+      "displayNumber": "第五条",
+      "path": [],
+      "text": "城市维护建设税的应纳税额按照计税依据乘以具体适用税率计算。",
+      "order": 11
+    },
+    {
+      "id": "law-a31c3c6a0f-0006",
+      "articleNumber": 6,
+      "displayNumber": "第六条",
+      "path": [],
+      "text": "根据国民经济和社会发展的需要，国务院对重大公共基础设施建设、特殊产业和群体以及重大突发事件应对等情形可以规定减征或者免征城市维护建设税，报全国人民代表大会常务委员会备案。",
+      "order": 12
+    },
+    {
+      "id": "law-a31c3c6a0f-0007",
+      "articleNumber": 7,
+      "displayNumber": "第七条",
+      "path": [],
+      "text": "城市维护建设税的纳税义务发生时间与增值税、消费税的纳税义务发生时间一致，分别与增值税、消费税同时缴纳。",
+      "order": 13
+    },
+    {
+      "id": "law-a31c3c6a0f-0008",
+      "articleNumber": 8,
+      "displayNumber": "第八条",
+      "path": [],
+      "text": "城市维护建设税的扣缴义务人为负有增值税、消费税扣缴义务的单位和个人，在扣缴增值税、消费税的同时扣缴城市维护建设税。",
+      "order": 14
+    },
+    {
+      "id": "law-a31c3c6a0f-0009",
+      "articleNumber": 9,
+      "displayNumber": "第九条",
+      "path": [],
+      "text": "城市维护建设税由税务机关依照本法和《中华人民共和国税收征收管理法》的规定征收管理。",
+      "order": 15
+    },
+    {
+      "id": "law-a31c3c6a0f-0010",
+      "articleNumber": 10,
+      "displayNumber": "第十条",
+      "path": [],
+      "text": "纳税人、税务机关及其工作人员违反本法规定的，依照《中华人民共和国税收征收管理法》和有关法律法规的规定追究法律责任。",
+      "order": 16
+    },
+    {
+      "id": "law-a31c3c6a0f-0011",
+      "articleNumber": 11,
+      "displayNumber": "第十一条",
+      "path": [],
+      "text": "本法自2021年9月1日起施行。1985年2月8日国务院发布的《中华人民共和国城市维护建设税暂行条例》同时废止。",
+      "order": 17
+    }
+  ]
+}

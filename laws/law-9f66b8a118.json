@@ -1,0 +1,101 @@
+{
+  "id": "law-9f66b8a118",
+  "officialId": "",
+  "title": "中华人民共和国烟叶税法",
+  "category": "法律",
+  "issuingAuthority": "全国人民代表大会常务委员会",
+  "promulgationDate": "2017-12-27",
+  "effectiveDate": "2018-07-01",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/law-9f66b8a118/metadata.json",
+    "docxPath": "data/laws/law-9f66b8a118/official.docx",
+    "pdfPath": "data/laws/law-9f66b8a118/official.pdf"
+  },
+  "paragraphCount": 12,
+  "sectionCount": 0,
+  "articleCount": 10,
+  "sections": [],
+  "articles": [
+    {
+      "id": "law-9f66b8a118-0001",
+      "articleNumber": 1,
+      "displayNumber": "第一条",
+      "path": [],
+      "text": "在中华人民共和国境内，依照《中华人民共和国烟草专卖法》的规定收购烟叶的单位为烟叶税的纳税人。纳税人应当依照本法规定缴纳烟叶税。",
+      "order": 1
+    },
+    {
+      "id": "law-9f66b8a118-0002",
+      "articleNumber": 2,
+      "displayNumber": "第二条",
+      "path": [],
+      "text": "本法所称烟叶，是指烤烟叶、晾晒烟叶。",
+      "order": 2
+    },
+    {
+      "id": "law-9f66b8a118-0003",
+      "articleNumber": 3,
+      "displayNumber": "第三条",
+      "path": [],
+      "text": "烟叶税的计税依据为纳税人收购烟叶实际支付的价款总额。",
+      "order": 3
+    },
+    {
+      "id": "law-9f66b8a118-0004",
+      "articleNumber": 4,
+      "displayNumber": "第四条",
+      "path": [],
+      "text": "烟叶税的税率为百分之二十。",
+      "order": 4
+    },
+    {
+      "id": "law-9f66b8a118-0005",
+      "articleNumber": 5,
+      "displayNumber": "第五条",
+      "path": [],
+      "text": "烟叶税的应纳税额按照纳税人收购烟叶实际支付的价款总额乘以税率计算。",
+      "order": 5
+    },
+    {
+      "id": "law-9f66b8a118-0006",
+      "articleNumber": 6,
+      "displayNumber": "第六条",
+      "path": [],
+      "text": "烟叶税由税务机关依照本法和《中华人民共和国税收征收管理法》的有关规定征收管理。",
+      "order": 6
+    },
+    {
+      "id": "law-9f66b8a118-0007",
+      "articleNumber": 7,
+      "displayNumber": "第七条",
+      "path": [],
+      "text": "纳税人应当向烟叶收购地的主管税务机关申报缴纳烟叶税。",
+      "order": 7
+    },
+    {
+      "id": "law-9f66b8a118-0008",
+      "articleNumber": 8,
+      "displayNumber": "第八条",
+      "path": [],
+      "text": "烟叶税的纳税义务发生时间为纳税人收购烟叶的当日。",
+      "order": 8
+    },
+    {
+      "id": "law-9f66b8a118-0009",
+      "articleNumber": 9,
+      "displayNumber": "第九条",
+      "path": [],
+      "text": "烟叶税按月计征，纳税人应当于纳税义务发生月终了之日起十五日内申报并缴纳税款。",
+      "order": 9
+    },
+    {
+      "id": "law-9f66b8a118-0010",
+      "articleNumber": 10,
+      "displayNumber": "第十条",
+      "path": [],
+      "text": "本法自2018年7月1日起施行。2006年4月28日国务院公布的《中华人民共和国烟叶税暂行条例》同时废止。",
+      "order": 10
+    }
+  ]
+}
