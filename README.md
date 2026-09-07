@@ -40,6 +40,27 @@
 jq '.articles[] | select(.id=="civil-code-0577")' laws/civil-code.json
 ```
 
+## For researchers & legal-AI builders (English)
+
+Structured corpus of Chinese law in clean JSON, released under CC0: **412 statutes
+and judicial interpretations in force** (article-level, 26k+ articles, with status
+and effective dates, curated from official sources), **278 SPC guiding cases**
+(holdings / facts / reasoning as separate fields) and **445 SPC Gazette case
+documents**. Stable article IDs (`civil-code-0577` = Civil Code art. 577) make it
+suitable for legal RAG, retrieval benchmarks and citation-grounded generation.
+
+```python
+# RAG 检索粒度示例:一条 = 一个法条,天然的 chunk 边界
+import json, glob
+chunks = []
+for path in glob.glob("laws/*.json"):
+    law = json.load(open(path))
+    if isinstance(law, dict) and "articles" in law:
+        for art in law["articles"]:
+            chunks.append({"id": art["id"], "text": f'{law["title"]} {art["number"]} {art["text"]}'})
+print(len(chunks))  # 26,000+
+```
+
 ## 版权与免责
 
 - 法律、法规与司法文书依《中华人民共和国著作权法》第五条不适用著作权保护；本仓库对数据的整理与结构化部分以 [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) 释出，可自由使用（含商用），无需署名。
