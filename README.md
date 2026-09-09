@@ -61,6 +61,23 @@ for path in glob.glob("laws/*.json"):
 print(len(chunks))  # 26,000+
 ```
 
+## API（免费 JSON，经 jsDelivr CDN）
+
+无需鉴权、支持 HTTPS 与 CORS，可直接在前端/脚本/AI 代理中调用：
+
+```text
+# 法律索引（412 部：slug/标题/条数）
+https://cdn.jsdelivr.net/gh/lttxzmj/chinese-law-corpus@master/laws/index.json
+
+# 某部法律全文（逐条结构化），如民法典：
+https://cdn.jsdelivr.net/gh/lttxzmj/chinese-law-corpus@master/laws/civil-code.json
+
+# 指导性案例 / 公报案例（按文件名取件）：
+https://cdn.jsdelivr.net/gh/lttxzmj/chinese-law-corpus@master/guiding-cases/guiding-1.json
+```
+
+AI 助手可直接使用配套 MCP 服务器 [chinese-law-mcp](https://github.com/lttxzmj/chinese-law-mcp)：`npx -y github:lttxzmj/chinese-law-mcp`。
+
 ## 版权与免责
 
 - 法律、法规与司法文书依《中华人民共和国著作权法》第五条不适用著作权保护；本仓库对数据的整理与结构化部分以 [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) 释出，可自由使用（含商用），无需署名。
