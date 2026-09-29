@@ -2,13 +2,13 @@
 
 > Structured corpus of Chinese laws, judicial interpretations and court cases in clean JSON.
 
-**412 部现行有效法律与司法解释（26,000+ 条逐条结构化）+ 278 件最高人民法院指导性案例 + 445 件《最高人民法院公报》案例文书**，全部为干净的结构化 JSON，带效力状态、公布/施行日期与官方来源。
+**446 部法律与司法解释（26,000+ 条逐条结构化，其中 442 部现行有效、4 部已公布尚未生效）+ 278 件最高人民法院指导性案例 + 445 件《最高人民法院公报》案例文书**，全部为干净的结构化 JSON，带效力状态、公布/施行日期与官方来源。
 
 ## 内容
 
 | 目录 | 内容 | 数量 |
 | --- | --- | --- |
-| `laws/` | 现行有效国家法律 300 部 + 司法解释 112 件，逐条结构化（编、章、节、条层级），含公布日期、施行日期、效力状态、发布机关 | 412 |
+| `laws/` | 法律及有关法律问题的决定 313 部 + 司法解释 133 件（其中 4 部已公布尚未生效），逐条结构化（编、章、节、条层级），含公布日期、施行日期、效力状态、发布机关 | 446 |
 | `guiding-cases/` | 最高人民法院指导性案例全量（含关键词、裁判要点、基本案情、裁判结果、裁判理由、关联法条） | 278 |
 | `gazette-cases/` | 《最高人民法院公报》裁判文书选登与案例（判决文书正文与客观元数据） | 445 |
 
@@ -42,8 +42,8 @@ jq '.articles[] | select(.id=="civil-code-0577")' laws/civil-code.json
 
 ## For researchers & legal-AI builders (English)
 
-Structured corpus of Chinese law in clean JSON, released under CC0: **412 statutes
-and judicial interpretations in force** (article-level, 26k+ articles, with status
+Structured corpus of Chinese law in clean JSON, released under CC0: **446 statutes
+and judicial interpretations** (incl. 4 promulgated but not yet effective) (article-level, 26k+ articles, with status
 and effective dates, curated from official sources), **278 SPC guiding cases**
 (holdings / facts / reasoning as separate fields) and **445 SPC Gazette case
 documents**. Stable article IDs (`civil-code-0577` = Civil Code art. 577) make it
@@ -66,7 +66,7 @@ print(len(chunks))  # 26,000+
 无需鉴权、支持 HTTPS 与 CORS，可直接在前端/脚本/AI 代理中调用：
 
 ```text
-# 法律索引（412 部：slug/标题/条数）
+# 法律索引（446 部：slug/标题/条数）
 https://cdn.jsdelivr.net/gh/lttxzmj/chinese-law-corpus@master/laws/index.json
 
 # 某部法律全文（逐条结构化），如民法典：

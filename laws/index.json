@@ -179,9 +179,9 @@
     "slug": "criminal-law",
     "title": "中华人民共和国刑法",
     "outputPath": "data/processed/laws/criminal-law.json",
-    "paragraphCount": 1069,
+    "paragraphCount": 1290,
     "sectionCount": 54,
-    "articleCount": 452
+    "articleCount": 505
   },
   {
     "slug": "criminal-procedure-law",
@@ -592,12 +592,20 @@
     "articleCount": 71
   },
   {
+    "slug": "law-1a2ce7f6b3",
+    "title": "全国人民代表大会常务委员会关于县级以下人民代表大会代表直接选举的若干规定",
+    "outputPath": "data/processed/laws/law-1a2ce7f6b3.json",
+    "paragraphCount": 30,
+    "sectionCount": 0,
+    "articleCount": 1
+  },
+  {
     "slug": "law-1af1abe0c0",
     "title": "中华人民共和国国防动员法",
     "outputPath": "data/processed/laws/law-1af1abe0c0.json",
-    "paragraphCount": 164,
-    "sectionCount": 14,
-    "articleCount": 72
+    "paragraphCount": 197,
+    "sectionCount": 28,
+    "articleCount": 82
   },
   {
     "slug": "law-1b46c86e99",
@@ -736,6 +744,14 @@
     "articleCount": 92
   },
   {
+    "slug": "law-2b120d8455",
+    "title": "全国人民代表大会常务委员会关于批准《国务院关于工人退休、退职的暂行办法》的决议",
+    "outputPath": "data/processed/laws/law-2b120d8455.json",
+    "paragraphCount": 3,
+    "sectionCount": 0,
+    "articleCount": 1
+  },
+  {
     "slug": "law-2b78b78598",
     "title": "中华人民共和国文物保护法",
     "outputPath": "data/processed/laws/law-2b78b78598.json",
@@ -758,6 +774,14 @@
     "paragraphCount": 99,
     "sectionCount": 8,
     "articleCount": 40
+  },
+  {
+    "slug": "law-312dc4cfaa",
+    "title": "第五届全国人民代表大会常务委员会关于批准《国务院关于老干部离职休养的暂行规定》的决议",
+    "outputPath": "data/processed/laws/law-312dc4cfaa.json",
+    "paragraphCount": 3,
+    "sectionCount": 0,
+    "articleCount": 1
   },
   {
     "slug": "law-34014cf253",
@@ -862,6 +886,14 @@
     "paragraphCount": 134,
     "sectionCount": 7,
     "articleCount": 71
+  },
+  {
+    "slug": "law-3f031d2e97",
+    "title": "全国人民代表大会常务委员会关于在沿海港口城市设立海事法院的决定",
+    "outputPath": "data/processed/laws/law-3f031d2e97.json",
+    "paragraphCount": 13,
+    "sectionCount": 0,
+    "articleCount": 1
   },
   {
     "slug": "law-3f8de6abe5",
@@ -984,6 +1016,14 @@
     "articleCount": 80
   },
   {
+    "slug": "law-513089f397",
+    "title": "全国人民代表大会常务委员会关于批准《国务院关于安置老弱病残干部的暂行办法》的决议",
+    "outputPath": "data/processed/laws/law-513089f397.json",
+    "paragraphCount": 3,
+    "sectionCount": 0,
+    "articleCount": 1
+  },
+  {
     "slug": "law-52481143a9",
     "title": "中华人民共和国关税法",
     "outputPath": "data/processed/laws/law-52481143a9.json",
@@ -1038,6 +1078,22 @@
     "paragraphCount": 161,
     "sectionCount": 0,
     "articleCount": 17
+  },
+  {
+    "slug": "law-5b0dfbea59",
+    "title": "中华人民共和国检察官法",
+    "outputPath": "data/processed/laws/law-5b0dfbea59.json",
+    "paragraphCount": 188,
+    "sectionCount": 8,
+    "articleCount": 70
+  },
+  {
+    "slug": "law-5c441dcf6c",
+    "title": "全国人民代表大会常务委员会关于中国人民解放军现役士兵衔级制度的决定",
+    "outputPath": "data/processed/laws/law-5c441dcf6c.json",
+    "paragraphCount": 19,
+    "sectionCount": 0,
+    "articleCount": 1
   },
   {
     "slug": "law-5cc255e0b2",
@@ -1214,6 +1270,14 @@
     "paragraphCount": 246,
     "sectionCount": 9,
     "articleCount": 102
+  },
+  {
+    "slug": "law-7f379e5453",
+    "title": "全国人民代表大会常务委员会关于批准中央军事委员会《关于授予军队离休干部中国人民解放军功勋荣誉章的规定》的决定",
+    "outputPath": "data/processed/laws/law-7f379e5453.json",
+    "paragraphCount": 3,
+    "sectionCount": 0,
+    "articleCount": 1
   },
   {
     "slug": "law-7fda437f4f",
@@ -1483,9 +1547,9 @@
     "slug": "law-a00bdffd51",
     "title": "中华人民共和国农业法",
     "outputPath": "data/processed/laws/law-a00bdffd51.json",
-    "paragraphCount": 221,
-    "sectionCount": 13,
-    "articleCount": 99
+    "paragraphCount": 270,
+    "sectionCount": 28,
+    "articleCount": 115
   },
   {
     "slug": "law-a011ca05bb",
@@ -1518,6 +1582,14 @@
     "paragraphCount": 19,
     "sectionCount": 0,
     "articleCount": 11
+  },
+  {
+    "slug": "law-a42df92478",
+    "title": "中国人民解放军军官军衔条例",
+    "outputPath": "data/processed/laws/law-a42df92478.json",
+    "paragraphCount": 100,
+    "sectionCount": 8,
+    "articleCount": 35
   },
   {
     "slug": "law-a6471adb19",
@@ -1904,6 +1976,14 @@
     "articleCount": 63
   },
   {
+    "slug": "law-d73888b844",
+    "title": "全国人民代表大会常务委员会关于惩治骗购外汇、逃汇和非法买卖外汇犯罪的决定",
+    "outputPath": "data/processed/laws/law-d73888b844.json",
+    "paragraphCount": 19,
+    "sectionCount": 0,
+    "articleCount": 1
+  },
+  {
     "slug": "law-d9518d9f38",
     "title": "中华人民共和国全国人民代表大会和地方各级人民代表大会代表法",
     "outputPath": "data/processed/laws/law-d9518d9f38.json",
@@ -2064,12 +2144,28 @@
     "articleCount": 34
   },
   {
+    "slug": "law-ec4c080866",
+    "title": "中华人民共和国耕地保护和质量提升法",
+    "outputPath": "data/processed/laws/law-ec4c080866.json",
+    "paragraphCount": 181,
+    "sectionCount": 16,
+    "articleCount": 72
+  },
+  {
     "slug": "law-ed05388bd7",
     "title": "中华人民共和国老年人权益保障法",
     "outputPath": "data/processed/laws/law-ed05388bd7.json",
     "paragraphCount": 185,
     "sectionCount": 9,
     "articleCount": 85
+  },
+  {
+    "slug": "law-ede812eae9",
+    "title": "中华人民共和国医疗保障法",
+    "outputPath": "data/processed/laws/law-ede812eae9.json",
+    "paragraphCount": 122,
+    "sectionCount": 14,
+    "articleCount": 56
   },
   {
     "slug": "law-ee83238794",
@@ -2182,6 +2278,14 @@
     "paragraphCount": 148,
     "sectionCount": 10,
     "articleCount": 74
+  },
+  {
+    "slug": "law-fef59ac458",
+    "title": "第五届全国人民代表大会常务委员会关于批准《国务院关于职工探亲待遇的规定》的决议",
+    "outputPath": "data/processed/laws/law-fef59ac458.json",
+    "paragraphCount": 3,
+    "sectionCount": 0,
+    "articleCount": 1
   },
   {
     "slug": "lawyers-law",
@@ -2440,6 +2544,14 @@
     "articleCount": 15
   },
   {
+    "slug": "sfjs-1e03941979",
+    "title": "最高人民法院关于适用《中华人民共和国保险法》若干问题的解释（三）",
+    "outputPath": "data/processed/laws/sfjs-1e03941979.json",
+    "paragraphCount": 55,
+    "sectionCount": 0,
+    "articleCount": 26
+  },
+  {
     "slug": "sfjs-1f6e12442f",
     "title": "最高人民法院关于执行程序中计算迟延履行期间的债务利息适用法律若干问题的解释",
     "outputPath": "data/processed/laws/sfjs-1f6e12442f.json",
@@ -2454,6 +2566,14 @@
     "paragraphCount": 28,
     "sectionCount": 0,
     "articleCount": 7
+  },
+  {
+    "slug": "sfjs-23b7742cb0",
+    "title": "最高人民法院关于适用《中华人民共和国企业破产法》若干问题的规定（三）",
+    "outputPath": "data/processed/laws/sfjs-23b7742cb0.json",
+    "paragraphCount": 46,
+    "sectionCount": 0,
+    "articleCount": 16
   },
   {
     "slug": "sfjs-260aa5eda5",
@@ -2496,6 +2616,30 @@
     "articleCount": 9
   },
   {
+    "slug": "sfjs-2e5e35cc7c",
+    "title": "最高人民法院关于适用《中华人民共和国公司法》若干问题的规定（一）",
+    "outputPath": "data/processed/laws/sfjs-2e5e35cc7c.json",
+    "paragraphCount": 11,
+    "sectionCount": 0,
+    "articleCount": 6
+  },
+  {
+    "slug": "sfjs-30cb6b12a1",
+    "title": "最高人民法院关于对与证券交易所监管职能相关的诉讼案件管辖与受理问题的规定",
+    "outputPath": "data/processed/laws/sfjs-30cb6b12a1.json",
+    "paragraphCount": 19,
+    "sectionCount": 0,
+    "articleCount": 1
+  },
+  {
+    "slug": "sfjs-3492980330",
+    "title": "最高人民法院关于适用《中华人民共和国公司法》若干问题的规定（四）",
+    "outputPath": "data/processed/laws/sfjs-3492980330.json",
+    "paragraphCount": 54,
+    "sectionCount": 0,
+    "articleCount": 27
+  },
+  {
     "slug": "sfjs-34c6236565",
     "title": "最高人民法院关于审理著作权民事纠纷案件适用法律若干问题的解释",
     "outputPath": "data/processed/laws/sfjs-34c6236565.json",
@@ -2528,6 +2672,14 @@
     "articleCount": 15
   },
   {
+    "slug": "sfjs-3af76f45a5",
+    "title": "最高人民法院印发《关于人民法院执行〈中华人民共和国国家赔偿法〉几个问题的解释》的通知",
+    "outputPath": "data/processed/laws/sfjs-3af76f45a5.json",
+    "paragraphCount": 22,
+    "sectionCount": 0,
+    "articleCount": 1
+  },
+  {
     "slug": "sfjs-3ea83176db",
     "title": "最高人民法院关于人民法院民事执行中查封、扣押、冻结财产的规定",
     "outputPath": "data/processed/laws/sfjs-3ea83176db.json",
@@ -2558,6 +2710,22 @@
     "paragraphCount": 45,
     "sectionCount": 0,
     "articleCount": 14
+  },
+  {
+    "slug": "sfjs-47398de6bd",
+    "title": "最高人民法院关于人民法院执行工作若干问题的规定（试行）",
+    "outputPath": "data/processed/laws/sfjs-47398de6bd.json",
+    "paragraphCount": 164,
+    "sectionCount": 0,
+    "articleCount": 1
+  },
+  {
+    "slug": "sfjs-4ba5b4bd8a",
+    "title": "最高人民法院关于审理道路交通事故损害赔偿案件适用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-4ba5b4bd8a.json",
+    "paragraphCount": 61,
+    "sectionCount": 0,
+    "articleCount": 26
   },
   {
     "slug": "sfjs-508fb6bac6",
@@ -2680,12 +2848,28 @@
     "articleCount": 26
   },
   {
+    "slug": "sfjs-78adc59a71",
+    "title": "最高人民法院关于审理侵犯专利权纠纷案件应用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-78adc59a71.json",
+    "paragraphCount": 49,
+    "sectionCount": 0,
+    "articleCount": 20
+  },
+  {
     "slug": "sfjs-7949978a75",
     "title": "最高人民法院关于人民法院审理事业单位人事争议案件若干问题的规定",
     "outputPath": "data/processed/laws/sfjs-7949978a75.json",
     "paragraphCount": 9,
     "sectionCount": 0,
     "articleCount": 3
+  },
+  {
+    "slug": "sfjs-79639c9f83",
+    "title": "最高人民法院关于如何认定国有控股、参股股份有限公司中的国有公司、企业人员的解释",
+    "outputPath": "data/processed/laws/sfjs-79639c9f83.json",
+    "paragraphCount": 11,
+    "sectionCount": 0,
+    "articleCount": 1
   },
   {
     "slug": "sfjs-7c86c3392f",
@@ -2720,6 +2904,14 @@
     "articleCount": 14
   },
   {
+    "slug": "sfjs-84ae754aa6",
+    "title": "最高人民法院关于不服政府或房地产行政主管部门对争执房屋的确权行为提起诉讼人民法院应作何种案件受理问题的函",
+    "outputPath": "data/processed/laws/sfjs-84ae754aa6.json",
+    "paragraphCount": 8,
+    "sectionCount": 0,
+    "articleCount": 1
+  },
+  {
     "slug": "sfjs-86a0d8d47e",
     "title": "最高人民法院关于审理涉及国有土地使用权合同纠纷案件适用法律问题的解释",
     "outputPath": "data/processed/laws/sfjs-86a0d8d47e.json",
@@ -2734,6 +2926,14 @@
     "paragraphCount": 107,
     "sectionCount": 0,
     "articleCount": 13
+  },
+  {
+    "slug": "sfjs-8d948f9896",
+    "title": "最高人民法院关于适用《中华人民共和国保险法》若干问题的解释（二）",
+    "outputPath": "data/processed/laws/sfjs-8d948f9896.json",
+    "paragraphCount": 42,
+    "sectionCount": 0,
+    "articleCount": 21
   },
   {
     "slug": "sfjs-8dc7b79ba1",
@@ -2782,6 +2982,14 @@
     "paragraphCount": 29,
     "sectionCount": 0,
     "articleCount": 11
+  },
+  {
+    "slug": "sfjs-9e6213cbff",
+    "title": "最高人民法院关于内地与香港特别行政区相互执行仲裁裁决的补充安排",
+    "outputPath": "data/processed/laws/sfjs-9e6213cbff.json",
+    "paragraphCount": 11,
+    "sectionCount": 0,
+    "articleCount": 1
   },
   {
     "slug": "sfjs-9e99e955b2",
@@ -2944,6 +3152,14 @@
     "articleCount": 27
   },
   {
+    "slug": "sfjs-cbcdaf7efe",
+    "title": "最高人民法院关于适用《中华人民共和国公司法》若干问题的规定（二）",
+    "outputPath": "data/processed/laws/sfjs-cbcdaf7efe.json",
+    "paragraphCount": 67,
+    "sectionCount": 0,
+    "articleCount": 24
+  },
+  {
     "slug": "sfjs-cbd39aa13a",
     "title": "最高人民法院关于审理利用信息网络侵害人身权益民事纠纷案件适用法律若干问题的规定",
     "outputPath": "data/processed/laws/sfjs-cbd39aa13a.json",
@@ -2960,12 +3176,28 @@
     "articleCount": 6
   },
   {
+    "slug": "sfjs-d436ec6558",
+    "title": "最高人民法院关于适用《中华人民共和国企业破产法》若干问题的规定（一）",
+    "outputPath": "data/processed/laws/sfjs-d436ec6558.json",
+    "paragraphCount": 36,
+    "sectionCount": 0,
+    "articleCount": 9
+  },
+  {
     "slug": "sfjs-d64ff07e46",
     "title": "最高人民法院关于严格执行案件审理期限制度的若干规定",
     "outputPath": "data/processed/laws/sfjs-d64ff07e46.json",
     "paragraphCount": 75,
     "sectionCount": 0,
     "articleCount": 24
+  },
+  {
+    "slug": "sfjs-d8dcd1c323",
+    "title": "最高人民法院关于适用《中华人民共和国保险法》若干问题的解释（四）",
+    "outputPath": "data/processed/laws/sfjs-d8dcd1c323.json",
+    "paragraphCount": 46,
+    "sectionCount": 0,
+    "articleCount": 21
   },
   {
     "slug": "sfjs-d9565182f3",
@@ -3008,6 +3240,14 @@
     "articleCount": 18
   },
   {
+    "slug": "sfjs-dc74773e03",
+    "title": "最高人民法院关于执行领事条约中对派遣国船舶实行强制措施时保护条款的通知",
+    "outputPath": "data/processed/laws/sfjs-dc74773e03.json",
+    "paragraphCount": 20,
+    "sectionCount": 0,
+    "articleCount": 1
+  },
+  {
     "slug": "sfjs-df877fa00b",
     "title": "最高人民法院关于适用《中华人民共和国民事诉讼法》审判监督程序若干问题的解释",
     "outputPath": "data/processed/laws/sfjs-df877fa00b.json",
@@ -3046,6 +3286,14 @@
     "paragraphCount": 12,
     "sectionCount": 0,
     "articleCount": 3
+  },
+  {
+    "slug": "sfjs-e9114bebef",
+    "title": "最高人民法院关于内地与香港特别行政区相互执行仲裁裁决的安排",
+    "outputPath": "data/processed/laws/sfjs-e9114bebef.json",
+    "paragraphCount": 105,
+    "sectionCount": 0,
+    "articleCount": 1
   },
   {
     "slug": "sfjs-ef9972cb26",
@@ -3104,6 +3352,14 @@
     "articleCount": 28
   },
   {
+    "slug": "sfjs-gongsifa-5",
+    "title": "最高人民法院关于适用《中华人民共和国公司法》若干问题的规定（五）",
+    "outputPath": "data/processed/laws/sfjs-gongsifa-5.json",
+    "paragraphCount": 22,
+    "sectionCount": 0,
+    "articleCount": 6
+  },
+  {
     "slug": "sfjs-jianshe",
     "title": "最高人民法院关于审理建设工程施工合同纠纷案件适用法律问题的解释（一）",
     "outputPath": "data/processed/laws/sfjs-jianshe.json",
@@ -3128,6 +3384,14 @@
     "articleCount": 54
   },
   {
+    "slug": "sfjs-laodong-2",
+    "title": "最高人民法院关于审理劳动争议案件适用法律问题的解释（二）",
+    "outputPath": "data/processed/laws/sfjs-laodong-2.json",
+    "paragraphCount": 55,
+    "sectionCount": 0,
+    "articleCount": 21
+  },
+  {
     "slug": "sfjs-maimai",
     "title": "最高人民法院关于审理买卖合同纠纷案件适用法律问题的解释",
     "outputPath": "data/processed/laws/sfjs-maimai.json",
@@ -3142,6 +3406,14 @@
     "paragraphCount": 195,
     "sectionCount": 0,
     "articleCount": 69
+  },
+  {
+    "slug": "sfjs-mfd-hunyin-1",
+    "title": "最高人民法院关于适用《中华人民共和国民法典》婚姻家庭编的解释（一）",
+    "outputPath": "data/processed/laws/sfjs-mfd-hunyin-1.json",
+    "paragraphCount": 168,
+    "sectionCount": 0,
+    "articleCount": 91
   },
   {
     "slug": "sfjs-mfd-hunyin-2",

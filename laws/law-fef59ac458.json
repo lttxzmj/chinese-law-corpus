@@ -1,0 +1,29 @@
+{
+  "id": "law-fef59ac458",
+  "officialId": "",
+  "title": "第五届全国人民代表大会常务委员会关于批准《国务院关于职工探亲待遇的规定》的决议",
+  "category": "法律",
+  "issuingAuthority": "全国人民代表大会常务委员会",
+  "promulgationDate": "1981-03-06",
+  "effectiveDate": "1981-03-06",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/law-fef59ac458/metadata.json",
+    "docxPath": "data/laws/law-fef59ac458/official.docx",
+    "pdfPath": "data/laws/law-fef59ac458/official.pdf"
+  },
+  "paragraphCount": 3,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "law-fef59ac458-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "第五届全国人民代表大会常务委员会关于批准《国务院关于职工探亲待遇的规定》的决议\n（1981年3月6日通过）\n第五届全国人民代表大会常务委员会第十七次会议决定：批准《国务院关于职工探亲待遇的规定》，由国务院公布施行。",
+      "order": 1
+    }
+  ]
+}

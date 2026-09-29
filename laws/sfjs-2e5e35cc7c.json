@@ -1,0 +1,69 @@
+{
+  "id": "sfjs-2e5e35cc7c",
+  "officialId": "",
+  "title": "最高人民法院关于适用《中华人民共和国公司法》若干问题的规定（一）",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院",
+  "promulgationDate": "2014-02-20",
+  "effectiveDate": "2014-03-01",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-2e5e35cc7c/metadata.json",
+    "docxPath": "data/laws/sfjs-2e5e35cc7c/official.docx",
+    "pdfPath": "data/laws/sfjs-2e5e35cc7c/official.pdf"
+  },
+  "paragraphCount": 11,
+  "sectionCount": 0,
+  "articleCount": 6,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-2e5e35cc7c-0001",
+      "articleNumber": 1,
+      "displayNumber": "第一条",
+      "path": [],
+      "text": "公司法实施后，人民法院尚未审结的和新受理的民事案件，其民事行为或事件发生在公司法实施以前的，适用当时的法律法规和司法解释。",
+      "order": 1
+    },
+    {
+      "id": "sfjs-2e5e35cc7c-0002",
+      "articleNumber": 2,
+      "displayNumber": "第二条",
+      "path": [],
+      "text": "因公司法实施前有关民事行为或者事件发生纠纷起诉到人民法院的，如当时的法律法规和司法解释没有明确规定时，可参照适用公司法的有关规定。",
+      "order": 2
+    },
+    {
+      "id": "sfjs-2e5e35cc7c-0003",
+      "articleNumber": 3,
+      "displayNumber": "第三条",
+      "path": [],
+      "text": "原告以公司法第二十二条第二款、第七十四条第二款规定事由，向人民法院提起诉讼时，超过公司法规定期限的，人民法院不予受理。",
+      "order": 3
+    },
+    {
+      "id": "sfjs-2e5e35cc7c-0004",
+      "articleNumber": 4,
+      "displayNumber": "第四条",
+      "path": [],
+      "text": "公司法第一百五十一条规定的180日以上连续持股期间，应为股东向人民法院提起诉讼时，已期满的持股时间；规定的合计持有公司百分之一以上股份，是指两个以上股东持股份额的合计。",
+      "order": 4
+    },
+    {
+      "id": "sfjs-2e5e35cc7c-0005",
+      "articleNumber": 5,
+      "displayNumber": "第五条",
+      "path": [],
+      "text": "人民法院对公司法实施前已经终审的案件依法进行再审时，不适用公司法的规定。",
+      "order": 5
+    },
+    {
+      "id": "sfjs-2e5e35cc7c-0006",
+      "articleNumber": 6,
+      "displayNumber": "第六条",
+      "path": [],
+      "text": "本规定自公布之日起实施。",
+      "order": 6
+    }
+  ]
+}
