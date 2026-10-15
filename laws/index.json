@@ -2544,6 +2544,14 @@
     "articleCount": 15
   },
   {
+    "slug": "sfjs-1dd3a7dc89",
+    "title": "最高人民法院、最高人民检察院关于办理诈骗刑事案件具体应用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-1dd3a7dc89.json",
+    "paragraphCount": 45,
+    "sectionCount": 0,
+    "articleCount": 11
+  },
+  {
     "slug": "sfjs-1e03941979",
     "title": "最高人民法院关于适用《中华人民共和国保险法》若干问题的解释（三）",
     "outputPath": "data/processed/laws/sfjs-1e03941979.json",
@@ -2576,6 +2584,14 @@
     "articleCount": 16
   },
   {
+    "slug": "sfjs-2470d452f1",
+    "title": "最高人民法院、最高人民检察院关于办理危害食品安全刑事案件适用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-2470d452f1.json",
+    "paragraphCount": 89,
+    "sectionCount": 0,
+    "articleCount": 26
+  },
+  {
     "slug": "sfjs-260aa5eda5",
     "title": "最高人民法院关于内地与香港特别行政区法院相互认可和执行婚姻家庭民事案件判决的安排",
     "outputPath": "data/processed/laws/sfjs-260aa5eda5.json",
@@ -2598,6 +2614,14 @@
     "paragraphCount": 126,
     "sectionCount": 0,
     "articleCount": 40
+  },
+  {
+    "slug": "sfjs-295c8025f9",
+    "title": "最高人民法院关于审理毒品犯罪案件适用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-295c8025f9.json",
+    "paragraphCount": 137,
+    "sectionCount": 0,
+    "articleCount": 14
   },
   {
     "slug": "sfjs-2a9333bfbd",
@@ -2632,6 +2656,14 @@
     "articleCount": 1
   },
   {
+    "slug": "sfjs-30edeba599",
+    "title": "最高人民法院、最高人民检察院关于办理拒不执行判决、裁定刑事案件适用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-30edeba599.json",
+    "paragraphCount": 41,
+    "sectionCount": 0,
+    "articleCount": 16
+  },
+  {
     "slug": "sfjs-3492980330",
     "title": "最高人民法院关于适用《中华人民共和国公司法》若干问题的规定（四）",
     "outputPath": "data/processed/laws/sfjs-3492980330.json",
@@ -2648,6 +2680,14 @@
     "articleCount": 30
   },
   {
+    "slug": "sfjs-34e1fd3612",
+    "title": "最高人民法院、最高人民检察院关于办理危害药品安全刑事案件适用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-34e1fd3612.json",
+    "paragraphCount": 92,
+    "sectionCount": 0,
+    "articleCount": 21
+  },
+  {
     "slug": "sfjs-3652baa6a1",
     "title": "最高人民法院关于公证债权文书执行若干问题的规定",
     "outputPath": "data/processed/laws/sfjs-3652baa6a1.json",
@@ -2662,6 +2702,14 @@
     "paragraphCount": 64,
     "sectionCount": 0,
     "articleCount": 27
+  },
+  {
+    "slug": "sfjs-377083513d",
+    "title": "最高人民法院、最高人民检察院关于办理赌博刑事案件具体应用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-377083513d.json",
+    "paragraphCount": 28,
+    "sectionCount": 0,
+    "articleCount": 9
   },
   {
     "slug": "sfjs-37fdaa6e8f",
@@ -2696,6 +2744,14 @@
     "articleCount": 21
   },
   {
+    "slug": "sfjs-3f99606942",
+    "title": "最高人民法院、最高人民检察院关于办理内幕交易、泄露内幕信息刑事案件具体应用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-3f99606942.json",
+    "paragraphCount": 53,
+    "sectionCount": 0,
+    "articleCount": 11
+  },
+  {
     "slug": "sfjs-40b8c51584",
     "title": "最高人民法院关于证券纠纷代表人诉讼若干问题的规定",
     "outputPath": "data/processed/laws/sfjs-40b8c51584.json",
@@ -2720,6 +2776,14 @@
     "articleCount": 1
   },
   {
+    "slug": "sfjs-48ccf9c396",
+    "title": "最高人民法院关于适用《中华人民共和国行政诉讼法》的解释",
+    "outputPath": "data/processed/laws/sfjs-48ccf9c396.json",
+    "paragraphCount": 489,
+    "sectionCount": 0,
+    "articleCount": 163
+  },
+  {
     "slug": "sfjs-4ba5b4bd8a",
     "title": "最高人民法院关于审理道路交通事故损害赔偿案件适用法律若干问题的解释",
     "outputPath": "data/processed/laws/sfjs-4ba5b4bd8a.json",
@@ -2736,12 +2800,28 @@
     "articleCount": 33
   },
   {
+    "slug": "sfjs-511a706624",
+    "title": "最高人民法院关于国家赔偿监督程序若干问题的规定",
+    "outputPath": "data/processed/laws/sfjs-511a706624.json",
+    "paragraphCount": 90,
+    "sectionCount": 0,
+    "articleCount": 27
+  },
+  {
     "slug": "sfjs-51431a6c91",
     "title": "最高人民法院关于技术调查官参与知识产权案件诉讼活动的若干规定",
     "outputPath": "data/processed/laws/sfjs-51431a6c91.json",
     "paragraphCount": 38,
     "sectionCount": 0,
     "articleCount": 15
+  },
+  {
+    "slug": "sfjs-520821ba98",
+    "title": "最高人民法院关于适用《中华人民共和国刑事诉讼法》的解释",
+    "outputPath": "data/processed/laws/sfjs-520821ba98.json",
+    "paragraphCount": 1786,
+    "sectionCount": 55,
+    "articleCount": 655
   },
   {
     "slug": "sfjs-53ed4d5678",
@@ -2758,6 +2838,14 @@
     "paragraphCount": 38,
     "sectionCount": 0,
     "articleCount": 11
+  },
+  {
+    "slug": "sfjs-56a02a0bbd",
+    "title": "最高人民法院关于在审理经济纠纷案件中涉及经济犯罪嫌疑若干问题的规定",
+    "outputPath": "data/processed/laws/sfjs-56a02a0bbd.json",
+    "paragraphCount": 21,
+    "sectionCount": 0,
+    "articleCount": 12
   },
   {
     "slug": "sfjs-571b7d6fd0",
@@ -2800,12 +2888,28 @@
     "articleCount": 27
   },
   {
+    "slug": "sfjs-5f6fa5b5cc",
+    "title": "最高人民法院关于审理存单纠纷案件的若干规定",
+    "outputPath": "data/processed/laws/sfjs-5f6fa5b5cc.json",
+    "paragraphCount": 53,
+    "sectionCount": 0,
+    "articleCount": 9
+  },
+  {
     "slug": "sfjs-5fd17f3758",
     "title": "最高人民法院关于北京、上海、广州知识产权法院案件管辖的规定",
     "outputPath": "data/processed/laws/sfjs-5fd17f3758.json",
     "paragraphCount": 25,
     "sectionCount": 0,
     "articleCount": 8
+  },
+  {
+    "slug": "sfjs-5fff062b76",
+    "title": "最高人民法院关于人民法院办理财产保全案件若干问题的规定",
+    "outputPath": "data/processed/laws/sfjs-5fff062b76.json",
+    "paragraphCount": 79,
+    "sectionCount": 0,
+    "articleCount": 29
   },
   {
     "slug": "sfjs-639a663942",
@@ -2832,12 +2936,44 @@
     "articleCount": 23
   },
   {
+    "slug": "sfjs-6758b9a6eb",
+    "title": "最高人民法院关于审理行政赔偿案件若干问题的规定",
+    "outputPath": "data/processed/laws/sfjs-6758b9a6eb.json",
+    "paragraphCount": 90,
+    "sectionCount": 0,
+    "articleCount": 33
+  },
+  {
+    "slug": "sfjs-68b7c97368",
+    "title": "最高人民法院关于适用《中华人民共和国反不正当竞争法》若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-68b7c97368.json",
+    "paragraphCount": 60,
+    "sectionCount": 0,
+    "articleCount": 29
+  },
+  {
     "slug": "sfjs-68ca3f8c29",
     "title": "最高人民法院关于商标法修改决定施行后商标案件管辖和法律适用问题的解释",
     "outputPath": "data/processed/laws/sfjs-68ca3f8c29.json",
     "paragraphCount": 34,
     "sectionCount": 0,
     "articleCount": 9
+  },
+  {
+    "slug": "sfjs-6a1c87279a",
+    "title": "最高人民法院、最高人民检察院关于办理寻衅滋事刑事案件适用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-6a1c87279a.json",
+    "paragraphCount": 35,
+    "sectionCount": 0,
+    "articleCount": 8
+  },
+  {
+    "slug": "sfjs-6a95d03a50",
+    "title": "最高人民法院、最高人民检察院关于办理非法利用信息网络、帮助信息网络犯罪活动等刑事案件适用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-6a95d03a50.json",
+    "paragraphCount": 86,
+    "sectionCount": 0,
+    "articleCount": 19
   },
   {
     "slug": "sfjs-6ce825c5bd",
@@ -2880,6 +3016,14 @@
     "articleCount": 31
   },
   {
+    "slug": "sfjs-7dbc19a972",
+    "title": "最高人民法院关于审理非法集资刑事案件具体应用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-7dbc19a972.json",
+    "paragraphCount": 72,
+    "sectionCount": 0,
+    "articleCount": 15
+  },
+  {
     "slug": "sfjs-7e9d715a52",
     "title": "最高人民法院关于人民法院办理仲裁裁决执行案件若干问题的规定",
     "outputPath": "data/processed/laws/sfjs-7e9d715a52.json",
@@ -2912,6 +3056,14 @@
     "articleCount": 1
   },
   {
+    "slug": "sfjs-855a0254ff",
+    "title": "最高人民法院关于人民法院赔偿委员会审理国家赔偿案件程序的规定",
+    "outputPath": "data/processed/laws/sfjs-855a0254ff.json",
+    "paragraphCount": 76,
+    "sectionCount": 0,
+    "articleCount": 24
+  },
+  {
     "slug": "sfjs-86a0d8d47e",
     "title": "最高人民法院关于审理涉及国有土地使用权合同纠纷案件适用法律问题的解释",
     "outputPath": "data/processed/laws/sfjs-86a0d8d47e.json",
@@ -2920,12 +3072,44 @@
     "articleCount": 25
   },
   {
+    "slug": "sfjs-86ff030d78",
+    "title": "最高人民法院、最高人民检察院关于办理洗钱刑事案件适用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-86ff030d78.json",
+    "paragraphCount": 35,
+    "sectionCount": 0,
+    "articleCount": 13
+  },
+  {
     "slug": "sfjs-886bccaa66",
     "title": "最高人民法院关于公布失信被执行人名单信息的若干规定",
     "outputPath": "data/processed/laws/sfjs-886bccaa66.json",
     "paragraphCount": 107,
     "sectionCount": 0,
     "articleCount": 13
+  },
+  {
+    "slug": "sfjs-8a50b3a5a9",
+    "title": "最高人民法院、最高人民检察院关于办理贪污贿赂刑事案件适用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-8a50b3a5a9.json",
+    "paragraphCount": 86,
+    "sectionCount": 0,
+    "articleCount": 20
+  },
+  {
+    "slug": "sfjs-8bd18c3da3",
+    "title": "最高人民法院、最高人民检察院关于办理环境污染刑事案件适用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-8bd18c3da3.json",
+    "paragraphCount": 86,
+    "sectionCount": 0,
+    "articleCount": 20
+  },
+  {
+    "slug": "sfjs-8ca331543a",
+    "title": "最高人民法院、最高人民检察院关于办理侵犯知识产权刑事案件适用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-8ca331543a.json",
+    "paragraphCount": 130,
+    "sectionCount": 0,
+    "articleCount": 31
   },
   {
     "slug": "sfjs-8d948f9896",
@@ -2942,6 +3126,14 @@
     "paragraphCount": 136,
     "sectionCount": 0,
     "articleCount": 75
+  },
+  {
+    "slug": "sfjs-9077488239",
+    "title": "最高人民法院、最高人民检察院关于办理掩饰、隐瞒犯罪所得、犯罪所得收益刑事案件适用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-9077488239.json",
+    "paragraphCount": 31,
+    "sectionCount": 0,
+    "articleCount": 12
   },
   {
     "slug": "sfjs-94041b8c62",
@@ -2968,6 +3160,14 @@
     "articleCount": 48
   },
   {
+    "slug": "sfjs-96892cd009",
+    "title": "最高人民法院、最高人民检察院关于办理抢夺刑事案件适用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-96892cd009.json",
+    "paragraphCount": 41,
+    "sectionCount": 0,
+    "articleCount": 7
+  },
+  {
     "slug": "sfjs-973b0dfb96",
     "title": "最高人民法院关于审理涉及会计师事务所在审计业务活动中民事侵权赔偿案件的若干规定",
     "outputPath": "data/processed/laws/sfjs-973b0dfb96.json",
@@ -2982,6 +3182,22 @@
     "paragraphCount": 29,
     "sectionCount": 0,
     "articleCount": 11
+  },
+  {
+    "slug": "sfjs-9b0e2db5ad",
+    "title": "最高人民法院、最高人民检察院关于办理行贿刑事案件具体应用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-9b0e2db5ad.json",
+    "paragraphCount": 48,
+    "sectionCount": 0,
+    "articleCount": 13
+  },
+  {
+    "slug": "sfjs-9d6043ebde",
+    "title": "最高人民法院关于设立国际商事法庭若干问题的规定",
+    "outputPath": "data/processed/laws/sfjs-9d6043ebde.json",
+    "paragraphCount": 47,
+    "sectionCount": 0,
+    "articleCount": 19
   },
   {
     "slug": "sfjs-9e6213cbff",
@@ -3013,7 +3229,7 @@
     "outputPath": "data/processed/laws/sfjs-a2df6ac48b.json",
     "paragraphCount": 55,
     "sectionCount": 0,
-    "articleCount": 12
+    "articleCount": 11
   },
   {
     "slug": "sfjs-a6af4a0ad4",
@@ -3022,6 +3238,14 @@
     "paragraphCount": 82,
     "sectionCount": 0,
     "articleCount": 31
+  },
+  {
+    "slug": "sfjs-ab7526a719",
+    "title": "最高人民法院关于适用《中华人民共和国国家赔偿法》若干问题的解释（一）",
+    "outputPath": "data/processed/laws/sfjs-ab7526a719.json",
+    "paragraphCount": 25,
+    "sectionCount": 0,
+    "articleCount": 11
   },
   {
     "slug": "sfjs-b0f609354c",
@@ -3056,6 +3280,14 @@
     "articleCount": 17
   },
   {
+    "slug": "sfjs-b6d4d20fd1",
+    "title": "最高人民法院  最高人民检察院关于办理强奸、猥亵未成年人刑事案件适用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-b6d4d20fd1.json",
+    "paragraphCount": 55,
+    "sectionCount": 0,
+    "articleCount": 16
+  },
+  {
     "slug": "sfjs-b7dcaf3f02",
     "title": "最高人民法院关于审理涉及农村土地承包经营纠纷调解仲裁案件适用法律若干问题的解释",
     "outputPath": "data/processed/laws/sfjs-b7dcaf3f02.json",
@@ -3078,6 +3310,14 @@
     "paragraphCount": 14,
     "sectionCount": 0,
     "articleCount": 4
+  },
+  {
+    "slug": "sfjs-c02840d79a",
+    "title": "最高人民法院关于审理挪用公款案件具体应用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-c02840d79a.json",
+    "paragraphCount": 25,
+    "sectionCount": 0,
+    "articleCount": 8
   },
   {
     "slug": "sfjs-c22364fd06",
@@ -3136,6 +3376,14 @@
     "articleCount": 22
   },
   {
+    "slug": "sfjs-c65ec9ede1",
+    "title": "最高人民法院 最高人民检察院关于办理操纵证券、期货市场刑事案件适用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-c65ec9ede1.json",
+    "paragraphCount": 58,
+    "sectionCount": 0,
+    "articleCount": 11
+  },
+  {
     "slug": "sfjs-c7902e049e",
     "title": "最高人民法院关于审理专利纠纷案件适用法律问题的若干规定",
     "outputPath": "data/processed/laws/sfjs-c7902e049e.json",
@@ -3150,6 +3398,14 @@
     "paragraphCount": 72,
     "sectionCount": 0,
     "articleCount": 27
+  },
+  {
+    "slug": "sfjs-c89e08e348",
+    "title": "最高人民法院、最高人民检察院关于办理侵犯公民个人信息刑事案件适用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-c89e08e348.json",
+    "paragraphCount": 45,
+    "sectionCount": 0,
+    "articleCount": 13
   },
   {
     "slug": "sfjs-cbcdaf7efe",
@@ -3168,6 +3424,14 @@
     "articleCount": 13
   },
   {
+    "slug": "sfjs-d1375131db",
+    "title": "最高人民法院关于审理环境民事公益诉讼案件适用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-d1375131db.json",
+    "paragraphCount": 72,
+    "sectionCount": 0,
+    "articleCount": 35
+  },
+  {
     "slug": "sfjs-d15b79e582",
     "title": "最高人民法院关于确定民事侵权精神损害赔偿责任若干问题的解释",
     "outputPath": "data/processed/laws/sfjs-d15b79e582.json",
@@ -3184,6 +3448,14 @@
     "articleCount": 9
   },
   {
+    "slug": "sfjs-d585b82af0",
+    "title": "最高人民法院关于审理与企业改制相关的民事纠纷案件若干问题的规定",
+    "outputPath": "data/processed/laws/sfjs-d585b82af0.json",
+    "paragraphCount": 60,
+    "sectionCount": 0,
+    "articleCount": 35
+  },
+  {
     "slug": "sfjs-d64ff07e46",
     "title": "最高人民法院关于严格执行案件审理期限制度的若干规定",
     "outputPath": "data/processed/laws/sfjs-d64ff07e46.json",
@@ -3192,12 +3464,28 @@
     "articleCount": 24
   },
   {
+    "slug": "sfjs-d7cb6e4a4c",
+    "title": "最高人民法院、最高人民检察院关于办理盗窃刑事案件适用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-d7cb6e4a4c.json",
+    "paragraphCount": 64,
+    "sectionCount": 0,
+    "articleCount": 15
+  },
+  {
     "slug": "sfjs-d8dcd1c323",
     "title": "最高人民法院关于适用《中华人民共和国保险法》若干问题的解释（四）",
     "outputPath": "data/processed/laws/sfjs-d8dcd1c323.json",
     "paragraphCount": 46,
     "sectionCount": 0,
     "articleCount": 21
+  },
+  {
+    "slug": "sfjs-d9099fe771",
+    "title": "最高人民法院、最高人民检察院关于办理利用信息网络实施诽谤等刑事案件适用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-d9099fe771.json",
+    "paragraphCount": 39,
+    "sectionCount": 0,
+    "articleCount": 10
   },
   {
     "slug": "sfjs-d9565182f3",
@@ -3214,6 +3502,14 @@
     "paragraphCount": 42,
     "sectionCount": 0,
     "articleCount": 15
+  },
+  {
+    "slug": "sfjs-da7fad7503",
+    "title": "最高人民法院、最高人民检察院关于办理敲诈勒索刑事案件适用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-da7fad7503.json",
+    "paragraphCount": 28,
+    "sectionCount": 0,
+    "articleCount": 9
   },
   {
     "slug": "sfjs-da9a83df57",
@@ -3238,6 +3534,14 @@
     "paragraphCount": 57,
     "sectionCount": 0,
     "articleCount": 18
+  },
+  {
+    "slug": "sfjs-dc298594d6",
+    "title": "最高人民法院关于审理抢劫案件具体应用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-dc298594d6.json",
+    "paragraphCount": 14,
+    "sectionCount": 0,
+    "articleCount": 6
   },
   {
     "slug": "sfjs-dc74773e03",
@@ -3272,12 +3576,36 @@
     "articleCount": 31
   },
   {
+    "slug": "sfjs-e26622d386",
+    "title": "最高人民法院、最高人民检察院关于办理非法采矿、破坏性采矿刑事案件适用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-e26622d386.json",
+    "paragraphCount": 54,
+    "sectionCount": 0,
+    "articleCount": 16
+  },
+  {
     "slug": "sfjs-e4109b30f8",
     "title": "最高人民法院关于以法院专递方式邮寄送达民事诉讼文书的若干规定",
     "outputPath": "data/processed/laws/sfjs-e4109b30f8.json",
     "paragraphCount": 39,
     "sectionCount": 0,
     "articleCount": 12
+  },
+  {
+    "slug": "sfjs-e46dfc0900",
+    "title": "最高人民法院关于审理民事案件适用诉讼时效制度若干问题的规定",
+    "outputPath": "data/processed/laws/sfjs-e46dfc0900.json",
+    "paragraphCount": 54,
+    "sectionCount": 0,
+    "articleCount": 21
+  },
+  {
+    "slug": "sfjs-e630602fbf",
+    "title": "最高人民法院关于审理交通肇事刑事案件具体应用法律若干问题的解释",
+    "outputPath": "data/processed/laws/sfjs-e630602fbf.json",
+    "paragraphCount": 30,
+    "sectionCount": 0,
+    "articleCount": 9
   },
   {
     "slug": "sfjs-e7e323671e",
@@ -3302,6 +3630,14 @@
     "paragraphCount": 28,
     "sectionCount": 0,
     "articleCount": 8
+  },
+  {
+    "slug": "sfjs-f0d48f76d6",
+    "title": "最高人民法院关于适用《中华人民共和国涉外民事关系法律适用法》若干问题的解释（二）",
+    "outputPath": "data/processed/laws/sfjs-f0d48f76d6.json",
+    "paragraphCount": 37,
+    "sectionCount": 0,
+    "articleCount": 13
   },
   {
     "slug": "sfjs-f8155f5a8d",
@@ -3566,5 +3902,261 @@
     "paragraphCount": 274,
     "sectionCount": 7,
     "articleCount": 119
+  },
+  {
+    "slug": "xzfg-0de35ca915",
+    "title": "期货交易管理条例",
+    "outputPath": "data/processed/laws/xzfg-0de35ca915.json",
+    "paragraphCount": 306,
+    "sectionCount": 8,
+    "articleCount": 86
+  },
+  {
+    "slug": "xzfg-0fc3403a64",
+    "title": "国有土地上房屋征收与补偿条例",
+    "outputPath": "data/processed/laws/xzfg-0fc3403a64.json",
+    "paragraphCount": 77,
+    "sectionCount": 5,
+    "articleCount": 35
+  },
+  {
+    "slug": "xzfg-217b330e27",
+    "title": "中华人民共和国植物新品种保护条例",
+    "outputPath": "data/processed/laws/xzfg-217b330e27.json",
+    "paragraphCount": 133,
+    "sectionCount": 8,
+    "articleCount": 49
+  },
+  {
+    "slug": "xzfg-246c579a3c",
+    "title": "机动车交通事故责任强制保险条例",
+    "outputPath": "data/processed/laws/xzfg-246c579a3c.json",
+    "paragraphCount": 103,
+    "sectionCount": 5,
+    "articleCount": 46
+  },
+  {
+    "slug": "xzfg-25f76ae9c6",
+    "title": "中华人民共和国专利法实施细则",
+    "outputPath": "data/processed/laws/xzfg-25f76ae9c6.json",
+    "paragraphCount": 437,
+    "sectionCount": 13,
+    "articleCount": 149
+  },
+  {
+    "slug": "xzfg-38dc6b8669",
+    "title": "中华人民共和国食品安全法实施条例",
+    "outputPath": "data/processed/laws/xzfg-38dc6b8669.json",
+    "paragraphCount": 143,
+    "sectionCount": 10,
+    "articleCount": 86
+  },
+  {
+    "slug": "xzfg-3a08abf240",
+    "title": "中华人民共和国市场主体登记管理条例",
+    "outputPath": "data/processed/laws/xzfg-3a08abf240.json",
+    "paragraphCount": 142,
+    "sectionCount": 6,
+    "articleCount": 55
+  },
+  {
+    "slug": "xzfg-4eb3304079",
+    "title": "女职工劳动保护特别规定",
+    "outputPath": "data/processed/laws/xzfg-4eb3304079.json",
+    "paragraphCount": 51,
+    "sectionCount": 0,
+    "articleCount": 16
+  },
+  {
+    "slug": "xzfg-58f07076ea",
+    "title": "中华人民共和国商标法实施条例",
+    "outputPath": "data/processed/laws/xzfg-58f07076ea.json",
+    "paragraphCount": 213,
+    "sectionCount": 10,
+    "articleCount": 98
+  },
+  {
+    "slug": "xzfg-5c68a817b0",
+    "title": "医疗纠纷预防和处理条例",
+    "outputPath": "data/processed/laws/xzfg-5c68a817b0.json",
+    "paragraphCount": 125,
+    "sectionCount": 5,
+    "articleCount": 56
+  },
+  {
+    "slug": "xzfg-662078a4f6",
+    "title": "不动产登记暂行条例",
+    "outputPath": "data/processed/laws/xzfg-662078a4f6.json",
+    "paragraphCount": 109,
+    "sectionCount": 6,
+    "articleCount": 35
+  },
+  {
+    "slug": "xzfg-663d1e21d7",
+    "title": "诉讼费用交纳办法",
+    "outputPath": "data/processed/laws/xzfg-663d1e21d7.json",
+    "paragraphCount": 169,
+    "sectionCount": 8,
+    "articleCount": 56
+  },
+  {
+    "slug": "xzfg-6720d534b3",
+    "title": "中华人民共和国著作权法实施条例",
+    "outputPath": "data/processed/laws/xzfg-6720d534b3.json",
+    "paragraphCount": 66,
+    "sectionCount": 0,
+    "articleCount": 38
+  },
+  {
+    "slug": "xzfg-6a4e3d70d4",
+    "title": "失业保险条例",
+    "outputPath": "data/processed/laws/xzfg-6a4e3d70d4.json",
+    "paragraphCount": 79,
+    "sectionCount": 6,
+    "articleCount": 33
+  },
+  {
+    "slug": "xzfg-7190df39f2",
+    "title": "中华人民共和国道路交通安全法实施条例",
+    "outputPath": "data/processed/laws/xzfg-7190df39f2.json",
+    "paragraphCount": 320,
+    "sectionCount": 15,
+    "articleCount": 115
+  },
+  {
+    "slug": "xzfg-7b977506f7",
+    "title": "物业管理条例",
+    "outputPath": "data/processed/laws/xzfg-7b977506f7.json",
+    "paragraphCount": 152,
+    "sectionCount": 7,
+    "articleCount": 67
+  },
+  {
+    "slug": "xzfg-8c97b575ba",
+    "title": "企业名称登记管理规定",
+    "outputPath": "data/processed/laws/xzfg-8c97b575ba.json",
+    "paragraphCount": 52,
+    "sectionCount": 0,
+    "articleCount": 26
+  },
+  {
+    "slug": "xzfg-8ca169e595",
+    "title": "计算机软件保护条例",
+    "outputPath": "data/processed/laws/xzfg-8ca169e595.json",
+    "paragraphCount": 84,
+    "sectionCount": 5,
+    "articleCount": 33
+  },
+  {
+    "slug": "xzfg-8e4ae5638e",
+    "title": "工伤保险条例",
+    "outputPath": "data/processed/laws/xzfg-8e4ae5638e.json",
+    "paragraphCount": 177,
+    "sectionCount": 8,
+    "articleCount": 67
+  },
+  {
+    "slug": "xzfg-8e59098ff5",
+    "title": "中华人民共和国招标投标法实施条例",
+    "outputPath": "data/processed/laws/xzfg-8e59098ff5.json",
+    "paragraphCount": 228,
+    "sectionCount": 7,
+    "articleCount": 84
+  },
+  {
+    "slug": "xzfg-a493ac26b0",
+    "title": "中华人民共和国政府信息公开条例",
+    "outputPath": "data/processed/laws/xzfg-a493ac26b0.json",
+    "paragraphCount": 131,
+    "sectionCount": 6,
+    "articleCount": 56
+  },
+  {
+    "slug": "xzfg-a6b2705ead",
+    "title": "中华人民共和国外汇管理条例",
+    "outputPath": "data/processed/laws/xzfg-a6b2705ead.json",
+    "paragraphCount": 105,
+    "sectionCount": 8,
+    "articleCount": 54
+  },
+  {
+    "slug": "xzfg-aa5048269a",
+    "title": "建设工程安全生产管理条例",
+    "outputPath": "data/processed/laws/xzfg-aa5048269a.json",
+    "paragraphCount": 174,
+    "sectionCount": 8,
+    "articleCount": 71
+  },
+  {
+    "slug": "xzfg-b3de499071",
+    "title": "国有资产评估管理办法",
+    "outputPath": "data/processed/laws/xzfg-b3de499071.json",
+    "paragraphCount": 80,
+    "sectionCount": 6,
+    "articleCount": 39
+  },
+  {
+    "slug": "xzfg-b92edb9455",
+    "title": "中华人民共和国土地管理法实施条例",
+    "outputPath": "data/processed/laws/xzfg-b92edb9455.json",
+    "paragraphCount": 149,
+    "sectionCount": 12,
+    "articleCount": 67
+  },
+  {
+    "slug": "xzfg-bcade48afd",
+    "title": "建设工程质量管理条例",
+    "outputPath": "data/processed/laws/xzfg-bcade48afd.json",
+    "paragraphCount": 172,
+    "sectionCount": 9,
+    "articleCount": 82
+  },
+  {
+    "slug": "xzfg-c962f8d004",
+    "title": "医疗事故处理条例",
+    "outputPath": "data/processed/laws/xzfg-c962f8d004.json",
+    "paragraphCount": 167,
+    "sectionCount": 7,
+    "articleCount": 63
+  },
+  {
+    "slug": "xzfg-ccad4c984b",
+    "title": "中华人民共和国政府采购法实施条例",
+    "outputPath": "data/processed/laws/xzfg-ccad4c984b.json",
+    "paragraphCount": 203,
+    "sectionCount": 9,
+    "articleCount": 79
+  },
+  {
+    "slug": "xzfg-df951803c0",
+    "title": "职工带薪年休假条例",
+    "outputPath": "data/processed/laws/xzfg-df951803c0.json",
+    "paragraphCount": 22,
+    "sectionCount": 0,
+    "articleCount": 10
+  },
+  {
+    "slug": "xzfg-ec5eb2c922",
+    "title": "中华人民共和国劳动合同法实施条例",
+    "outputPath": "data/processed/laws/xzfg-ec5eb2c922.json",
+    "paragraphCount": 80,
+    "sectionCount": 6,
+    "articleCount": 38
+  },
+  {
+    "slug": "xzfg-f3e48f7006",
+    "title": "住房公积金管理条例",
+    "outputPath": "data/processed/laws/xzfg-f3e48f7006.json",
+    "paragraphCount": 122,
+    "sectionCount": 7,
+    "articleCount": 50
+  },
+  {
+    "slug": "xzfg-f764e4b761",
+    "title": "保障农民工工资支付条例",
+    "outputPath": "data/processed/laws/xzfg-f764e4b761.json",
+    "paragraphCount": 127,
+    "sectionCount": 7,
+    "articleCount": 64
   }
 ]
