@@ -2,15 +2,15 @@
 
 > Structured corpus of Chinese laws, regulations, judicial interpretations and court cases in clean JSON.
 
-**520 部法律、司法解释与行政法规（30,069 条逐条结构化，其中 516 部现行有效、4 部已公布尚未生效）+ 278 件最高人民法院指导性案例 + 445 件《最高人民法院公报》案例文书**，全部为干净的结构化 JSON，带效力状态、公布/施行日期与官方来源。
+**520 部法律、司法解释与行政法规（30,069 条逐条结构化，其中 517 部现行有效、3 部已公布尚未生效）+ 278 件最高人民法院指导性案例 + 445 件《最高人民法院公报》案例文书**，全部为干净的结构化 JSON，带效力状态、公布/施行日期与官方来源。
 
-最近同步：2026-10-15。本仓由 [法脉](https://lttxzmj.github.io/lawpulse-site/) 数据管道脚本自动同步，法律随官方公布持续更新（计数由脚本生成，如与官方库有出入请提 Issue）。
+最近同步：2026-10-16。本仓由 [法脉](https://lttxzmj.github.io/lawpulse-site/) 数据管道脚本自动同步，法律随官方公布持续更新（计数由脚本生成，如与官方库有出入请提 Issue）。
 
 ## 内容
 
 | 目录 | 内容 | 数量 |
 | --- | --- | --- |
-| `laws/` | 宪法 1 部、法律 312 部、司法解释 175 件、行政法规 32 件（其中 4 部已公布尚未生效），逐条结构化（编、章、节、条层级），含公布日期、施行日期、效力状态、发布机关 | 520 |
+| `laws/` | 宪法 1 部、法律 312 部、司法解释 175 件、行政法规 32 件（其中 3 部已公布尚未生效），逐条结构化（编、章、节、条层级），含公布日期、施行日期、效力状态、发布机关 | 520 |
 | `guiding-cases/` | 最高人民法院指导性案例（官方现行发布的全部 278 件，含关键词、裁判要点、基本案情、裁判结果、裁判理由、关联法条） | 278 |
 | `gazette-cases/` | 《最高人民法院公报》裁判文书选登与案例（判决文书正文与客观元数据） | 445 |
 
@@ -54,7 +54,7 @@ jq '.articles[] | select(.id=="civil-code-0577")' laws/civil-code.json
 
 Structured corpus of Chinese law in clean JSON, released under CC0: **520 statutes,
 judicial interpretations and administrative regulations** (article-level, 30,069 articles,
-with status and effective dates, incl. 4 promulgated-but-not-yet-effective, curated
+with status and effective dates, incl. 3 promulgated-but-not-yet-effective, curated
 from official sources), **278 SPC guiding cases** (holdings / facts / reasoning as
 separate fields) and **445 SPC Gazette case documents**. Stable article IDs
 (`civil-code-0577` = Civil Code art. 577) make it suitable for legal RAG, retrieval
