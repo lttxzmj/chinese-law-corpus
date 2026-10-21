@@ -1,0 +1,100 @@
+{
+  "id": "sfjs-9d586ad5d6",
+  "officialId": "",
+  "title": "最高人民法院、最高人民检察院关于执行《中华人民共和国刑法》确定罪名的补充规定（五）",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院、最高人民检察院",
+  "promulgationDate": "2011-04-27",
+  "effectiveDate": "2011-05-01",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-9d586ad5d6/metadata.json",
+    "docxPath": "data/laws/sfjs-9d586ad5d6/official.docx"
+  },
+  "paragraphCount": 43,
+  "sectionCount": 0,
+  "articleCount": 10,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-9d586ad5d6-0133-1",
+      "articleNumber": 133001,
+      "displayNumber": "第一百三十三条之一",
+      "path": [],
+      "text": "（《刑法修正案（八）》第二十二条）\n危险驾驶罪",
+      "order": 1
+    },
+    {
+      "id": "sfjs-9d586ad5d6-0143",
+      "articleNumber": 143,
+      "displayNumber": "第一百四十三条",
+      "path": [],
+      "text": "（《刑法修正案（八）》第二十四条）\n生产、销售不符合安全标准的食品罪（取消生产、销售不符合卫生标准的食品罪罪名）",
+      "order": 4
+    },
+    {
+      "id": "sfjs-9d586ad5d6-0164",
+      "articleNumber": 164,
+      "displayNumber": "第一百六十四条",
+      "path": [],
+      "text": "第二款\n（《刑法修正案（八）》第二十九条第二款）\n对外国公职人员、国际公共组织官员行贿罪",
+      "order": 7
+    },
+    {
+      "id": "sfjs-9d586ad5d6-0205-1",
+      "articleNumber": 205001,
+      "displayNumber": "第二百零五条之一",
+      "path": [],
+      "text": "（《刑法修正案（八）》第三十三条）\n虚开发票罪",
+      "order": 10
+    },
+    {
+      "id": "sfjs-9d586ad5d6-0210-1",
+      "articleNumber": 210001,
+      "displayNumber": "第二百一十条之一",
+      "path": [],
+      "text": "（《刑法修正案（八）》第三十五条）\n持有伪造的发票罪",
+      "order": 13
+    },
+    {
+      "id": "sfjs-9d586ad5d6-0234-1",
+      "articleNumber": 234001,
+      "displayNumber": "第二百三十四条之一",
+      "path": [],
+      "text": "第一款\n（《刑法修正案（八）》第三十七条第一款）\n组织出卖人体器官罪",
+      "order": 16
+    },
+    {
+      "id": "sfjs-9d586ad5d6-0244",
+      "articleNumber": 244,
+      "displayNumber": "第二百四十四条",
+      "path": [],
+      "text": "（《刑法修正案（八）》第三十八条）\n强迫劳动罪（取消强迫职工劳动罪罪名）",
+      "order": 19
+    },
+    {
+      "id": "sfjs-9d586ad5d6-0276-1",
+      "articleNumber": 276001,
+      "displayNumber": "第二百七十六条之一",
+      "path": [],
+      "text": "（《刑法修正案（八）》第四十一条）\n拒不支付劳动报酬罪",
+      "order": 22
+    },
+    {
+      "id": "sfjs-9d586ad5d6-0338",
+      "articleNumber": 338,
+      "displayNumber": "第三百三十八条",
+      "path": [],
+      "text": "（《刑法修正案（八）》第四十六条）\n污染环境罪（取消重大环境污染事故罪罪名）",
+      "order": 25
+    },
+    {
+      "id": "sfjs-9d586ad5d6-0408-1",
+      "articleNumber": 408001,
+      "displayNumber": "第四百零八条之一",
+      "path": [],
+      "text": "（《刑法修正案（八）》第四十九条）\n食品监管渎职罪",
+      "order": 28
+    }
+  ]
+}

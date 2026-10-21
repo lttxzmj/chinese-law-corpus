@@ -1,0 +1,28 @@
+{
+  "id": "sfjs-e8fc70bb60",
+  "officialId": "",
+  "title": "最高人民法院关于《中华人民共和国公司法》第八十八条第一款不溯及适用的批复",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院",
+  "promulgationDate": "2024-12-24",
+  "effectiveDate": "2024-12-24",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-e8fc70bb60/metadata.json",
+    "docxPath": "data/laws/sfjs-e8fc70bb60/official.docx"
+  },
+  "paragraphCount": 7,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-e8fc70bb60-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "法释〔2024〕15号\n（2024年12月24日最高人民法院审判委员会第1939次会议通过，自2024年12月24日起施行）\n河南省高级人民法院：\n你院《关于公司法第八十八条第一款是否溯及适用的请示》收悉。经研究，批复如下：\n2024年7月1日起施行的《中华人民共和国公司法》第八十八条第一款仅适用于2024年7月1日之后发生的未届出资期限的股权转让行为。对于2024年7月1日之前股东未届出资期限转让股权引发的出资责任纠纷，人民法院应当根据原公司法等有关法律的规定精神公平公正处理。\n本批复公布施行后，最高人民法院以前发布的司法解释与本批复规定不一致的，不再适用。",
+      "order": 1
+    }
+  ]
+}

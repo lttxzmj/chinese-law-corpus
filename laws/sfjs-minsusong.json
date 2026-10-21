@@ -9,8 +9,7 @@
   "status": "effective",
   "source": {
     "metadataPath": "data/laws/sfjs-minsusong/metadata.json",
-    "docxPath": "data/laws/sfjs-minsusong/official.docx",
-    "pdfPath": "data/laws/sfjs-minsusong/official.pdf"
+    "docxPath": "data/laws/sfjs-minsusong/official.docx"
   },
   "paragraphCount": 1122,
   "sectionCount": 0,

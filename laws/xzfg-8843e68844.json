@@ -1,0 +1,76 @@
+{
+  "id": "xzfg-8843e68844",
+  "officialId": "国务院令第529号",
+  "title": "国务院关于经营者集中申报标准的规定",
+  "category": "行政法规",
+  "issuingAuthority": "国务院",
+  "promulgationDate": "2024-01-22",
+  "effectiveDate": "2024-01-22",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/xzfg-8843e68844/metadata.json",
+    "docxPath": "data/laws/xzfg-8843e68844/official.docx"
+  },
+  "paragraphCount": 15,
+  "sectionCount": 0,
+  "articleCount": 7,
+  "sections": [],
+  "articles": [
+    {
+      "id": "xzfg-8843e68844-0001",
+      "articleNumber": 1,
+      "displayNumber": "第一条",
+      "path": [],
+      "text": "为了明确经营者集中的申报标准，根据《中华人民共和国反垄断法》，制定本规定。",
+      "order": 1
+    },
+    {
+      "id": "xzfg-8843e68844-0002",
+      "articleNumber": 2,
+      "displayNumber": "第二条",
+      "path": [],
+      "text": "经营者集中是指下列情形：\n（一）经营者合并；\n（二）经营者通过取得股权或者资产的方式取得对其他经营者的控制权；\n（三）经营者通过合同等方式取得对其他经营者的控制权或者能够对其他经营者施加决定性影响。",
+      "order": 2
+    },
+    {
+      "id": "xzfg-8843e68844-0003",
+      "articleNumber": 3,
+      "displayNumber": "第三条",
+      "path": [],
+      "text": "经营者集中达到下列标准之一的，经营者应当事先向国务院反垄断执法机构申报，未申报的不得实施集中：\n（一）参与集中的所有经营者上一会计年度在全球范围内的营业额合计超过120亿元人民币，并且其中至少两个经营者上一会计年度在中国境内的营业额均超过8亿元人民币；\n（二）参与集中的所有经营者上一会计年度在中国境内的营业额合计超过40亿元人民币，并且其中至少两个经营者上一会计年度在中国境内的营业额均超过8亿元人民币。\n营业额的计算，应当考虑银行、保险、证券、期货等特殊行业、领域的实际情况，具体办法由国务院反垄断执法机构会同国务院有关部门制定。",
+      "order": 6
+    },
+    {
+      "id": "xzfg-8843e68844-0004",
+      "articleNumber": 4,
+      "displayNumber": "第四条",
+      "path": [],
+      "text": "经营者集中未达到本规定第三条规定的申报标准，但有证据证明该经营者集中具有或者可能具有排除、限制竞争效果的，国务院反垄断执法机构可以要求经营者申报。",
+      "order": 10
+    },
+    {
+      "id": "xzfg-8843e68844-0005",
+      "articleNumber": 5,
+      "displayNumber": "第五条",
+      "path": [],
+      "text": "经营者未依照本规定第三条和第四条规定进行申报的，国务院反垄断执法机构应当依法进行调查。",
+      "order": 11
+    },
+    {
+      "id": "xzfg-8843e68844-0006",
+      "articleNumber": 6,
+      "displayNumber": "第六条",
+      "path": [],
+      "text": "国务院反垄断执法机构应当根据经济发展情况，对本规定确定的申报标准的实施情况进行评估。",
+      "order": 12
+    },
+    {
+      "id": "xzfg-8843e68844-0007",
+      "articleNumber": 7,
+      "displayNumber": "第七条",
+      "path": [],
+      "text": "本规定自公布之日起施行。",
+      "order": 13
+    }
+  ]
+}

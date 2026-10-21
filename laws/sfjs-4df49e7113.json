@@ -1,0 +1,76 @@
+{
+  "id": "sfjs-4df49e7113",
+  "officialId": "",
+  "title": "最高人民法院关于涉外民商事案件诉讼管辖若干问题的规定",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院",
+  "promulgationDate": "2020-12-29",
+  "effectiveDate": "2021-01-01",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-4df49e7113/metadata.json",
+    "docxPath": "data/laws/sfjs-4df49e7113/official.docx"
+  },
+  "paragraphCount": 27,
+  "sectionCount": 0,
+  "articleCount": 7,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-4df49e7113-0001",
+      "articleNumber": 1,
+      "displayNumber": "第一条",
+      "path": [],
+      "text": "第一审涉外民商事案件由下列人民法院管辖：\n（一）国务院批准设立的经济技术开发区人民法院；\n（二）省会、自治区首府、直辖市所在地的中级人民法院；\n（三）经济特区、计划单列市中级人民法院；\n（四）最高人民法院指定的其他中级人民法院；\n（五）高级人民法院。\n上述中级人民法院的区域管辖范围由所在地的高级人民法院确定。",
+      "order": 1
+    },
+    {
+      "id": "sfjs-4df49e7113-0002",
+      "articleNumber": 2,
+      "displayNumber": "第二条",
+      "path": [],
+      "text": "对国务院批准设立的经济技术开发区人民法院所作的第一审判决、裁定不服的，其第二审由所在地中级人民法院管辖。",
+      "order": 8
+    },
+    {
+      "id": "sfjs-4df49e7113-0003",
+      "articleNumber": 3,
+      "displayNumber": "第三条",
+      "path": [],
+      "text": "本规定适用于下列案件：\n（一）涉外合同和侵权纠纷案件；\n（二）信用证纠纷案件；\n（三）申请撤销、承认与强制执行国际仲裁裁决的案件；\n（四）审查有关涉外民商事仲裁条款效力的案件；\n（五）申请承认和强制执行外国法院民商事判决、裁定的案件。",
+      "order": 9
+    },
+    {
+      "id": "sfjs-4df49e7113-0004",
+      "articleNumber": 4,
+      "displayNumber": "第四条",
+      "path": [],
+      "text": "发生在与外国接壤的边境省份的边境贸易纠纷案件，涉外房地产案件和涉外知识产权案件，不适用本规定。",
+      "order": 15
+    },
+    {
+      "id": "sfjs-4df49e7113-0005",
+      "articleNumber": 5,
+      "displayNumber": "第五条",
+      "path": [],
+      "text": "涉及香港、澳门特别行政区和台湾地区当事人的民商事纠纷案件的管辖，参照本规定处理。",
+      "order": 16
+    },
+    {
+      "id": "sfjs-4df49e7113-0006",
+      "articleNumber": 6,
+      "displayNumber": "第六条",
+      "path": [],
+      "text": "高级人民法院应当对涉外民商事案件的管辖实施监督，凡越权受理涉外民商事案件的，应当通知或者裁定将案件移送有管辖权的人民法院审理。",
+      "order": 17
+    },
+    {
+      "id": "sfjs-4df49e7113-0007",
+      "articleNumber": 7,
+      "displayNumber": "第七条",
+      "path": [],
+      "text": "本规定于2002年3月1日起施行。本规定施行前已经受理的案件由原受理人民法院继续审理。\n本规定发布前的有关司法解释、规定与本规定不一致的，以本规定为准。",
+      "order": 18
+    }
+  ]
+}

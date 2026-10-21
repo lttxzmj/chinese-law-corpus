@@ -1,0 +1,28 @@
+{
+  "id": "sfjs-d2bcd03269",
+  "officialId": "",
+  "title": "最高人民法院关于对地下热水的属性及适用法律问题的答复",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院",
+  "promulgationDate": "1996-05-06",
+  "effectiveDate": "1996-05-06",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-d2bcd03269/metadata.json",
+    "docxPath": "data/laws/sfjs-d2bcd03269/official.docx"
+  },
+  "paragraphCount": 8,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-d2bcd03269-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "1996年5月6日 〔1996〕法行字第5号\n福建省高级人民法院：\n你院〔1995〕闽行他字第4号《关于地下热水的属性及适用法律问题的请示》收悉。经研究并征求国务院法制局的意见，现答复如下：\n地下热水（25℃以上）属于地热资源，具有矿产资源和水资源的双重属性。对地下热水的勘查、开发、利用、保护和管理应当适用《中华人民共和国矿产资源法》、《中华人民共和国矿产资源法实施细则》和《矿产资源补偿费征收管理规定》。但在依法办理城市规划区内地下热水（25℃以上）的开采登记手续时，应当附具水行政主管部门和城市建设行政主管部门的审查意见。\n此复。",
+      "order": 1
+    }
+  ]
+}

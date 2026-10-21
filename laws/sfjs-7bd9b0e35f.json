@@ -1,0 +1,28 @@
+{
+  "id": "sfjs-7bd9b0e35f",
+  "officialId": "",
+  "title": "最高人民法院关于在执行工作中如何计算迟延履行期间的债务利息等问题的批复",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院",
+  "promulgationDate": "2009-05-11",
+  "effectiveDate": "2009-05-18",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-7bd9b0e35f/metadata.json",
+    "docxPath": "data/laws/sfjs-7bd9b0e35f/official.docx"
+  },
+  "paragraphCount": 18,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-7bd9b0e35f-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "法释〔2009〕6号\n（2009年3月30日最高人民法院审判委员会第1465次会议通过 2009年5月11日最高人民法院公告公布 自2009年5月18日起施行）\n四川省高级人民法院：\n你院《关于执行工作几个适用法律问题的请示》（川高法〔2007〕390号）收悉。经研究，批复如下：\n一、人民法院根据《中华人民共和国民事诉讼法》第二百二十九条计算“迟延履行期间的债务利息”时，应当按照中国人民银行规定的同期贷款基准利率计算。\n二、执行款不足以偿付全部债务的，应当根据并还原则按比例清偿法律文书确定的金钱债务与迟延履行期间的债务利息，但当事人在执行和解中对清偿顺序另有约定的除外。\n此复。\n附：\n具体计算方法\n（1）执行款＝清偿的法律文书确定的金钱债务＋清偿的迟延履行期间的债务利息。\n（2）清偿的迟延履行期间的债务利息＝清偿的法律文书确定的金钱债务×同期贷款基准利率×2×迟延履行期间。",
+      "order": 1
+    }
+  ]
+}

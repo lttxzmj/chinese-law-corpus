@@ -9,8 +9,7 @@
   "status": "effective",
   "source": {
     "metadataPath": "data/laws/sfjs-danbao/metadata.json",
-    "docxPath": "data/laws/sfjs-danbao/official.docx",
-    "pdfPath": "data/laws/sfjs-danbao/official.pdf"
+    "docxPath": "data/laws/sfjs-danbao/official.docx"
   },
   "paragraphCount": 200,
   "sectionCount": 0,

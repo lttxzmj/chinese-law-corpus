@@ -1,0 +1,28 @@
+{
+  "id": "sfjs-7c8e9e7dfa",
+  "officialId": "",
+  "title": "最高人民法院行政审判庭关于《呼和浩特市废旧金属管理暂行规定》的效力问题的答复",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院",
+  "promulgationDate": "1996-09-23",
+  "effectiveDate": "1996-09-23",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-7c8e9e7dfa/metadata.json",
+    "docxPath": "data/laws/sfjs-7c8e9e7dfa/official.docx"
+  },
+  "paragraphCount": 6,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-7c8e9e7dfa-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "1996年9月23日 〔1996〕行他字第23号\n内蒙古自治区高级人民法院：\n你院关于在审理案件中是否适用《呼和浩特市废旧金属管理暂行规定》的请示，经研究原则上同意你院意见，即：《呼和浩特市废旧金属管理暂行规定》中关于废旧金属出省区运输必须办理准运证，非法外运的由公安机关没收的规定是没有法律法规依据的。人民法院在审理此类案件中应以国务院有关规定为依据。",
+      "order": 1
+    }
+  ]
+}

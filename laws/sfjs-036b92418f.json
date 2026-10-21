@@ -1,0 +1,28 @@
+{
+  "id": "sfjs-036b92418f",
+  "officialId": "",
+  "title": "最高人民法院关于诉前财产保全几个问题的批复",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院",
+  "promulgationDate": "1998-11-27",
+  "effectiveDate": "1998-12-05",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-036b92418f/metadata.json",
+    "docxPath": "data/laws/sfjs-036b92418f/official.docx"
+  },
+  "paragraphCount": 11,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-036b92418f-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "法释〔1998〕29号\n（1998年11月19日最高人民法院审判委员会第1030次会议通过 1998年11月27日最高人民法院公告公布 自1998年12月5日起施行）\n湖北省高级人民法院：\n你院鄂高法〔1998〕63号《关于采取诉前财产保全几个问题的请示》收悉。经研究，答复如下：\n一、人民法院受理当事人诉前财产保全申请后，应当按照诉前财产保全标的金额并参照《中华人民共和国民事诉讼法》关于级别管辖和专属管辖的规定，决定采取诉前财产保全措施。\n二、采取财产保全措施的人民法院受理申请人的起诉后，发现所受理的案件不属于本院管辖的，应当将案件和财产保全申请费一并移送有管辖权的人民法院。\n案件移送后，诉前财产保全裁定继续有效。\n因执行诉前财产保全裁定而实际支出的费用，应由受诉人民法院在申请费中返还给作出诉前财产保全的人民法院。\n此复。",
+      "order": 1
+    }
+  ]
+}

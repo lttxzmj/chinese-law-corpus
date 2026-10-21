@@ -9,8 +9,7 @@
   "status": "effective",
   "source": {
     "metadataPath": "data/laws/sfjs-mfd-hunyin-1/metadata.json",
-    "docxPath": "data/laws/sfjs-mfd-hunyin-1/official.docx",
-    "pdfPath": "data/laws/sfjs-mfd-hunyin-1/official.pdf"
+    "docxPath": "data/laws/sfjs-mfd-hunyin-1/official.docx"
   },
   "paragraphCount": 168,
   "sectionCount": 0,

@@ -1,0 +1,100 @@
+{
+  "id": "sfjs-166ca40fae",
+  "officialId": "",
+  "title": "最高人民法院关于审理民事级别管辖异议案件若干问题的规定",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院",
+  "promulgationDate": "2020-12-29",
+  "effectiveDate": "2021-01-01",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-166ca40fae/metadata.json",
+    "docxPath": "data/laws/sfjs-166ca40fae/official.docx"
+  },
+  "paragraphCount": 16,
+  "sectionCount": 0,
+  "articleCount": 10,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-166ca40fae-0001",
+      "articleNumber": 1,
+      "displayNumber": "第一条",
+      "path": [],
+      "text": "被告在提交答辩状期间提出管辖权异议，认为受诉人民法院违反级别管辖规定，案件应当由上级人民法院或者下级人民法院管辖的，受诉人民法院应当审查，并在受理异议之日起十五日内作出裁定：\n（一）异议不成立的，裁定驳回；\n（二）异议成立的，裁定移送有管辖权的人民法院。",
+      "order": 1
+    },
+    {
+      "id": "sfjs-166ca40fae-0002",
+      "articleNumber": 2,
+      "displayNumber": "第二条",
+      "path": [],
+      "text": "在管辖权异议裁定作出前，原告申请撤回起诉，受诉人民法院作出准予撤回起诉裁定的，对管辖权异议不再审查，并在裁定书中一并写明。",
+      "order": 4
+    },
+    {
+      "id": "sfjs-166ca40fae-0003",
+      "articleNumber": 3,
+      "displayNumber": "第三条",
+      "path": [],
+      "text": "提交答辩状期间届满后，原告增加诉讼请求金额致使案件标的额超过受诉人民法院级别管辖标准，被告提出管辖权异议，请求由上级人民法院管辖的，人民法院应当按照本规定第一条审查并作出裁定。",
+      "order": 5
+    },
+    {
+      "id": "sfjs-166ca40fae-0004",
+      "articleNumber": 4,
+      "displayNumber": "第四条",
+      "path": [],
+      "text": "对于应由上级人民法院管辖的第一审民事案件，下级人民法院不得报请上级人民法院交其审理。",
+      "order": 6
+    },
+    {
+      "id": "sfjs-166ca40fae-0005",
+      "articleNumber": 5,
+      "displayNumber": "第五条",
+      "path": [],
+      "text": "被告以受诉人民法院同时违反级别管辖和地域管辖规定为由提出管辖权异议的，受诉人民法院应当一并作出裁定。",
+      "order": 7
+    },
+    {
+      "id": "sfjs-166ca40fae-0006",
+      "articleNumber": 6,
+      "displayNumber": "第六条",
+      "path": [],
+      "text": "当事人未依法提出管辖权异议，但受诉人民法院发现其没有级别管辖权的，应当将案件移送有管辖权的人民法院审理。",
+      "order": 8
+    },
+    {
+      "id": "sfjs-166ca40fae-0007",
+      "articleNumber": 7,
+      "displayNumber": "第七条",
+      "path": [],
+      "text": "对人民法院就级别管辖异议作出的裁定，当事人不服提起上诉的，第二审人民法院应当依法审理并作出裁定。",
+      "order": 9
+    },
+    {
+      "id": "sfjs-166ca40fae-0008",
+      "articleNumber": 8,
+      "displayNumber": "第八条",
+      "path": [],
+      "text": "对于将案件移送上级人民法院管辖的裁定，当事人未提出上诉，但受移送的上级人民法院认为确有错误的，可以依职权裁定撤销。",
+      "order": 10
+    },
+    {
+      "id": "sfjs-166ca40fae-0009",
+      "articleNumber": 9,
+      "displayNumber": "第九条",
+      "path": [],
+      "text": "经最高人民法院批准的第一审民事案件级别管辖标准的规定，应当作为审理民事级别管辖异议案件的依据。",
+      "order": 11
+    },
+    {
+      "id": "sfjs-166ca40fae-0010",
+      "articleNumber": 10,
+      "displayNumber": "第十条",
+      "path": [],
+      "text": "本规定施行前颁布的有关司法解释与本规定不一致的，以本规定为准。",
+      "order": 12
+    }
+  ]
+}

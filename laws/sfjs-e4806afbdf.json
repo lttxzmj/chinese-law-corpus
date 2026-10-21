@@ -1,0 +1,28 @@
+{
+  "id": "sfjs-e4806afbdf",
+  "officialId": "",
+  "title": "最高人民检察院关于“人民检察院发出《通知立案书》时，应当将有关证明应该立案的材料移送公安机关”问题的批复",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民检察院",
+  "promulgationDate": "1998-05-12",
+  "effectiveDate": "1998-05-12",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-e4806afbdf/metadata.json",
+    "docxPath": "data/laws/sfjs-e4806afbdf/official.docx"
+  },
+  "paragraphCount": 10,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-e4806afbdf-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "（1998年5月7日最高人民检察院第九届检察委员会\n第二次会议通过）\n高检发释字〔1998〕3号\n海南省人民检察院：\n你院琼检发刑捕字〔1998〕1号《关于执行＜关于刑事诉讼法实施若干问题的规定＞有关问题的请示》收悉。经研究，批复如下：\n人民检察院向公安机关发出《通知立案书》时，应当将有关证明应该立案的材料同时移送公安机关。以上“有关证明应该立案的材料”主要是指被害人的控告材料，或者是检察机关在审查举报、审查批捕、审查起诉过程中发现的材料。人民检察院在立案监督中，不得进行侦查，但可以对通知公安机关立案所依据的有关材料，进行必要的调查核实。\n最高人民检察院\n1998年5月12日",
+      "order": 1
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "xzfg-799166e22b",
+  "officialId": "",
+  "title": "关于不满300总吨船舶及沿海运输、沿海作业船舶海事赔偿限额的规定",
+  "category": "行政法规",
+  "issuingAuthority": "国务院",
+  "promulgationDate": "1993-11-15",
+  "effectiveDate": "",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/xzfg-799166e22b/metadata.json",
+    "docxPath": "data/laws/xzfg-799166e22b/official.docx"
+  },
+  "paragraphCount": 16,
+  "sectionCount": 0,
+  "articleCount": 7,
+  "sections": [],
+  "articles": [
+    {
+      "id": "xzfg-799166e22b-0001",
+      "articleNumber": 1,
+      "displayNumber": "第一条",
+      "path": [],
+      "text": "根据《中华人民共和国海商法》第二百一十条规定，制定本规定。",
+      "order": 1
+    },
+    {
+      "id": "xzfg-799166e22b-0002",
+      "articleNumber": 2,
+      "displayNumber": "第二条",
+      "path": [],
+      "text": "本规定适用于超过20总吨、不满300总吨的船舶及300总吨以上从事中华人民共和国港口之间货物运输或者沿海作业的船舶。",
+      "order": 2
+    },
+    {
+      "id": "xzfg-799166e22b-0003",
+      "articleNumber": 3,
+      "displayNumber": "第三条",
+      "path": [],
+      "text": "除本规定第四条另有规定外，不满300总吨船舶的海事赔偿责任限制，依照下列规定计算赔偿限额：\n(一)关于人身伤亡的赔偿请求：\n1、超过20总吨、21总吨以下的船舶，赔偿限额为54000计算单位；\n2、超过21总吨的船舶，超过部分每吨增加1000计算单位。\n(二)关于非人身伤亡的赔偿请求：\n1、超过20总吨、21总吨以下的船舶，赔偿限额为27500计算单位；\n2、超过21总吨的船舶，超过部分每吨增加500计算单位。",
+      "order": 3
+    },
+    {
+      "id": "xzfg-799166e22b-0004",
+      "articleNumber": 4,
+      "displayNumber": "第四条",
+      "path": [],
+      "text": "从事中华人民共和国港口之间货物运输或者沿海作业的船舶，不满300总吨的，其海事赔偿限额依照本规定第三条规定的赔偿限额的50%计算；300总吨以上的，其海事赔偿限额依照《中华人民共和国海商法》第二百一十条第一款规定的赔偿限额的50%计算。",
+      "order": 10
+    },
+    {
+      "id": "xzfg-799166e22b-0005",
+      "articleNumber": 5,
+      "displayNumber": "第五条",
+      "path": [],
+      "text": "同一事故中的当事船舶的海事赔偿限额，有适用《中华人民共和国海商法》第二百一十条或者本规定第三条规定的，其他当事船舶的海事赔偿限额应当同样适用。",
+      "order": 11
+    },
+    {
+      "id": "xzfg-799166e22b-0006",
+      "articleNumber": 6,
+      "displayNumber": "第六条",
+      "path": [],
+      "text": "本规定由中华人民共和国交通部负责解释。",
+      "order": 12
+    },
+    {
+      "id": "xzfg-799166e22b-0007",
+      "articleNumber": 7,
+      "displayNumber": "第七条",
+      "path": [],
+      "text": "本规定自一九九四年一月一日起施行。",
+      "order": 13
+    }
+  ]
+}

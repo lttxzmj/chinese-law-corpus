@@ -9,8 +9,7 @@
   "status": "effective",
   "source": {
     "metadataPath": "data/laws/sfjs-5e193c2165/metadata.json",
-    "docxPath": "data/laws/sfjs-5e193c2165/official.docx",
-    "pdfPath": "data/laws/sfjs-5e193c2165/official.pdf"
+    "docxPath": "data/laws/sfjs-5e193c2165/official.docx"
   },
   "paragraphCount": 50,
   "sectionCount": 0,

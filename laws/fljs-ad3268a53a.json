@@ -1,0 +1,28 @@
+{
+  "id": "fljs-ad3268a53a",
+  "officialId": "",
+  "title": "全国人民代表大会常务委员会关于《中华人民共和国刑法》第二百二十八条、第三百四十二条、第四百一十条的解释",
+  "category": "法律解释",
+  "issuingAuthority": "全国人民代表大会常务委员会",
+  "promulgationDate": "2009-08-27",
+  "effectiveDate": "2009-08-27",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/fljs-ad3268a53a/metadata.json",
+    "docxPath": "data/laws/fljs-ad3268a53a/official.docx"
+  },
+  "paragraphCount": 8,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "fljs-ad3268a53a-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "（2001年8月31日第九届全国人民代表大会常务委员会第二十三次会议通过 根据2009年8月27日第十一届全国人民代表大会常务委员会第十次会议《关于修改部分法律的决定》修正）\n全国人民代表大会常务委员会讨论了刑法第二百二十八条、第三百四十二条、第四百一十条规定的“违反土地管理法规”和第四百一十条规定的“非法批准征收、征用、占用土地”的含义问题，解释如下：\n刑法第二百二十八条、第三百四十二条、第四百一十条规定的“违反土地管理法规”，是指违反土地管理法、森林法、草原法等法律以及有关行政法规中关于土地管理的规定。\n刑法第四百一十条规定的“非法批准征收、征用、占用土地”，是指非法批准征收、征用、占用耕地、林地等农用地以及其他土地。\n现予公告。",
+      "order": 1
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "sfjs-1af10877cd",
+  "officialId": "",
+  "title": "最高人民法院关于实行社会保险的企业破产后各种社会保险统筹费用应缴纳至何时问题的批复",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院",
+  "promulgationDate": "1996-11-22",
+  "effectiveDate": "1996-11-22",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-1af10877cd/metadata.json",
+    "docxPath": "data/laws/sfjs-1af10877cd/official.docx"
+  },
+  "paragraphCount": 8,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-1af10877cd-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "1996年11月22日 法复〔1996〕17号\n四川省高级人民法院：\n你院川高法〔1995〕167号《关于实行社会保险的企业破产后，各种社会保险统筹费用应缴纳至何时的请示》已收悉。经研究，现答复如下：\n参加社会保险的企业破产的，欠缴的社会保险统筹费用应当缴纳至人民法院裁定宣告破产之日。\n此复。",
+      "order": 1
+    }
+  ]
+}

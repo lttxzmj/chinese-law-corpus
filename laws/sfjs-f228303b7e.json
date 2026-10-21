@@ -1,0 +1,28 @@
+{
+  "id": "sfjs-f228303b7e",
+  "officialId": "",
+  "title": "最高人民法院关于能否将国有土地使用权折价抵偿给抵押权人问题的批复",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院",
+  "promulgationDate": "1998-09-03",
+  "effectiveDate": "1998-09-09",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-f228303b7e/metadata.json",
+    "docxPath": "data/laws/sfjs-f228303b7e/official.docx"
+  },
+  "paragraphCount": 9,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-f228303b7e-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "法释〔1998〕25号\n（1998年9月1日最高人民法院审判委员会第1019次会议通过 1998年9月3日最高人民法院公告公布 自1998年9月9日起施行）\n四川省高级人民法院：\n你院川高法〔1998〕19号《关于能否将国有土地使用权以国土部门认定的价格抵偿给抵押权人的请示》收悉。经研究，答复如下：\n在依法以国有土地使用权作抵押的担保纠纷案件中，债务履行期届满抵押权人未受清偿的，可以通过拍卖的方式将土地使用权变现。如果无法变现，债务人又没有其他可供清偿的财产时，应当对国有土地使用权依法评估。人民法院可以参考政府土地管理部门确认的地价评估结果将土地使用权折价，经抵押权人同意，将折价后的土地使用权抵偿给抵押权人，土地使用权由抵押权人享有。\n此复。",
+      "order": 1
+    }
+  ]
+}

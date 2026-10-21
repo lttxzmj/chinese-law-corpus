@@ -1,0 +1,28 @@
+{
+  "id": "sfjs-36acce3d8a",
+  "officialId": "",
+  "title": "最高人民法院关于审理出口信用保险合同纠纷案件适用相关法律问题的批复",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院",
+  "promulgationDate": "2013-05-02",
+  "effectiveDate": "2013-05-08",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-36acce3d8a/metadata.json",
+    "docxPath": "data/laws/sfjs-36acce3d8a/official.docx"
+  },
+  "paragraphCount": 12,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-36acce3d8a-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "法释〔2013〕13号\n（2013年4月15日最高人民法院审判委员会第1575次会议通过 2013年5月2日最高人民法院公告公布 自2013年5月8日起施行）\n广东省高级人民法院：\n你院《关于出口信用保险合同法律适用问题的请示》（粤高法〔2012〕442号）收悉。经研究，批复如下：\n对出口信用保险合同的法律适用问题，保险法没有作出明确规定。鉴于出口信用保险的特殊性，人民法院审理出口信用保险合同纠纷案件，可以参照适用保险法的相关规定；出口信用保险合同另有约定的，从其约定。",
+      "order": 1
+    }
+  ]
+}

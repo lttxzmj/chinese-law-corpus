@@ -9,8 +9,7 @@
   "status": "effective",
   "source": {
     "metadataPath": "data/laws/sfjs-mfd-jicheng/metadata.json",
-    "docxPath": "data/laws/sfjs-mfd-jicheng/official.docx",
-    "pdfPath": "data/laws/sfjs-mfd-jicheng/official.pdf"
+    "docxPath": "data/laws/sfjs-mfd-jicheng/official.docx"
   },
   "paragraphCount": 62,
   "sectionCount": 0,

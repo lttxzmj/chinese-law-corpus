@@ -1,0 +1,28 @@
+{
+  "id": "fljs-f51e061c91",
+  "officialId": "",
+  "title": "全国人民代表大会常务委员会关于《中华人民共和国刑法》第三百八十四条第一款的解释",
+  "category": "法律解释",
+  "issuingAuthority": "全国人民代表大会常务委员会",
+  "promulgationDate": "2002-04-28",
+  "effectiveDate": "2002-04-28",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/fljs-f51e061c91/metadata.json",
+    "docxPath": "data/laws/fljs-f51e061c91/official.docx"
+  },
+  "paragraphCount": 10,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "fljs-f51e061c91-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "（2002年4月28日第九届全国人民代表大会常务委员会第二十七次会议通过）\n全国人民代表大会常务委员会讨论了刑法第三百八十四条第一款规定的国家工作人员利用职务上的便利，挪用公款“归个人使用”的含义问题，解释如下：\n有下列情形之一的，属于挪用公款“归个人使用”：\n（一）将公款供本人、亲友或者其他自然人使用的；\n（二）以个人名义将公款供其他单位使用的；\n（三）个人决定以单位名义将公款供其他单位使用，谋取个人利益的。\n现予公告。",
+      "order": 1
+    }
+  ]
+}

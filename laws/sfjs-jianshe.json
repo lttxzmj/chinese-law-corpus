@@ -9,8 +9,7 @@
   "status": "effective",
   "source": {
     "metadataPath": "data/laws/sfjs-jianshe/metadata.json",
-    "docxPath": "data/laws/sfjs-jianshe/official.docx",
-    "pdfPath": "data/laws/sfjs-jianshe/official.pdf"
+    "docxPath": "data/laws/sfjs-jianshe/official.docx"
   },
   "paragraphCount": 85,
   "sectionCount": 0,

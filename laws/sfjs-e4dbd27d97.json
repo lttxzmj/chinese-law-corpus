@@ -1,0 +1,68 @@
+{
+  "id": "sfjs-e4dbd27d97",
+  "officialId": "",
+  "title": "最高人民法院、最高人民检察院关于办理海洋生态环境公益诉讼案件若干问题的规定",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院、最高人民检察院",
+  "promulgationDate": "2026-08-05",
+  "effectiveDate": "2026-08-15",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-e4dbd27d97/metadata.json",
+    "docxPath": "data/laws/sfjs-e4dbd27d97/official.docx"
+  },
+  "paragraphCount": 12,
+  "sectionCount": 0,
+  "articleCount": 6,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-e4dbd27d97-0001",
+      "articleNumber": 1,
+      "displayNumber": "第一条",
+      "path": [],
+      "text": "本规定适用于损害行为发生地、损害结果地或者采取预防措施地在生态环境法典第三条规定的海域内，因污染海洋环境、破坏海洋生态而提起的民事公益诉讼、刑事附带民事公益诉讼和行政公益诉讼。",
+      "order": 1
+    },
+    {
+      "id": "sfjs-e4dbd27d97-0002",
+      "articleNumber": 2,
+      "displayNumber": "第二条",
+      "path": [],
+      "text": "污染海洋环境、破坏海洋生态给国家造成损失的，由依照生态环境法典规定行使海洋生态环境监督管理权的部门对责任人提出损害赔偿要求，可以向有管辖权的海事法院提起诉讼。\n有关部门提起诉讼的，人民检察院可以支持起诉。",
+      "order": 2
+    },
+    {
+      "id": "sfjs-e4dbd27d97-0003",
+      "articleNumber": 3,
+      "displayNumber": "第三条",
+      "path": [],
+      "text": "人民检察院在履行职责中发现污染海洋环境、破坏海洋生态的行为，可以告知行使海洋生态环境监督管理权的部门依据生态环境法典第一千零七十四条规定对责任人提出损害赔偿要求或者提起诉讼。在责任人不承担损害赔偿责任，有关部门不提起诉讼的情况下，人民检察院就海洋环境污染、海洋生态破坏，向有管辖权的海事法院提起诉讼的，海事法院应予受理。",
+      "order": 4
+    },
+    {
+      "id": "sfjs-e4dbd27d97-0004",
+      "articleNumber": 4,
+      "displayNumber": "第四条",
+      "path": [],
+      "text": "污染海洋环境、破坏海洋生态，涉嫌犯罪的，在行使海洋生态环境监督管理权的部门没有另行依据生态环境法典第一千零七十四条规定提出损害赔偿要求或者提起诉讼的情况下，人民检察院可以在提起刑事公诉时一并提起附带民事公益诉讼，也可以单独提起民事公益诉讼。",
+      "order": 5
+    },
+    {
+      "id": "sfjs-e4dbd27d97-0005",
+      "articleNumber": 5,
+      "displayNumber": "第五条",
+      "path": [],
+      "text": "人民检察院在履行职责中发现对污染海洋环境、破坏海洋生态行为负有生态环境保护监督管理职责的部门、机构违法行使职权或者不作为，给国家造成损失或者损害社会公共利益的，可以向有关部门、机构提出检察建议，督促其依法履行职责。\n有关部门、机构不依法履行职责的，人民检察院依法向被诉行政机关所在地的海事法院提起诉讼。",
+      "order": 6
+    },
+    {
+      "id": "sfjs-e4dbd27d97-0006",
+      "articleNumber": 6,
+      "displayNumber": "第六条",
+      "path": [],
+      "text": "本规定自2022年5月15日起施行。",
+      "order": 8
+    }
+  ]
+}

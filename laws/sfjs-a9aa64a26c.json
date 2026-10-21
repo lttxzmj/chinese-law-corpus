@@ -1,0 +1,28 @@
+{
+  "id": "sfjs-a9aa64a26c",
+  "officialId": "",
+  "title": "最高人民法院、最高人民检察院关于执行《中华人民共和国刑法》确定罪名的补充规定（八）",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院、最高人民检察院",
+  "promulgationDate": "2024-01-30",
+  "effectiveDate": "2024-03-01",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-a9aa64a26c/metadata.json",
+    "docxPath": "data/laws/sfjs-a9aa64a26c/official.docx"
+  },
+  "paragraphCount": 8,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-a9aa64a26c-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "最高人民法院 最高人民检察院\n关于执行《中华人民共和国刑法》\n确定罪名的补充规定（八）\n法释〔2024〕3号\n（2024年1月17日最高人民法院审判委员会第1912次会议、2024年1月3日最高人民检察院第十四届检察委员会第二十次会议通过）\n根据《中华人民共和国刑法修正案（十二）》（以下简称《刑法修正案（十二）》），现对《最高人民法院关于执行〈中华人民共和国刑法〉确定罪名的规定》《最高人民检察院关于适用刑法分则规定的犯罪的罪名的意见》作如下修改：\n将《中华人民共和国刑法》第一百六十九条（《刑法修正案（十二）》第三条）的罪名由“徇私舞弊低价折股、出售国有资产罪”修改为“徇私舞弊低价折股、出售公司、企业资产罪”。\n本规定自2024年3月1日起施行。",
+      "order": 1
+    }
+  ]
+}

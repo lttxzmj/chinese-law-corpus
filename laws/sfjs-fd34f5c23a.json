@@ -1,0 +1,28 @@
+{
+  "id": "sfjs-fd34f5c23a",
+  "officialId": "",
+  "title": "最高人民法院关于依据原告起诉时提供的被告住址无法送达应如何处理问题的批复",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院",
+  "promulgationDate": "2004-11-25",
+  "effectiveDate": "2004-12-02",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-fd34f5c23a/metadata.json",
+    "docxPath": "data/laws/sfjs-fd34f5c23a/official.docx"
+  },
+  "paragraphCount": 12,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-fd34f5c23a-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "法释〔2004〕17号\n（2004年10月9日最高人民法院审判委员会第1328次会议通过 2004年11月25日最高人民法院公告公布 自2004年12月2日起施行）\n近来，一些高级人民法院就人民法院依据民事案件的原告起诉时提供的被告住址无法送达应如何处理问题请示我院。为了正确适用法律，保障当事人行使诉讼权利，根据《中华人民共和国民事诉讼法》的有关规定，批复如下：\n人民法院依据原告起诉时所提供的被告住址无法直接送达或者留置送达，应当要求原告补充材料。原告因客观原因不能补充或者依据原告补充的材料仍不能确定被告住址的，人民法院应当依法向被告公告送达诉讼文书。人民法院不得仅以原告不能提供真实、准确的被告住址为由裁定驳回起诉或者裁定终结诉讼。\n因有关部门不准许当事人自行查询其他当事人的住址信息，原告向人民法院申请查询的，人民法院应当依原告的申请予以查询。",
+      "order": 1
+    }
+  ]
+}

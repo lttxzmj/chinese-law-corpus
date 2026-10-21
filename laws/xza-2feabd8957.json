@@ -1,0 +1,28 @@
+{
+  "id": "xza-2feabd8957",
+  "officialId": "",
+  "title": "中华人民共和国刑法修正案（二）",
+  "category": "修正案",
+  "issuingAuthority": "全国人民代表大会常务委员会",
+  "promulgationDate": "2001-08-31",
+  "effectiveDate": "2001-08-31",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/xza-2feabd8957/metadata.json",
+    "docxPath": "data/laws/xza-2feabd8957/official.docx"
+  },
+  "paragraphCount": 5,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "xza-2feabd8957-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "（2001年8月31日第九届全国人民代表大会常务委员会第二十三次会议通过）\n为了惩治毁林开垦和乱占滥用林地的犯罪，切实保护森林资源，将刑法第三百四十二条修改为：\n“违反土地管理法规，非法占用耕地、林地等农用地，改变被占用土地用途，数量较大，造成耕地、林地等农用地大量毁坏的，处五年以下有期徒刑或者拘役，并处或者单处罚金。”\n本修正案自公布之日起施行。",
+      "order": 1
+    }
+  ]
+}

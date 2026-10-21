@@ -1,0 +1,28 @@
+{
+  "id": "fljs-6ad0989eda",
+  "officialId": "",
+  "title": "全国人民代表大会常务委员会关于《中华人民共和国刑法》第二百六十六条的解释",
+  "category": "法律解释",
+  "issuingAuthority": "全国人民代表大会常务委员会",
+  "promulgationDate": "2014-04-24",
+  "effectiveDate": "2014-04-24",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/fljs-6ad0989eda/metadata.json",
+    "docxPath": "data/laws/fljs-6ad0989eda/official.docx"
+  },
+  "paragraphCount": 7,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "fljs-6ad0989eda-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "（2014年4月24日第十二届全国人民代表大会常务委员会第八次会议通过）\n全国人民代表大会常务委员会根据司法实践中遇到的情况，讨论了刑法第二百六十六条的含义及骗取养老、医疗、工伤、失业、生育等社会保险金或者其他社会保障待遇的行为如何适用刑法有关规定的问题，解释如下：\n以欺诈、伪造证明材料或者其他手段骗取养老、医疗、工伤、失业、生育等社会保险金或者其他社会保障待遇的，属于刑法第二百六十六条规定的诈骗公私财物的行为。\n现予公告。",
+      "order": 1
+    }
+  ]
+}

@@ -9,8 +9,7 @@
   "status": "effective",
   "source": {
     "metadataPath": "data/laws/sfjs-maimai/metadata.json",
-    "docxPath": "data/laws/sfjs-maimai/official.docx",
-    "pdfPath": "data/laws/sfjs-maimai/official.pdf"
+    "docxPath": "data/laws/sfjs-maimai/official.docx"
   },
   "paragraphCount": 75,
   "sectionCount": 0,

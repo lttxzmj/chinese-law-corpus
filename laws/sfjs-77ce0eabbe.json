@@ -1,0 +1,28 @@
+{
+  "id": "sfjs-77ce0eabbe",
+  "officialId": "",
+  "title": "最高人民检察院关于非法经营国际或港澳台地区电信业务行为法律适用问题的批复",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民检察院",
+  "promulgationDate": "2002-02-06",
+  "effectiveDate": "2002-02-11",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-77ce0eabbe/metadata.json",
+    "docxPath": "data/laws/sfjs-77ce0eabbe/official.docx"
+  },
+  "paragraphCount": 16,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-77ce0eabbe-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "（2002年1月8日最高人民检察院第九届检察委员会\n第一百零二次会议通过）\n高检发释字〔2002〕1号\n福建省人民检察院：\n你院《关于如何适用刑法第二百二十五条第（四）项规定的请示》（闽检〔2000〕65号）收悉。经研究，批复如下：\n违反《中华人民共和国电信条例》规定，采取租用电信国际专线、私设转接设备或者其他方法，擅自经营国际或者香港特别行政区、澳门特别行政区和台湾地区电信业务进行营利活动，扰乱电信市场管理秩序，情节严重的，应当依照《刑法》第二百二十五条第（四）项的规定，以非法经营罪追究刑事责任。\n此复。\n最高人民检察院\n2002年2月6日",
+      "order": 1
+    }
+  ]
+}

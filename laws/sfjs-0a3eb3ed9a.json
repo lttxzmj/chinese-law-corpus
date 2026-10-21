@@ -1,0 +1,44 @@
+{
+  "id": "sfjs-0a3eb3ed9a",
+  "officialId": "",
+  "title": "最高人民法院关于审理拐卖妇女案件适用法律有关问题的解释",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院",
+  "promulgationDate": "2000-01-03",
+  "effectiveDate": "2000-01-25",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-0a3eb3ed9a/metadata.json",
+    "docxPath": "data/laws/sfjs-0a3eb3ed9a/official.docx"
+  },
+  "paragraphCount": 9,
+  "sectionCount": 0,
+  "articleCount": 3,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-0a3eb3ed9a-0001",
+      "articleNumber": 1,
+      "displayNumber": "第一条",
+      "path": [],
+      "text": "刑法第二百四十条规定的拐卖妇女罪中的“妇女”，既包括具有中国国籍的妇女，也包括具有外国国籍和无国籍的妇女。被拐卖的外国妇女没有身份证明的，不影响对犯罪分子的定罪处罚。",
+      "order": 1
+    },
+    {
+      "id": "sfjs-0a3eb3ed9a-0002",
+      "articleNumber": 2,
+      "displayNumber": "第二条",
+      "path": [],
+      "text": "外国人或者无国籍人拐卖外国妇女到我国境内被查获的，应当根据刑法第六条的规定，适用我国刑法定罪处罚。",
+      "order": 2
+    },
+    {
+      "id": "sfjs-0a3eb3ed9a-0003",
+      "articleNumber": 3,
+      "displayNumber": "第三条",
+      "path": [],
+      "text": "对于外国籍被告人身份无法查明或者其国籍国拒绝提供有关身份证明，人民检察院根据刑事诉讼法第一百二十八条第二款的规定起诉的案件，人民法院应当依法受理。",
+      "order": 3
+    }
+  ]
+}

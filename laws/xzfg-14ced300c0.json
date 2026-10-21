@@ -1,0 +1,84 @@
+{
+  "id": "xzfg-14ced300c0",
+  "officialId": "国务院令第108号",
+  "title": "中华人民共和国国家货币出入境管理办法",
+  "category": "行政法规",
+  "issuingAuthority": "国务院",
+  "promulgationDate": "1993-01-20",
+  "effectiveDate": "",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/xzfg-14ced300c0/metadata.json",
+    "docxPath": "data/laws/xzfg-14ced300c0/official.docx"
+  },
+  "paragraphCount": 12,
+  "sectionCount": 0,
+  "articleCount": 8,
+  "sections": [],
+  "articles": [
+    {
+      "id": "xzfg-14ced300c0-0001",
+      "articleNumber": 1,
+      "displayNumber": "第一条",
+      "path": [],
+      "text": "为了加强国家货币出入境管理，维护国家金融秩序，适应改革开放的需要，制定本办法。",
+      "order": 1
+    },
+    {
+      "id": "xzfg-14ced300c0-0002",
+      "articleNumber": 2,
+      "displayNumber": "第二条",
+      "path": [],
+      "text": "本办法所称国家货币，是指中国人民银行发行的人民币。",
+      "order": 2
+    },
+    {
+      "id": "xzfg-14ced300c0-0003",
+      "articleNumber": 3,
+      "displayNumber": "第三条",
+      "path": [],
+      "text": "国家对货币出入境实行限额管理制度。\n中国公民出入境、外国人入出境，每人每次携带的人民币不得超出限额。具体限额由中国人民银行规定。",
+      "order": 3
+    },
+    {
+      "id": "xzfg-14ced300c0-0004",
+      "articleNumber": 4,
+      "displayNumber": "第四条",
+      "path": [],
+      "text": "携带国家货币出入境的，应当按照国家规定向海关如实申报。",
+      "order": 5
+    },
+    {
+      "id": "xzfg-14ced300c0-0005",
+      "articleNumber": 5,
+      "displayNumber": "第五条",
+      "path": [],
+      "text": "不得在邮件中夹带国家货币出入境。不得擅自运输国家货币出入境。",
+      "order": 6
+    },
+    {
+      "id": "xzfg-14ced300c0-0006",
+      "articleNumber": 6,
+      "displayNumber": "第六条",
+      "path": [],
+      "text": "违反国家规定运输、携带、在邮件中夹带国家货币出入境的，由国家有关部门依法处理；情节严重，构成犯罪的，由司法机关依法追究刑事责任。",
+      "order": 7
+    },
+    {
+      "id": "xzfg-14ced300c0-0007",
+      "articleNumber": 7,
+      "displayNumber": "第七条",
+      "path": [],
+      "text": "本办法由中国人民银行负责解释。",
+      "order": 8
+    },
+    {
+      "id": "xzfg-14ced300c0-0008",
+      "articleNumber": 8,
+      "displayNumber": "第八条",
+      "path": [],
+      "text": "本办法自一九九三年三月一日起施行。一九五一年三月六日中央人民政府政务院公布的《中华人民共和国禁止国家货币出入国境办法》同时废止。",
+      "order": 9
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "id": "xzfg-aa6b58b949",
+  "officialId": "国务院令第95号",
+  "title": "中华人民共和国国库券条例",
+  "category": "行政法规",
+  "issuingAuthority": "国务院",
+  "promulgationDate": "2011-01-08",
+  "effectiveDate": "",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/xzfg-aa6b58b949/metadata.json",
+    "docxPath": "data/laws/xzfg-aa6b58b949/official.docx"
+  },
+  "paragraphCount": 18,
+  "sectionCount": 0,
+  "articleCount": 14,
+  "sections": [],
+  "articles": [
+    {
+      "id": "xzfg-aa6b58b949-0001",
+      "articleNumber": 1,
+      "displayNumber": "第一条",
+      "path": [],
+      "text": "为了筹集社会资金，进行社会主义现代化建设，制定本条例。",
+      "order": 1
+    },
+    {
+      "id": "xzfg-aa6b58b949-0002",
+      "articleNumber": 2,
+      "displayNumber": "第二条",
+      "path": [],
+      "text": "国库券的发行对象是：居民个人、个体工商户、企业、事业单位、机关、社会团体和其他组织。",
+      "order": 2
+    },
+    {
+      "id": "xzfg-aa6b58b949-0003",
+      "articleNumber": 3,
+      "displayNumber": "第三条",
+      "path": [],
+      "text": "国库券以人民币元为计算单位。",
+      "order": 3
+    },
+    {
+      "id": "xzfg-aa6b58b949-0004",
+      "articleNumber": 4,
+      "displayNumber": "第四条",
+      "path": [],
+      "text": "每年国库券的发行数额、利率、偿还期等，经国务院确定后，由财政部予以公告。",
+      "order": 4
+    },
+    {
+      "id": "xzfg-aa6b58b949-0005",
+      "articleNumber": 5,
+      "displayNumber": "第五条",
+      "path": [],
+      "text": "国库券发行采取承购包销、认购等方式。\n国家下达的国库券发行计划，应当按期完成。",
+      "order": 5
+    },
+    {
+      "id": "xzfg-aa6b58b949-0006",
+      "articleNumber": 6,
+      "displayNumber": "第六条",
+      "path": [],
+      "text": "国库券按期偿还本金。国库券利息在偿还本金时一次付给，不计复利。",
+      "order": 7
+    },
+    {
+      "id": "xzfg-aa6b58b949-0007",
+      "articleNumber": 7,
+      "displayNumber": "第七条",
+      "path": [],
+      "text": "国库券的发行和还本付息事宜，在各级人民政府统一领导下，由财政部门和中国人民银行组织有关部门多渠道办理。",
+      "order": 8
+    },
+    {
+      "id": "xzfg-aa6b58b949-0008",
+      "articleNumber": 8,
+      "displayNumber": "第八条",
+      "path": [],
+      "text": "国库券可以用于抵押，但是不得作为货币流通。",
+      "order": 9
+    },
+    {
+      "id": "xzfg-aa6b58b949-0009",
+      "articleNumber": 9,
+      "displayNumber": "第九条",
+      "path": [],
+      "text": "国库券可以转让，但是应当在国家批准的交易场所办理。",
+      "order": 10
+    },
+    {
+      "id": "xzfg-aa6b58b949-0010",
+      "articleNumber": 10,
+      "displayNumber": "第十条",
+      "path": [],
+      "text": "发行国库券筹集的资金，由国务院统一安排使用。",
+      "order": 11
+    },
+    {
+      "id": "xzfg-aa6b58b949-0011",
+      "articleNumber": 11,
+      "displayNumber": "第十一条",
+      "path": [],
+      "text": "对伪造国库券的，依法追究刑事责任。\n对倒卖国库券的，按照投机倒把论处。(2011年1月8日删除)",
+      "order": 12
+    },
+    {
+      "id": "xzfg-aa6b58b949-0012",
+      "articleNumber": 12,
+      "displayNumber": "第十二条",
+      "path": [],
+      "text": "国库券的利息收入享受免税待遇。",
+      "order": 14
+    },
+    {
+      "id": "xzfg-aa6b58b949-0013",
+      "articleNumber": 13,
+      "displayNumber": "第十三条",
+      "path": [],
+      "text": "本条例由财政部负责解释。实施细则由财政部商中国人民银行制定。",
+      "order": 15
+    },
+    {
+      "id": "xzfg-aa6b58b949-0014",
+      "articleNumber": 14,
+      "displayNumber": "第十四条",
+      "path": [],
+      "text": "本条例自发布之日起施行。",
+      "order": 16
+    }
+  ]
+}

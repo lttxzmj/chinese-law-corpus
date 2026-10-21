@@ -1,0 +1,28 @@
+{
+  "id": "sfjs-773186b0cf",
+  "officialId": "",
+  "title": "最高人民检察院关于强迫借贷行为适用法律问题的批复",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民检察院",
+  "promulgationDate": "2014-04-17",
+  "effectiveDate": "2014-04-17",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-773186b0cf/metadata.json",
+    "docxPath": "data/laws/sfjs-773186b0cf/official.docx"
+  },
+  "paragraphCount": 16,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-773186b0cf-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "（2014年4月11日最高人民检察院第十二届检察委员会\n第十九次会议通过）\n高检发释字〔2014〕1号\n广东省人民检察院：\n你院《关于强迫借贷案件法律适用的请示》（粤检发研字〔2014〕9号）收悉。经研究，批复如下：\n以暴力、胁迫手段强迫他人借贷，属于刑法第二百二十六条第二项规定的“强迫他人提供或者接受服务”，情节严重的，以强迫交易罪追究刑事责任；同时构成故意伤害罪等其他犯罪的，依照处罚较重的规定定罪处罚。以非法占有为目的，以借贷为名采用暴力、胁迫手段获取他人财物，符合刑法第二百六十三条或者第二百七十四条规定的，以抢劫罪或者敲诈勒索罪追究刑事责任。\n此复\n最高人民检察院\n2014年4月17日",
+      "order": 1
+    }
+  ]
+}

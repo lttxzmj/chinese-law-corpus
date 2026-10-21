@@ -1,0 +1,28 @@
+{
+  "id": "sfjs-989765d0d2",
+  "officialId": "",
+  "title": "最高人民检察院关于对服刑罪犯暂予监外执行期间在异地又犯罪应由何地检察院受理审查起诉问题的批复",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民检察院",
+  "promulgationDate": "1998-11-26",
+  "effectiveDate": "1998-11-26",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-989765d0d2/metadata.json",
+    "docxPath": "data/laws/sfjs-989765d0d2/official.docx"
+  },
+  "paragraphCount": 11,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-989765d0d2-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "（1998年7月23日最高人民检察院第九届检察委员会\n第九次会议通过）\n高检发释字〔1998〕5号\n四川省人民检察院：\n你院川检发研〔1998〕12号《关于服刑犯罪暂予监外执行期间在异地又犯罪应由何地检察院受理审查起诉的问题的请示》收悉。经研究，批复如下：\n对罪犯在暂予监外执行期间在异地犯罪，如果罪行是在犯罪地被发现、罪犯是在犯罪地被捕获的，由犯罪地人民检察院审查起诉；如果案件由罪犯暂予监外执行地人民法院审判更为适宜的，也可以由犯罪暂予监外执行地的人民检察院审查起诉；如果罪行是在暂予监外执行的情形消失，罪犯被继续收监执行剩余刑期期间发现的，由罪犯服刑地的人民检察院审查起诉。\n最高人民检察院\n1998年11月26日",
+      "order": 1
+    }
+  ]
+}

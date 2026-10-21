@@ -1,0 +1,28 @@
+{
+  "id": "sfjs-8cd1674776",
+  "officialId": "",
+  "title": "最高人民法院关于适用刑法第六十四条有关问题的批复",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院",
+  "promulgationDate": "2013-10-21",
+  "effectiveDate": "2013-10-21",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-8cd1674776/metadata.json",
+    "docxPath": "data/laws/sfjs-8cd1674776/official.docx"
+  },
+  "paragraphCount": 6,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-8cd1674776-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "2013年10月21日 法〔2013〕229号\n河南省高级人民法院：\n你院《关于刑法第六十四条法律适用问题的请示》收悉。经研究，批复如下：\n根据刑法第六十四条和《最高人民法院关于适用〈中华人民共和国刑事诉讼法〉的解释》第一百三十八条、第一百三十九条的规定，被告人非法占有、处置被害人财产的，应当依法予以追缴或者责令退赔。据此，追缴或者责令退赔的具体内容，应当在判决主文中写明；其中，判决前已经发还被害人的财产，应当注明。被害人提起附带民事诉讼，或者另行提起民事诉讼请求返还被非法占有、处置的财产的，人民法院不予受理。",
+      "order": 1
+    }
+  ]
+}

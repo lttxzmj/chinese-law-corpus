@@ -1,0 +1,76 @@
+{
+  "id": "xzfg-c567825465",
+  "officialId": "",
+  "title": "中华人民共和国港口间海上旅客运输赔偿责任限额规定",
+  "category": "行政法规",
+  "issuingAuthority": "国务院",
+  "promulgationDate": "1993-12-17",
+  "effectiveDate": "",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/xzfg-c567825465/metadata.json",
+    "docxPath": "data/laws/xzfg-c567825465/official.docx"
+  },
+  "paragraphCount": 15,
+  "sectionCount": 0,
+  "articleCount": 7,
+  "sections": [],
+  "articles": [
+    {
+      "id": "xzfg-c567825465-0001",
+      "articleNumber": 1,
+      "displayNumber": "第一条",
+      "path": [],
+      "text": "根据《中华人民共和国海商法》第一百一十七条、第二百一十一条的规定，制定本规定。",
+      "order": 1
+    },
+    {
+      "id": "xzfg-c567825465-0002",
+      "articleNumber": 2,
+      "displayNumber": "第二条",
+      "path": [],
+      "text": "本规定适用于中华人民共和国港口之间海上旅客运输。",
+      "order": 2
+    },
+    {
+      "id": "xzfg-c567825465-0003",
+      "articleNumber": 3,
+      "displayNumber": "第三条",
+      "path": [],
+      "text": "承运人在每次海上旅客运输中的赔偿责任限额，按照下列规定执行：\n(一)旅客人身伤亡的，每名旅客不超过4万元人民币；\n(二)旅客自带行李灭失或者损坏的，每名旅客不超过800元人民币；\n(三)旅客车辆包括该车辆所载行李灭失或者损坏的，每一车辆不超过3200元人民币；\n(四)本款第(二)项、第(三)项以外的旅客其他行李灭失或者损坏的，每千克不超过20元人民币。\n承运人和旅客可以书面约定高于本条第一款规定的赔偿责任限额。",
+      "order": 3
+    },
+    {
+      "id": "xzfg-c567825465-0004",
+      "articleNumber": 4,
+      "displayNumber": "第四条",
+      "path": [],
+      "text": "海上旅客运输的旅客人身伤亡赔偿责任限制，按照4万元人民币乘以船舶证书规定的载客定额计算赔偿限额，但是最高不超过2100万元人民币。",
+      "order": 9
+    },
+    {
+      "id": "xzfg-c567825465-0005",
+      "articleNumber": 5,
+      "displayNumber": "第五条",
+      "path": [],
+      "text": "向外籍旅客、华侨和港、澳、台胞旅客给付的赔偿金，可以兑换成该外国或者地区的货币。其汇率按照赔偿金给付之日中华人民共和国外汇管理部门公布的外汇牌价确定。",
+      "order": 10
+    },
+    {
+      "id": "xzfg-c567825465-0006",
+      "articleNumber": 6,
+      "displayNumber": "第六条",
+      "path": [],
+      "text": "本规定由中华人民共和国交通部负责解释。",
+      "order": 11
+    },
+    {
+      "id": "xzfg-c567825465-0007",
+      "articleNumber": 7,
+      "displayNumber": "第七条",
+      "path": [],
+      "text": "本规定自一九九四年一月一日起施行。",
+      "order": 12
+    }
+  ]
+}

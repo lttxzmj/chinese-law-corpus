@@ -9,8 +9,7 @@
   "status": "pending",
   "source": {
     "metadataPath": "data/laws/law-ede812eae9/metadata.json",
-    "docxPath": "data/laws/law-ede812eae9/official.docx",
-    "pdfPath": "data/laws/law-ede812eae9/official.pdf"
+    "docxPath": "data/laws/law-ede812eae9/official.docx"
   },
   "paragraphCount": 122,
   "sectionCount": 14,

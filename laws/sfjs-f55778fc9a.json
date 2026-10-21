@@ -1,0 +1,28 @@
+{
+  "id": "sfjs-f55778fc9a",
+  "officialId": "",
+  "title": "最高人民法院关于对变造、倒卖变造邮票行为如何适用法律问题的解释",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院",
+  "promulgationDate": "2000-12-05",
+  "effectiveDate": "2000-12-09",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-f55778fc9a/metadata.json",
+    "docxPath": "data/laws/sfjs-f55778fc9a/official.docx"
+  },
+  "paragraphCount": 7,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-f55778fc9a-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "法释〔2000〕41号\n（2000年11月15日最高人民法院审判委员会第1139次会议通过 2000年12月5日最高人民法院公告公布 自2000年12月9日起施行）\n为了正确适用刑法，现对审理变造、倒卖变造邮票案件如何适用法律问题解释如下：\n对变造或者倒卖变造的邮票数额较大的，应当依照刑法第二百二十七条第一款的规定定罪处罚。",
+      "order": 1
+    }
+  ]
+}

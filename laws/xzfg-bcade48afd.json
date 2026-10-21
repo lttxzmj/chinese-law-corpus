@@ -9,8 +9,7 @@
   "status": "effective",
   "source": {
     "metadataPath": "data/laws/xzfg-bcade48afd/metadata.json",
-    "docxPath": "data/laws/xzfg-bcade48afd/official.docx",
-    "pdfPath": "data/laws/xzfg-bcade48afd/official.pdf"
+    "docxPath": "data/laws/xzfg-bcade48afd/official.docx"
   },
   "paragraphCount": 172,
   "sectionCount": 9,

@@ -1,0 +1,28 @@
+{
+  "id": "sfjs-4a8afd39f6",
+  "officialId": "",
+  "title": "最高人民法院关于刑事裁判文书中刑期起止日期如何表述问题的批复",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院",
+  "promulgationDate": "2000-02-19",
+  "effectiveDate": "2000-03-04",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-4a8afd39f6/metadata.json",
+    "docxPath": "data/laws/sfjs-4a8afd39f6/official.docx"
+  },
+  "paragraphCount": 9,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-4a8afd39f6-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "法释〔2000〕7号\n（2000年2月13日最高人民法院审判委员会第1099次会议通过 2000年2月19日最高人民法院公告公布 自2000年3月4日起施行）\n江西省高级人民法院：\n你院赣高法〔1999〕第151号《关于裁判文书中刑期起止时间如何表述的请示》收悉。经研究，答复如下：\n根据刑法第四十一条、第四十四条、第四十七条和《法院刑事诉讼文书样式》（样本）的规定，判处管制、拘役、有期徒刑的，应当在刑事裁判文书中写明刑种、刑期和主刑刑期的起止日期及折抵办法。刑期从判决执行之日起计算。判决执行以前先行羁押的，羁押一日折抵刑期一日（判处管制刑的，羁押一日折抵刑期二日），即自××××年××月××日（羁押之日）起至××××年××月××日止。羁押期间取保候审的，刑期的终止日顺延。\n此复。",
+      "order": 1
+    }
+  ]
+}

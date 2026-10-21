@@ -1,0 +1,28 @@
+{
+  "id": "fljs-2362c1e1fb",
+  "officialId": "",
+  "title": "全国人民代表大会常务委员会关于《中华人民共和国刑法》第三十条的解释",
+  "category": "法律解释",
+  "issuingAuthority": "全国人民代表大会常务委员会",
+  "promulgationDate": "2014-04-24",
+  "effectiveDate": "2014-04-24",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/fljs-2362c1e1fb/metadata.json",
+    "docxPath": "data/laws/fljs-2362c1e1fb/official.docx"
+  },
+  "paragraphCount": 6,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "fljs-2362c1e1fb-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "（2014年4月24日第十二届全国人民代表大会常务委员会第八次会议通过）\n全国人民代表大会常务委员会根据司法实践中遇到的情况，讨论了刑法第三十条的含义及公司、企业、事业单位、机关、团体等单位实施刑法规定的危害社会的行为，法律未规定追究单位的刑事责任的，如何适用刑法有关规定的问题，解释如下：\n公司、企业、事业单位、机关、团体等单位实施刑法规定的危害社会的行为，刑法分则和其他法律未规定追究单位的刑事责任的，对组织、策划、实施该危害社会行为的人依法追究刑事责任。\n现予公告。",
+      "order": 1
+    }
+  ]
+}

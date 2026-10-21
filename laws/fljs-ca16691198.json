@@ -1,0 +1,28 @@
+{
+  "id": "fljs-ca16691198",
+  "officialId": "",
+  "title": "全国人民代表大会常务委员会关于《中华人民共和国刑事诉讼法》第二百九十二条的解释",
+  "category": "法律解释",
+  "issuingAuthority": "全国人民代表大会常务委员会",
+  "promulgationDate": "2025-12-27",
+  "effectiveDate": "2025-12-27",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/fljs-ca16691198/metadata.json",
+    "docxPath": "data/laws/fljs-ca16691198/official.docx"
+  },
+  "paragraphCount": 5,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "fljs-ca16691198-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "（2025年12月27日第十四届全国人民代表大会常务委员会第十九次会议通过）\n全国人民代表大会常务委员会根据《中华人民共和国立法法》有关规定和司法实践需要，讨论了《中华人民共和国刑事诉讼法》第二百九十二条关于缺席审判程序中有关法律文书送达方式规定的含义问题，解释如下：\n《中华人民共和国刑事诉讼法》第二百九十二条中规定的“被告人所在地法律允许的其他方式”，是指被告人所在地的法律、判例、惯例、司法实践等所规定、承认、认可、接受的各种送达方式，包括但不限于邮寄、公告、公示、电子等送达方式。\n现予公告。",
+      "order": 1
+    }
+  ]
+}

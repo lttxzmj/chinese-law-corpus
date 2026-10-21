@@ -1,0 +1,28 @@
+{
+  "id": "sfjs-ae3c258dcf",
+  "officialId": "",
+  "title": "最高人民法院关于产品侵权案件的受害人能否以产品的商标所有人为被告提起民事诉讼的批复",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院",
+  "promulgationDate": "2020-12-29",
+  "effectiveDate": "2021-01-01",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-ae3c258dcf/metadata.json",
+    "docxPath": "data/laws/sfjs-ae3c258dcf/official.docx"
+  },
+  "paragraphCount": 8,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-ae3c258dcf-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "（2002年7月４日最高人民法院审判委员会第1229次会议通过，\n根据2020年12月23日最高人民法院审判委员会第1823次会议\n通过的《最高人民法院关于修改〈最高人民法院关于人民法院民事调解工作若干问题的规定〉等十九件民事诉讼类司法解释的决定》修正）\n北京市高级人民法院：\n你院京高法〔2001〕271号《关于荆其廉、张新荣等诉美国通用汽车公司、美国通用汽车海外公司损害赔偿案诉讼主体确立问题处理结果的请示报告》收悉。经研究，我们认为，任何将自己的姓名、名称、商标或者可资识别的其他标识体现在产品上，表示其为产品制造者的企业或个人，均属于《中华人民共和国民法典》和《中华人民共和国产品质量法》规定的“生产者”。本案中美国通用汽车公司为事故车的商标所有人，根据受害人的起诉和本案的实际情况，本案以通用汽车公司、通用汽车海外公司、通用汽车巴西公司为被告并无不当。",
+      "order": 1
+    }
+  ]
+}

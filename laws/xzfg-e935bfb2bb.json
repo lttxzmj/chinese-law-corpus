@@ -1,0 +1,308 @@
+{
+  "id": "xzfg-e935bfb2bb",
+  "officialId": "",
+  "title": "票据管理实施办法",
+  "category": "行政法规",
+  "issuingAuthority": "国务院",
+  "promulgationDate": "2011-01-08",
+  "effectiveDate": "",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/xzfg-e935bfb2bb/metadata.json",
+    "docxPath": "data/laws/xzfg-e935bfb2bb/official.docx"
+  },
+  "paragraphCount": 66,
+  "sectionCount": 0,
+  "articleCount": 36,
+  "sections": [],
+  "articles": [
+    {
+      "id": "xzfg-e935bfb2bb-0001",
+      "articleNumber": 1,
+      "displayNumber": "第一条",
+      "path": [],
+      "text": "为了加强票据管理，维护金融秩序，根据《中华人民共和国票据法》(以下简称票据法)的规定，制定本办法。",
+      "order": 1
+    },
+    {
+      "id": "xzfg-e935bfb2bb-0002",
+      "articleNumber": 2,
+      "displayNumber": "第二条",
+      "path": [],
+      "text": "在中华人民共和国境内的票据管理，适用本办法。",
+      "order": 2
+    },
+    {
+      "id": "xzfg-e935bfb2bb-0003",
+      "articleNumber": 3,
+      "displayNumber": "第三条",
+      "path": [],
+      "text": "中国人民银行是票据的管理部门。\n票据管理应当遵守票据法和本办法以及有关法律、行政法规的规定，不得损害票据当事人的合法权益。",
+      "order": 3
+    },
+    {
+      "id": "xzfg-e935bfb2bb-0004",
+      "articleNumber": 4,
+      "displayNumber": "第四条",
+      "path": [],
+      "text": "票据当事人应当依法从事票据活动，行使票据权利，履行票据义务。",
+      "order": 5
+    },
+    {
+      "id": "xzfg-e935bfb2bb-0005",
+      "articleNumber": 5,
+      "displayNumber": "第五条",
+      "path": [],
+      "text": "票据当事人应当使用中国人民银行规定的统一格式的票据。",
+      "order": 6
+    },
+    {
+      "id": "xzfg-e935bfb2bb-0006",
+      "articleNumber": 6,
+      "displayNumber": "第六条",
+      "path": [],
+      "text": "银行汇票的出票人，为经中国人民银行批准办理银行汇票业务的银行。",
+      "order": 7
+    },
+    {
+      "id": "xzfg-e935bfb2bb-0007",
+      "articleNumber": 7,
+      "displayNumber": "第七条",
+      "path": [],
+      "text": "银行本票的出票人，为经中国人民银行批准办理银行本票业务的银行。",
+      "order": 8
+    },
+    {
+      "id": "xzfg-e935bfb2bb-0008",
+      "articleNumber": 8,
+      "displayNumber": "第八条",
+      "path": [],
+      "text": "商业汇票的出票人，为银行以外的企业和其他组织。\n向银行申请办理汇票承兑的商业汇票的出票人，必须具备下列条件：\n(一)在承兑银行开立存款账户；\n(二)资信状况良好，并具有支付汇票金额的可靠资金来源。",
+      "order": 9
+    },
+    {
+      "id": "xzfg-e935bfb2bb-0009",
+      "articleNumber": 9,
+      "displayNumber": "第九条",
+      "path": [],
+      "text": "承兑商业汇票的银行，必须具备下列条件：\n(一)与出票人具有真实的委托付款关系；\n(二)具有支付汇票金额的可靠资金。",
+      "order": 13
+    },
+    {
+      "id": "xzfg-e935bfb2bb-0010",
+      "articleNumber": 10,
+      "displayNumber": "第十条",
+      "path": [],
+      "text": "向银行申请办理票据贴现的商业汇票的持票人，必须具备下列条件：\n(一)在银行开立存款账户；\n(二)与出票人、前手之间具有真实的交易关系和债权债务关系。",
+      "order": 16
+    },
+    {
+      "id": "xzfg-e935bfb2bb-0011",
+      "articleNumber": 11,
+      "displayNumber": "第十一条",
+      "path": [],
+      "text": "支票的出票人，为在经中国人民银行批准办理支票存款业务的银行、城市信用合作社和农村信用合作社开立支票存款账户的企业、其他组织和个人。",
+      "order": 19
+    },
+    {
+      "id": "xzfg-e935bfb2bb-0012",
+      "articleNumber": 12,
+      "displayNumber": "第十二条",
+      "path": [],
+      "text": "票据法所称“保证人”，是指具有代为清偿票据债务能力的法人、其他组织或者个人。\n国家机关、以公益为目的的事业单位、社会团体、企业法人的分支机构和职能部门不得为保证人；但是，法律另有规定的除外。",
+      "order": 20
+    },
+    {
+      "id": "xzfg-e935bfb2bb-0013",
+      "articleNumber": 13,
+      "displayNumber": "第十三条",
+      "path": [],
+      "text": "银行汇票上的出票人的签章、银行承兑商业汇票的签章，为该银行的汇票专用章加其法定代表人或者其授权的代理人的签名或者盖章。\n银行本票上的出票人的签章，为该银行的本票专用章加其法定代表人或者其授权的代理人的签名或者盖章。\n银行汇票专用章、银行本票专用章须经中国人民银行批准。",
+      "order": 22
+    },
+    {
+      "id": "xzfg-e935bfb2bb-0014",
+      "articleNumber": 14,
+      "displayNumber": "第十四条",
+      "path": [],
+      "text": "商业汇票上的出票人的签章，为该单位的财务专用章或者公章加其法定代表人或者其授权的代理人的签名或者盖章。",
+      "order": 25
+    },
+    {
+      "id": "xzfg-e935bfb2bb-0015",
+      "articleNumber": 15,
+      "displayNumber": "第十五条",
+      "path": [],
+      "text": "支票上的出票人的签章，出票人为单位的，为与该单位在银行预留签章一致的财务专用章或者公章加其法定代表人或者其授权的代理人的签名或者盖章；出票人为个人的，为与该个人在银行预留签章一致的签名或者盖章。",
+      "order": 26
+    },
+    {
+      "id": "xzfg-e935bfb2bb-0016",
+      "articleNumber": 16,
+      "displayNumber": "第十六条",
+      "path": [],
+      "text": "票据法所称“本名”，是指符合法律、行政法规以及国家有关规定的身份证件上的姓名。",
+      "order": 27
+    },
+    {
+      "id": "xzfg-e935bfb2bb-0017",
+      "articleNumber": 17,
+      "displayNumber": "第十七条",
+      "path": [],
+      "text": "出票人在票据上的签章不符合票据法和本办法规定的，票据无效；背书人、承兑人、保证人在票据上的签章不符合票据法和本办法规定的，其签章无效，但是不影响票据上其他签章的效力。",
+      "order": 28
+    },
+    {
+      "id": "xzfg-e935bfb2bb-0018",
+      "articleNumber": 18,
+      "displayNumber": "第十八条",
+      "path": [],
+      "text": "票据法所称“代理付款人”，是指根据付款人的委托，代其支付票据金额的银行、城市信用合作社和农村信用合作社。",
+      "order": 29
+    },
+    {
+      "id": "xzfg-e935bfb2bb-0019",
+      "articleNumber": 19,
+      "displayNumber": "第十九条",
+      "path": [],
+      "text": "票据法规定可以办理挂失止付的票据丧失的，失票人可以依照票据法的规定及时通知付款人或者代理付款人挂失止付。\n失票人通知票据的付款人或者代理付款人挂失止付时，应当填写挂失止付通知书并签章。挂失止付通知书应当记载下列事项：\n(一)票据丧失的时间和事由；\n(二)票据种类、号码、金额、出票日期、付款日期、付款人名称、收款人名称；\n(三)挂失止付人的名称、营业场所或者住所以及联系方法。",
+      "order": 30
+    },
+    {
+      "id": "xzfg-e935bfb2bb-0020",
+      "articleNumber": 20,
+      "displayNumber": "第二十条",
+      "path": [],
+      "text": "付款人或者代理付款人收到挂失止付通知书，应当立即暂停支付。付款人或者代理付款人自收到挂失止付通知书之日起12日内没有收到人民法院的止付通知书的，自第13日起，挂失止付通知书失效。",
+      "order": 35
+    },
+    {
+      "id": "xzfg-e935bfb2bb-0021",
+      "articleNumber": 21,
+      "displayNumber": "第二十一条",
+      "path": [],
+      "text": "付款人或者代理付款人在收到挂失止付通知书前，已经依法向持票人付款的，不再接受挂失止付。",
+      "order": 36
+    },
+    {
+      "id": "xzfg-e935bfb2bb-0022",
+      "articleNumber": 22,
+      "displayNumber": "第二十二条",
+      "path": [],
+      "text": "申请人申请开立支票存款账户的，银行、城市信用合作社和农村信用合作社可以与申请人约定在支票上使用支付密码，作为支付支票金额的条件。",
+      "order": 37
+    },
+    {
+      "id": "xzfg-e935bfb2bb-0023",
+      "articleNumber": 23,
+      "displayNumber": "第二十三条",
+      "path": [],
+      "text": "保证人应当依照票据法的规定，在票据或者其粘单上记载保证事项。保证人为出票人、付款人、承兑人保证的，应当在票据的正面记载保证事项；保证人为背书人保证的，应当在票据的背面或者其粘单上记载保证事项。",
+      "order": 38
+    },
+    {
+      "id": "xzfg-e935bfb2bb-0024",
+      "articleNumber": 24,
+      "displayNumber": "第二十四条",
+      "path": [],
+      "text": "依法背书转让的票据，任何单位和个人不得冻结票据款项；但是，法律另有规定的除外。",
+      "order": 39
+    },
+    {
+      "id": "xzfg-e935bfb2bb-0025",
+      "articleNumber": 25,
+      "displayNumber": "第二十五条",
+      "path": [],
+      "text": "票据法第五十五条所称“签收”，是指持票人在票据的正面签章，表明持票人已经获得付款。",
+      "order": 40
+    },
+    {
+      "id": "xzfg-e935bfb2bb-0026",
+      "articleNumber": 26,
+      "displayNumber": "第二十六条",
+      "path": [],
+      "text": "通过委托收款银行或者通过票据交换系统向付款人提示付款的，持票人向银行提交票据日为提示付款日。",
+      "order": 41
+    },
+    {
+      "id": "xzfg-e935bfb2bb-0027",
+      "articleNumber": 27,
+      "displayNumber": "第二十七条",
+      "path": [],
+      "text": "票据法第六十二条所称“拒绝证明”应当包括下列事项：\n(一)被拒绝承兑、付款的票据的种类及其主要记载事项；\n(二)拒绝承兑、付款的事实依据和法律依据；\n(三)拒绝承兑、付款的时间；\n(四)拒绝承兑人、拒绝付款人的签章。\n票据法第六十二条所称“退票理由书”应当包括下列事项：\n(一)所退票据的种类；\n(二)退票的事实依据和法律依据；\n(三)退票时间；\n(四)退票人签章。",
+      "order": 42
+    },
+    {
+      "id": "xzfg-e935bfb2bb-0028",
+      "articleNumber": 28,
+      "displayNumber": "第二十八条",
+      "path": [],
+      "text": "票据法第六十三条规定的“其他有关证明”是指：\n(一)医院或者有关单位出具的承兑人、付款人死亡的证明；\n(二)司法机关出具的承兑人、付款人逃匿的证明；\n(三)公证机关出具的具有拒绝证明效力的文书。",
+      "order": 52
+    },
+    {
+      "id": "xzfg-e935bfb2bb-0029",
+      "articleNumber": 29,
+      "displayNumber": "第二十九条",
+      "path": [],
+      "text": "票据法第七十条第一款第(二)项、第七十一条第一款第(二)项规定的“利率”，是指中国人民银行规定的流动资金贷款利率。",
+      "order": 56
+    },
+    {
+      "id": "xzfg-e935bfb2bb-0030",
+      "articleNumber": 30,
+      "displayNumber": "第三十条",
+      "path": [],
+      "text": "有票据法第一百零二条所列行为之一，情节轻微，不构成犯罪的，由公安机关依法予以处罚。",
+      "order": 57
+    },
+    {
+      "id": "xzfg-e935bfb2bb-0031",
+      "articleNumber": 31,
+      "displayNumber": "第三十一条",
+      "path": [],
+      "text": "签发空头支票或者签发与其预留的签章不符的支票，不以骗取财物为目的的，由中国人民银行处以票面金额5%但不低于1000元的罚款；持票人有权要求出票人赔偿支票金额2%的赔偿金。",
+      "order": 58
+    },
+    {
+      "id": "xzfg-e935bfb2bb-0032",
+      "articleNumber": 32,
+      "displayNumber": "第三十二条",
+      "path": [],
+      "text": "金融机构的工作人员在票据业务中玩忽职守，对违反票据法和本办法规定的票据予以承兑、付款、保证或者贴现的，对直接负责的主管人员和其他直接责任人员给予警告、记过、撤职或者开除的处分；造成重大损失，构成犯罪的，依法追究刑事责任。",
+      "order": 59
+    },
+    {
+      "id": "xzfg-e935bfb2bb-0033",
+      "articleNumber": 33,
+      "displayNumber": "第三十三条",
+      "path": [],
+      "text": "票据的付款人对见票即付或者到期的票据，故意压票、拖延支付的，由中国人民银行处以压票、拖延支付期间内每日票据金额0.7‰的罚款；对直接负责的主管人员和其他直接责任人员给予警告、记过、撤职或者开除的处分。",
+      "order": 60
+    },
+    {
+      "id": "xzfg-e935bfb2bb-0034",
+      "articleNumber": 34,
+      "displayNumber": "第三十四条",
+      "path": [],
+      "text": "违反中国人民银行规定，擅自印制票据的，由中国人民银行责令改正，处以1万元以上20万元以下的罚款；情节严重的，中国人民银行有权提请有关部门吊销其营业执照。",
+      "order": 61
+    },
+    {
+      "id": "xzfg-e935bfb2bb-0035",
+      "articleNumber": 35,
+      "displayNumber": "第三十五条",
+      "path": [],
+      "text": "票据的格式、联次、颜色、规格及防伪技术要求和印制，由中国人民银行规定。\n中国人民银行在确定票据格式时，可以根据少数民族地区和外国驻华使领馆的实际需要，在票据格式中增加少数民族文字或者外国文字。",
+      "order": 62
+    },
+    {
+      "id": "xzfg-e935bfb2bb-0036",
+      "articleNumber": 36,
+      "displayNumber": "第三十六条",
+      "path": [],
+      "text": "本办法自1997年10月1日起施行。",
+      "order": 64
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "sfjs-df2df24bfe",
+  "officialId": "",
+  "title": "最高人民法院关于审理单位犯罪案件具体应用法律有关问题的解释",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院",
+  "promulgationDate": "1999-06-25",
+  "effectiveDate": "1999-07-03",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-df2df24bfe/metadata.json",
+    "docxPath": "data/laws/sfjs-df2df24bfe/official.docx"
+  },
+  "paragraphCount": 9,
+  "sectionCount": 0,
+  "articleCount": 3,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-df2df24bfe-0001",
+      "articleNumber": 1,
+      "displayNumber": "第一条",
+      "path": [],
+      "text": "刑法第三十条规定的“公司、企业、事业单位”，既包括国有、集体所有的公司、企业、事业单位，也包括依法设立的合资经营、合作经营企业和具有法人资格的独资、私营等公司、企业、事业单位。",
+      "order": 1
+    },
+    {
+      "id": "sfjs-df2df24bfe-0002",
+      "articleNumber": 2,
+      "displayNumber": "第二条",
+      "path": [],
+      "text": "个人为进行违法犯罪活动而设立的公司、企业、事业单位实施犯罪的，或者公司、企业、事业单位设立后，以实施犯罪为主要活动的，不以单位犯罪论处。",
+      "order": 2
+    },
+    {
+      "id": "sfjs-df2df24bfe-0003",
+      "articleNumber": 3,
+      "displayNumber": "第三条",
+      "path": [],
+      "text": "盗用单位名义实施犯罪，违法所得由实施犯罪的个人私分的，依照刑法有关自然人犯罪的规定定罪处罚。",
+      "order": 3
+    }
+  ]
+}

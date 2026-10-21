@@ -1,0 +1,28 @@
+{
+  "id": "sfjs-789c1a2b9c",
+  "officialId": "",
+  "title": "最高人民法院关于公司解散纠纷案件受理费收费标准的批复",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院",
+  "promulgationDate": "2023-09-22",
+  "effectiveDate": "2023-09-22",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-789c1a2b9c/metadata.json",
+    "docxPath": "data/laws/sfjs-789c1a2b9c/official.docx"
+  },
+  "paragraphCount": 8,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-789c1a2b9c-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "法释〔2023〕9号\n（2023年7月17日最高人民法院审判委员会第1896次会议通过，自2023年9月22日起施行）\n福建省高级人民法院：\n你院《关于公司解散纠纷案件受理费收取标准的请示》收悉。经研究，批复如下：\n同意你院审判委员会第二种意见，公司解散纠纷应当按照非财产案件确定受理费收费标准。公司强制清算案件的申请费以强制清算财产总额为基数，按照财产案件受理费标准减半计算。",
+      "order": 1
+    }
+  ]
+}

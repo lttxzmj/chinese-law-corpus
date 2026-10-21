@@ -1,0 +1,28 @@
+{
+  "id": "sfjs-18f9b42c33",
+  "officialId": "",
+  "title": "最高人民检察院关于对报请批准逮捕的案件可否侦查问题的批复",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民检察院",
+  "promulgationDate": "1998-05-12",
+  "effectiveDate": "1998-05-12",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-18f9b42c33/metadata.json",
+    "docxPath": "data/laws/sfjs-18f9b42c33/official.docx"
+  },
+  "paragraphCount": 10,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-18f9b42c33-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "（1998年5月7日最高人民检察院第九届检察委员会\n第二次会议通过）\n高检发释字〔1998〕2号\n海南省人民检察院：\n你院琼检发刑捕字〔1998〕1号《关于执行＜关于刑事诉讼法实施中若干问题的规定＞有关问题的请示》收悉。经研究，批复如下：\n人民检察院审查公安机关提请逮捕的案件，经审查，应当作出批准或者不批准逮捕的决定，对报请批准逮捕的案件不另行侦查。人民检察院在审查批捕中如果认为报请批准逮捕的证据存有疑问的，可以复核有关证据，讯问犯罪嫌疑人、询问证人，以保证批捕案件的质量，防止错捕或漏捕。\n最高人民检察院\n1998年5月12日",
+      "order": 1
+    }
+  ]
+}

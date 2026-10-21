@@ -1,0 +1,28 @@
+{
+  "id": "sfjs-642216492a",
+  "officialId": "",
+  "title": "最高人民法院关于海关行政处罚案件诉讼管辖问题的解释",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院",
+  "promulgationDate": "2002-01-30",
+  "effectiveDate": "2002-02-07",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-642216492a/metadata.json",
+    "docxPath": "data/laws/sfjs-642216492a/official.docx"
+  },
+  "paragraphCount": 7,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-642216492a-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "法释〔2002〕4号\n（2002年1月28日最高人民法院审判委员会第1209次会议通过 2002年1月30日最高人民法院公告公布 自2002年2月7日起施行）\n为规范海事法院的受理案件范围，根据《中华人民共和国行政诉讼法》的有关规定，现就海关行政处罚案件的诉讼管辖问题解释如下：\n相对人不服海关作出的行政处罚决定提起诉讼的案件，由有管辖权的地方人民法院依照《中华人民共和国行政诉讼法》的有关规定审理。相对人向海事法院提起诉讼的，海事法院不予受理。",
+      "order": 1
+    }
+  ]
+}

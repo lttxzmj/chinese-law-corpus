@@ -1,0 +1,28 @@
+{
+  "id": "sfjs-45585c65ef",
+  "officialId": "",
+  "title": "最高人民法院关于海事法院可否适用小额诉讼程序问题的批复",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院",
+  "promulgationDate": "2013-06-19",
+  "effectiveDate": "2013-06-26",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-45585c65ef/metadata.json",
+    "docxPath": "data/laws/sfjs-45585c65ef/official.docx"
+  },
+  "paragraphCount": 9,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-45585c65ef-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "法释〔2013〕16号\n（2013年5月27日最高人民法院审判委员会第1579次会议通过 2013年6月19日最高人民法院公告公布 自2013年6月26日起施行）\n上海市高级人民法院：\n你院《关于海事法院适用小额诉讼程序的请示》（沪高法〔2013〕5号）收悉。经研究，批复如下：\n2012年修订的《中华人民共和国民事诉讼法》简易程序一章规定了小额诉讼程序，《中华人民共和国海事诉讼特别程序法》第九十八条规定海事法院可以适用简易程序。因此，海事法院可以适用小额诉讼程序审理简单的海事、海商案件。\n适用小额诉讼程序的标的额应以实际受理案件的海事法院或其派出法庭所在的省、自治区、直辖市上年度就业人员年平均工资百分之三十为限。",
+      "order": 1
+    }
+  ]
+}

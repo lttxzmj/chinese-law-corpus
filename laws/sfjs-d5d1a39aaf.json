@@ -1,0 +1,28 @@
+{
+  "id": "sfjs-d5d1a39aaf",
+  "officialId": "",
+  "title": "最高人民法院关于适用刑事诉讼法第二百二十五条第二款有关问题的批复",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院",
+  "promulgationDate": "2016-06-23",
+  "effectiveDate": "2016-06-24",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-d5d1a39aaf/metadata.json",
+    "docxPath": "data/laws/sfjs-d5d1a39aaf/official.docx"
+  },
+  "paragraphCount": 13,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-d5d1a39aaf-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "法释〔2016〕13号\n河南省高级人民法院：\n你院关于适用《中华人民共和国刑事诉讼法》第二百二十五条第二款有关问题的请示收悉。经研究，批复如下：\n一、对于最高人民法院依据《中华人民共和国刑事诉讼法》第二百三十九条和最高人民法院《关于适用〈中华人民共和国刑事诉讼法〉的解释》第三百五十三条裁定不予核准死刑，发回第二审人民法院重新审判的案件，无论此前第二审人民法院是否曾以原判决事实不清楚或者证据不足为由发回重新审判，原则上不得再发回第一审人民法院重新审判；有特殊情况确需发回第一审人民法院重新审判的，需报请最高人民法院批准。\n二、对于最高人民法院裁定不予核准死刑，发回第二审人民法院重新审判的案件，第二审人民法院根据案件特殊情况，又发回第一审人民法院重新审判的，第一审人民法院作出判决后，被告人提出上诉或者人民检察院提出抗诉的，第二审人民法院应当依法作出判决或者裁定，不得再发回重新审判。\n此复。",
+      "order": 1
+    }
+  ]
+}

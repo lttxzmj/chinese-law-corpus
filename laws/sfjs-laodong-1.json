@@ -9,8 +9,7 @@
   "status": "effective",
   "source": {
     "metadataPath": "data/laws/sfjs-laodong-1/metadata.json",
-    "docxPath": "data/laws/sfjs-laodong-1/official.docx",
-    "pdfPath": "data/laws/sfjs-laodong-1/official.pdf"
+    "docxPath": "data/laws/sfjs-laodong-1/official.docx"
   },
   "paragraphCount": 131,
   "sectionCount": 0,

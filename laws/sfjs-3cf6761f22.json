@@ -1,0 +1,28 @@
+{
+  "id": "sfjs-3cf6761f22",
+  "officialId": "",
+  "title": "最高人民法院关于超过诉讼时效期间借款人在催款通知单上签字或者盖章的法律效力问题的批复",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院",
+  "promulgationDate": "1999-02-11",
+  "effectiveDate": "1999-02-16",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-3cf6761f22/metadata.json",
+    "docxPath": "data/laws/sfjs-3cf6761f22/official.docx"
+  },
+  "paragraphCount": 9,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-3cf6761f22-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "法释〔1999〕7号\n（1999年1月29日最高人民法院审判委员会第1042次会议通过 1999年2月11日最高人民法院公告公布 自1999年2月16日起施行）\n河北省高级人民法院：\n你院〔1998〕冀经一请字第38号《关于超过诉讼时效期间信用社向借款人发出的“催收到期贷款通知单”是否受法律保护的请示》收悉。经研究，答复如下：\n根据《中华人民共和国民法通则》第四条、第九十条规定的精神，对于超过诉讼时效期间，信用社向借款人发出催收到期贷款通知单，债务人在该通知单上签字或者盖章的，应当视为对原债务的重新确认，该债权债务关系应受法律保护。\n此复。",
+      "order": 1
+    }
+  ]
+}

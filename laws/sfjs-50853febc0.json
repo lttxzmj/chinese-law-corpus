@@ -1,0 +1,28 @@
+{
+  "id": "sfjs-50853febc0",
+  "officialId": "",
+  "title": "最高人民法院关于适用《行政复议法》第三十条第一款有关问题的批复",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院",
+  "promulgationDate": "2003-02-25",
+  "effectiveDate": "2003-02-28",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-50853febc0/metadata.json",
+    "docxPath": "data/laws/sfjs-50853febc0/official.docx"
+  },
+  "paragraphCount": 9,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-50853febc0-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "法释〔2003〕5号\n（2003年1月9日最高人民法院审判委员会第1263次会议通过 2003年2月25日最高人民法院公告公布 自2003年2月28日起施行）\n山西省高级人民法院：\n你院《关于适用〈行政复议法〉第三十条第一款有关问题的请示》收悉。经研究，答复如下：\n根据《行政复议法》第三十条第一款的规定，公民、法人或者其他组织认为行政机关确认土地、矿藏、水流、森林、山岭、草原、荒地、滩涂、海域等自然资源的所有权或者使用权的具体行政行为，侵犯其已经依法取得的自然资源所有权或者使用权的，经行政复议后，才可以向人民法院提起行政诉讼，但法律另有规定的除外；对涉及自然资源所有权或者使用权的行政处罚、行政强制措施等其他具体行政行为提起行政诉讼的，不适用《行政复议法》第三十条第一款的规定。\n此复。",
+      "order": 1
+    }
+  ]
+}

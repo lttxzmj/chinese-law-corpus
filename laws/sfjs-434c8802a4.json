@@ -1,0 +1,28 @@
+{
+  "id": "sfjs-434c8802a4",
+  "officialId": "",
+  "title": "最高人民法院关于刑事案件终审判决和裁定何时发生法律效力问题的批复",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院",
+  "promulgationDate": "2004-07-26",
+  "effectiveDate": "2004-07-29",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-434c8802a4/metadata.json",
+    "docxPath": "data/laws/sfjs-434c8802a4/official.docx"
+  },
+  "paragraphCount": 13,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-434c8802a4-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "法释〔2004〕7号\n（2004年7月20日最高人民法院审判委员会第1320次会议通过 2004年7月26日最高人民法院公告公布 自2004年7月29日起施行）\n各省、自治区、直辖市高级人民法院，解放军军事法院，新疆维吾尔自治区高级人民法院生产建设兵团分院：\n近来，有的法院反映，关于刑事案件终审判决和裁定何时发生法律效力问题不明确。经研究，批复如下：\n根据《中华人民共和国刑事诉讼法》第一百六十三条、第一百九十五条和第二百零八条规定的精神，终审的判决和裁定自宣告之日起发生法律效力。\n此复。",
+      "order": 1
+    }
+  ]
+}

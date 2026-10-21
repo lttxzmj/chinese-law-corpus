@@ -1,0 +1,60 @@
+{
+  "id": "sfjs-660c68b2e6",
+  "officialId": "",
+  "title": "最高人民法院关于审理物业服务纠纷案件适用法律若干问题的解释",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院",
+  "promulgationDate": "2020-12-29",
+  "effectiveDate": "2021-01-01",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-660c68b2e6/metadata.json",
+    "docxPath": "data/laws/sfjs-660c68b2e6/official.docx"
+  },
+  "paragraphCount": 11,
+  "sectionCount": 0,
+  "articleCount": 5,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-660c68b2e6-0001",
+      "articleNumber": 1,
+      "displayNumber": "第一条",
+      "path": [],
+      "text": "业主违反物业服务合同或者法律、法规、管理规约，实施妨碍物业服务与管理的行为，物业服务人请求业主承担停止侵害、排除妨碍、恢复原状等相应民事责任的，人民法院应予支持。",
+      "order": 1
+    },
+    {
+      "id": "sfjs-660c68b2e6-0002",
+      "articleNumber": 2,
+      "displayNumber": "第二条",
+      "path": [],
+      "text": "物业服务人违反物业服务合同约定或者法律、法规、部门规章规定，擅自扩大收费范围、提高收费标准或者重复收费，业主以违规收费为由提出抗辩的，人民法院应予支持。\n业主请求物业服务人退还其已经收取的违规费用的，人民法院应予支持。",
+      "order": 2
+    },
+    {
+      "id": "sfjs-660c68b2e6-0003",
+      "articleNumber": 3,
+      "displayNumber": "第三条",
+      "path": [],
+      "text": "物业服务合同的权利义务终止后，业主请求物业服务人退还已经预收，但尚未提供物业服务期间的物业费的，人民法院应予支持。",
+      "order": 4
+    },
+    {
+      "id": "sfjs-660c68b2e6-0004",
+      "articleNumber": 4,
+      "displayNumber": "第四条",
+      "path": [],
+      "text": "因物业的承租人、借用人或者其他物业使用人实施违反物业服务合同，以及法律、法规或者管理规约的行为引起的物业服务纠纷，人民法院可以参照关于业主的规定处理。",
+      "order": 5
+    },
+    {
+      "id": "sfjs-660c68b2e6-0005",
+      "articleNumber": 5,
+      "displayNumber": "第五条",
+      "path": [],
+      "text": "本解释自2009年10月1日起施行。\n本解释施行前已经终审，本解释施行后当事人申请再审或者按照审判监督程序决定再审的案件，不适用本解释。",
+      "order": 6
+    }
+  ]
+}

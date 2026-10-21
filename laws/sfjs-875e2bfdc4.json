@@ -1,0 +1,28 @@
+{
+  "id": "sfjs-875e2bfdc4",
+  "officialId": "",
+  "title": "最高人民法院关于违法的建筑物、构筑物、设施等强制拆除问题的批复",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院",
+  "promulgationDate": "2013-03-27",
+  "effectiveDate": "2013-04-03",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-875e2bfdc4/metadata.json",
+    "docxPath": "data/laws/sfjs-875e2bfdc4/official.docx"
+  },
+  "paragraphCount": 11,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-875e2bfdc4-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "法释〔2013〕5号\n（2013年3月25日最高人民法院审判委员会第1572次会议通过 2013年3月27日最高人民法院公告公布 自2013年4月3日起施行）\n北京市高级人民法院：\n根据行政强制法和城乡规划法有关规定精神，对涉及违反城乡规划法的违法建筑物、构筑物、设施等的强制拆除，法律已经授予行政机关强制执行权，人民法院不受理行政机关提出的非诉行政执行申请。",
+      "order": 1
+    }
+  ]
+}

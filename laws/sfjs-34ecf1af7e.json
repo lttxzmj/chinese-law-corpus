@@ -1,0 +1,28 @@
+{
+  "id": "sfjs-34ecf1af7e",
+  "officialId": "",
+  "title": "最高人民法院关于对人民法院终结执行行为提出执行异议期限问题的批复",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院",
+  "promulgationDate": "2016-02-14",
+  "effectiveDate": "2016-02-15",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-34ecf1af7e/metadata.json",
+    "docxPath": "data/laws/sfjs-34ecf1af7e/official.docx"
+  },
+  "paragraphCount": 12,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-34ecf1af7e-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "法释〔2016〕3号\n湖北省高级人民法院：\n你院《关于咸宁市广泰置业有限公司与咸宁市枫丹置业有限公司房地产开发经营合同纠纷案的请示》（鄂高法〔2015〕295号）收悉。经研究，批复如下：\n当事人、利害关系人依照民事诉讼法第二百二十五条规定对终结执行行为提出异议的，应当自收到终结执行法律文书之日起六十日内提出；未收到法律文书的，应当自知道或者应当知道人民法院终结执行之日起六十日内提出。批复发布前终结执行的，自批复发布之日起六十日内提出。超出该期限提出执行异议的，人民法院不予受理。\n此复。",
+      "order": 1
+    }
+  ]
+}

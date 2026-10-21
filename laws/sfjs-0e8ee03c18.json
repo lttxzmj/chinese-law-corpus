@@ -1,0 +1,28 @@
+{
+  "id": "sfjs-0e8ee03c18",
+  "officialId": "",
+  "title": "最高人民法院关于审理涉专利权评价报告案件适用法律问题的批复",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院",
+  "promulgationDate": "2025-07-30",
+  "effectiveDate": "2025-08-01",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-0e8ee03c18/metadata.json",
+    "docxPath": "data/laws/sfjs-0e8ee03c18/official.docx"
+  },
+  "paragraphCount": 6,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-0e8ee03c18-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "法释〔2025〕11号\n（2025年7月18日最高人民法院审判委员会第1953次会议通过，自2025年8月1日起施行）\n贵州省高级人民法院：\n你院《关于专利权评价报告法律适用问题的请示》（黔高法请〔2024〕1号）收悉。经研究，批复如下：\n根据《中华人民共和国专利法》第六十六条第二款的规定，国务院专利行政部门作出的专利权评价报告是人民法院审理侵害专利权纠纷案件的证据。专利权评价报告认为涉案专利不符合《中华人民共和国专利法》规定的授予专利权条件的，人民法院不能仅据此径行裁定驳回起诉，应当结合具体案情进行释明，并依法作出裁判。",
+      "order": 1
+    }
+  ]
+}

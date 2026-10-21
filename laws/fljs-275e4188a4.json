@@ -1,0 +1,28 @@
+{
+  "id": "fljs-275e4188a4",
+  "officialId": "",
+  "title": "全国人民代表大会常务委员会关于《中华人民共和国刑法》第一百五十八条、第一百五十九条的解释",
+  "category": "法律解释",
+  "issuingAuthority": "全国人民代表大会常务委员会",
+  "promulgationDate": "2014-04-24",
+  "effectiveDate": "2014-04-24",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/fljs-275e4188a4/metadata.json",
+    "docxPath": "data/laws/fljs-275e4188a4/official.docx"
+  },
+  "paragraphCount": 7,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "fljs-275e4188a4-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "（2014年4月24日第十二届全国人民代表大会常务委员会第八次会议通过）\n全国人民代表大会常务委员会讨论了公司法修改后刑法第一百五十八条、第一百五十九条对实行注册资本实缴登记制、认缴登记制的公司的适用范围问题，解释如下：\n刑法第一百五十八条、第一百五十九条的规定，只适用于依法实行注册资本实缴登记制的公司。\n现予公告。",
+      "order": 1
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "id": "sfjs-d766ff3235",
+  "officialId": "",
+  "title": "最高人民法院、最高人民检察院关于执行《中华人民共和国刑法》 确定罪名的补充规定（七）",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院、最高人民检察院",
+  "promulgationDate": "2021-02-26",
+  "effectiveDate": "2021-03-01",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-d766ff3235/metadata.json",
+    "docxPath": "data/laws/sfjs-d766ff3235/official.docx"
+  },
+  "paragraphCount": 95,
+  "sectionCount": 0,
+  "articleCount": 25,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-d766ff3235-0133-2",
+      "articleNumber": 133002,
+      "displayNumber": "第一百三十三条之二",
+      "path": [],
+      "text": "（《刑法修正案（十一）》第二条）\n妨害安全驾驶罪",
+      "order": 1
+    },
+    {
+      "id": "sfjs-d766ff3235-0134",
+      "articleNumber": 134,
+      "displayNumber": "第一百三十四条",
+      "path": [],
+      "text": "第二款\n（《刑法修正案（十一）》第三条）\n强令、组织他人违章冒险作业罪\n（取消强令违章冒险作业罪罪名）",
+      "order": 4
+    },
+    {
+      "id": "sfjs-d766ff3235-0134-1",
+      "articleNumber": 134001,
+      "displayNumber": "第一百三十四条之一",
+      "path": [],
+      "text": "（《刑法修正案（十一）》第四条）\n危险作业罪",
+      "order": 8
+    },
+    {
+      "id": "sfjs-d766ff3235-0141",
+      "articleNumber": 141,
+      "displayNumber": "第一百四十一条",
+      "path": [],
+      "text": "（《刑法修正案（十一）》第五条）\n生产、销售、提供假药罪\n（取消生产、销售假药罪罪名）",
+      "order": 11
+    },
+    {
+      "id": "sfjs-d766ff3235-0142",
+      "articleNumber": 142,
+      "displayNumber": "第一百四十二条",
+      "path": [],
+      "text": "（《刑法修正案（十一）》第六条）\n生产、销售、提供劣药罪\n（取消生产、销售劣药罪罪名）",
+      "order": 15
+    },
+    {
+      "id": "sfjs-d766ff3235-0142-1",
+      "articleNumber": 142001,
+      "displayNumber": "第一百四十二条之一",
+      "path": [],
+      "text": "（《刑法修正案（十一）》第七条）\n妨害药品管理罪",
+      "order": 19
+    },
+    {
+      "id": "sfjs-d766ff3235-0160",
+      "articleNumber": 160,
+      "displayNumber": "第一百六十条",
+      "path": [],
+      "text": "（《刑法修正案（十一）》第八条）\n欺诈发行证券罪\n（取消欺诈发行股票、债券罪罪名）",
+      "order": 22
+    },
+    {
+      "id": "sfjs-d766ff3235-0219-1",
+      "articleNumber": 219001,
+      "displayNumber": "第二百一十九条之一",
+      "path": [],
+      "text": "（《刑法修正案（十一）》第二十三条）\n为境外窃取、刺探、收买、非法提供\n商业秘密罪",
+      "order": 26
+    },
+    {
+      "id": "sfjs-d766ff3235-0236-1",
+      "articleNumber": 236001,
+      "displayNumber": "第二百三十六条之一",
+      "path": [],
+      "text": "（《刑法修正案（十一）》第二十七条）\n负有照护职责人员性侵罪",
+      "order": 30
+    },
+    {
+      "id": "sfjs-d766ff3235-0277",
+      "articleNumber": 277,
+      "displayNumber": "第二百七十七条",
+      "path": [],
+      "text": "第五款\n（《刑法修正案（十一）》第三十一条）\n袭警罪",
+      "order": 33
+    },
+    {
+      "id": "sfjs-d766ff3235-0280-2",
+      "articleNumber": 280002,
+      "displayNumber": "第二百八十条之二",
+      "path": [],
+      "text": "（《刑法修正案（十一）》第三十二条）\n冒名顶替罪",
+      "order": 36
+    },
+    {
+      "id": "sfjs-d766ff3235-0291-2",
+      "articleNumber": 291002,
+      "displayNumber": "第二百九十一条之二",
+      "path": [],
+      "text": "（《刑法修正案（十一）》第三十三条）\n高空抛物罪",
+      "order": 39
+    },
+    {
+      "id": "sfjs-d766ff3235-0293-1",
+      "articleNumber": 293001,
+      "displayNumber": "第二百九十三条之一",
+      "path": [],
+      "text": "（《刑法修正案（十一）》第三十四条）\n催收非法债务罪",
+      "order": 42
+    },
+    {
+      "id": "sfjs-d766ff3235-0299",
+      "articleNumber": 299,
+      "displayNumber": "第二百九十九条",
+      "path": [],
+      "text": "（《刑法修正案（十》）\n侮辱国旗、国徽、国歌罪\n（取消侮辱国旗、国徽罪罪名）",
+      "order": 45
+    },
+    {
+      "id": "sfjs-d766ff3235-0299-1",
+      "articleNumber": 299001,
+      "displayNumber": "第二百九十九条之一",
+      "path": [],
+      "text": "（《刑法修正案（十一）》第三十五条）\n侵害英雄烈士名誉、荣誉罪",
+      "order": 49
+    },
+    {
+      "id": "sfjs-d766ff3235-0303",
+      "articleNumber": 303,
+      "displayNumber": "第三百零三条",
+      "path": [],
+      "text": "第三款\n（《刑法修正案（十一）》第三十六条）\n组织参与国（境）外赌博罪",
+      "order": 52
+    },
+    {
+      "id": "sfjs-d766ff3235-0334-1",
+      "articleNumber": 334001,
+      "displayNumber": "第三百三十四条之一",
+      "path": [],
+      "text": "（《刑法修正案（十一）》第三十八条）\n非法采集人类遗传资源、走私\n人类遗传资源材料罪",
+      "order": 55
+    },
+    {
+      "id": "sfjs-d766ff3235-0336-1",
+      "articleNumber": 336001,
+      "displayNumber": "第三百三十六条之一",
+      "path": [],
+      "text": "（《刑法修正案（十一）》第三十九条）\n非法植入基因编辑、克隆胚胎罪",
+      "order": 59
+    },
+    {
+      "id": "sfjs-d766ff3235-0341",
+      "articleNumber": 341,
+      "displayNumber": "第三百四十一条",
+      "path": [],
+      "text": "第一款\n危害珍贵、濒危野生动物罪\n（取消非法猎捕、杀害珍贵、濒危野生动物罪和非法收购、运输、出售珍贵、濒危野生动物、珍贵、濒危野生动物制品罪罪名）",
+      "order": 62
+    },
+    {
+      "id": "sfjs-d766ff3235-0341-r2",
+      "articleNumber": 20000341,
+      "displayNumber": "第三百四十一条",
+      "path": [],
+      "text": "第三款\n（《刑法修正案（十一）》第四十一条）\n非法猎捕、收购、运输、出售\n陆生野生动物罪",
+      "order": 65
+    },
+    {
+      "id": "sfjs-d766ff3235-0342-1",
+      "articleNumber": 342001,
+      "displayNumber": "第三百四十二条之一",
+      "path": [],
+      "text": "（《刑法修正案（十一）》第四十二条）\n破坏自然保护地罪",
+      "order": 69
+    },
+    {
+      "id": "sfjs-d766ff3235-0344",
+      "articleNumber": 344,
+      "displayNumber": "第三百四十四条",
+      "path": [],
+      "text": "危害国家重点保护植物罪\n（取消非法采伐、毁坏国家重点保护植物罪和非法收购、运输、加工、出售国家重点保护植物、国家重点保护植物制品罪罪名）",
+      "order": 72
+    },
+    {
+      "id": "sfjs-d766ff3235-0344-1",
+      "articleNumber": 344001,
+      "displayNumber": "第三百四十四条之一",
+      "path": [],
+      "text": "（《刑法修正案（十一）》第四十三条）\n非法引进、释放、丢弃外来入侵物种罪",
+      "order": 75
+    },
+    {
+      "id": "sfjs-d766ff3235-0355-1",
+      "articleNumber": 355001,
+      "displayNumber": "第三百五十五条之一",
+      "path": [],
+      "text": "（《刑法修正案（十一）》第四十四条）\n妨害兴奋剂管理罪",
+      "order": 78
+    },
+    {
+      "id": "sfjs-d766ff3235-0408-1",
+      "articleNumber": 408001,
+      "displayNumber": "第四百零八条之一",
+      "path": [],
+      "text": "（《刑法修正案（十一）》第四十五条）\n食品、药品监管渎职罪\n（取消食品监管渎职罪罪名）\n本规定自2021年3月1日起施行。",
+      "order": 81
+    }
+  ]
+}

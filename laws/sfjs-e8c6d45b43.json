@@ -1,0 +1,28 @@
+{
+  "id": "sfjs-e8c6d45b43",
+  "officialId": "",
+  "title": "最高人民法院关于人民检察院提出抗诉按照审判监督程序再审维持原裁判的民事、经济、行政案件，人民检察院再次提出抗诉应否受理的问题批复",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院",
+  "promulgationDate": "1995-10-06",
+  "effectiveDate": "1995-10-06",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-e8c6d45b43/metadata.json",
+    "docxPath": "data/laws/sfjs-e8c6d45b43/official.docx"
+  },
+  "paragraphCount": 8,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-e8c6d45b43-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "最高人民法院\n关于人民检察院提出抗诉按照审判监督程序\n再审维持原裁判的民事、经济、行政案件，\n人民检察院再次提出抗诉应否\n受理问题的批复\n1995年10月6日 法复〔1995〕7号\n四川省高级人民法院：\n你院关于人民检察院提出抗诉，人民法院按照审判监督程序再审维持原裁判的民事、经济、行政案件，人民检察院再次提出抗诉，人民法院应否受理的请示收悉。经研究，同意你院意见，即上级人民检察院对下级人民法院已经发生法律效力的民事、经济、行政案件提出抗诉的，无论是同级人民法院再审还是指令下级人民法院再审，凡作出维持原裁判的判决、裁定后，原提出抗诉的人民检察院再次提出抗诉的，人民法院不予受理；原提出抗诉的人民检察院的上级人民检察院提出抗诉的，人民法院应当受理。",
+      "order": 1
+    }
+  ]
+}

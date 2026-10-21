@@ -1,0 +1,28 @@
+{
+  "id": "fljs-a378ed4a76",
+  "officialId": "",
+  "title": "全国人民代表大会常务委员会关于《中华人民共和国刑法》有关出口退税、抵扣税款的其他发票规定的解释",
+  "category": "法律解释",
+  "issuingAuthority": "全国人民代表大会常务委员会",
+  "promulgationDate": "2005-12-29",
+  "effectiveDate": "2005-12-29",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/fljs-a378ed4a76/metadata.json",
+    "docxPath": "data/laws/fljs-a378ed4a76/official.docx"
+  },
+  "paragraphCount": 7,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "fljs-a378ed4a76-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "（2005年12月29日第十届全国人民代表大会常务委员会第十九次会议通过）\n全国人民代表大会常务委员会根据司法实践中遇到的情况，讨论了刑法规定的“出口退税、抵扣税款的其他发票”的含义问题，解释如下：\n刑法规定的“出口退税、抵扣税款的其他发票”，是指除增值税专用发票以外的，具有出口退税、抵扣税款功能的收付款凭证或者完税凭证。\n现予公告。",
+      "order": 1
+    }
+  ]
+}

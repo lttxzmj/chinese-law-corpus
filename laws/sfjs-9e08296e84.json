@@ -1,0 +1,28 @@
+{
+  "id": "sfjs-9e08296e84",
+  "officialId": "",
+  "title": "最高人民法院关于挪用公款犯罪如何计算追诉期限问题的批复",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院",
+  "promulgationDate": "2003-09-22",
+  "effectiveDate": "2003-10-10",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-9e08296e84/metadata.json",
+    "docxPath": "data/laws/sfjs-9e08296e84/official.docx"
+  },
+  "paragraphCount": 9,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-9e08296e84-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "法释〔2003〕16号\n（2003年9月18日最高人民法院审判委员会第1290次会议通过 2003年9月22日最高人民法院公告公布 自2003年10月10日起施行）\n天津市高级人民法院：\n你院津高法〔2002〕4号《关于挪用公款犯罪如何计算追诉期限问题的请示》收悉。经研究，答复如下：\n根据刑法第八十九条、第三百八十四条的规定，挪用公款归个人使用，进行非法活动的，或者挪用公款数额较大、进行营利活动的，犯罪的追诉期限从挪用行为实施完毕之日起计算；挪用公款数额较大、超过三个月未还的，犯罪的追诉期限从挪用公款罪成立之日起计算。挪用公款行为有连续状态的，犯罪的追诉期限应当从最后一次挪用行为实施完毕之日或者犯罪成立之日起计算。\n此复。",
+      "order": 1
+    }
+  ]
+}

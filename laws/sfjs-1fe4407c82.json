@@ -1,0 +1,28 @@
+{
+  "id": "sfjs-1fe4407c82",
+  "officialId": "",
+  "title": "最高人民法院关于因申请诉中财产保全损害责任纠纷管辖问题的批复",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院",
+  "promulgationDate": "2017-08-01",
+  "effectiveDate": "2017-08-10",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-1fe4407c82/metadata.json",
+    "docxPath": "data/laws/sfjs-1fe4407c82/official.docx"
+  },
+  "paragraphCount": 12,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-1fe4407c82-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "法释〔2017〕14号\n浙江省高级人民法院：\n你院《关于因申请诉中财产保全损害责任纠纷管辖问题的请示》（（2015）浙立他字第91号）收悉。经研究，批复如下：\n为便于当事人诉讼，诉讼中财产保全的被申请人、利害关系人依照《中华人民共和国民事诉讼法》第一百零五条规定提起的因申请诉中财产保全损害责任纠纷之诉，由作出诉中财产保全裁定的人民法院管辖。\n此复。",
+      "order": 1
+    }
+  ]
+}

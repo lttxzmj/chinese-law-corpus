@@ -1,0 +1,28 @@
+{
+  "id": "fljs-0dde471e7c",
+  "officialId": "",
+  "title": "全国人民代表大会常务委员会关于《中华人民共和国刑法》有关信用卡规定的解释",
+  "category": "法律解释",
+  "issuingAuthority": "全国人民代表大会常务委员会",
+  "promulgationDate": "2004-12-29",
+  "effectiveDate": "2004-12-29",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/fljs-0dde471e7c/metadata.json",
+    "docxPath": "data/laws/fljs-0dde471e7c/official.docx"
+  },
+  "paragraphCount": 6,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "fljs-0dde471e7c-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "（2004年12月29日第十届全国人民代表大会常务委员会第十三次会议通过）\n全国人民代表大会常务委员会根据司法实践中遇到的情况，讨论了刑法规定的“信用卡”的含义问题，解释如下：刑法规定的“信用卡”，是指由商业银行或者其他金融机构发行的具有消费支付、信用贷款、转账结算、存取现金等全部功能或者部分功能的电子支付卡。\n现予公告。",
+      "order": 1
+    }
+  ]
+}

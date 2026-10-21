@@ -1,0 +1,44 @@
+{
+  "id": "sfjs-1e6eb61efb",
+  "officialId": "",
+  "title": "最高人民法院关于审理涉台民商事案件法律适用问题的规定",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院",
+  "promulgationDate": "2020-12-29",
+  "effectiveDate": "2021-01-01",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-1e6eb61efb/metadata.json",
+    "docxPath": "data/laws/sfjs-1e6eb61efb/official.docx"
+  },
+  "paragraphCount": 11,
+  "sectionCount": 0,
+  "articleCount": 3,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-1e6eb61efb-0001",
+      "articleNumber": 1,
+      "displayNumber": "第一条",
+      "path": [],
+      "text": "人民法院审理涉台民商事案件，应当适用法律和司法解释的有关规定。\n根据法律和司法解释中选择适用法律的规则，确定适用台湾地区民事法律的，人民法院予以适用。",
+      "order": 1
+    },
+    {
+      "id": "sfjs-1e6eb61efb-0002",
+      "articleNumber": 2,
+      "displayNumber": "第二条",
+      "path": [],
+      "text": "台湾地区当事人在人民法院参与民事诉讼，与大陆当事人有同等的诉讼权利和义务，其合法权益受法律平等保护。",
+      "order": 3
+    },
+    {
+      "id": "sfjs-1e6eb61efb-0003",
+      "articleNumber": 3,
+      "displayNumber": "第三条",
+      "path": [],
+      "text": "根据本规定确定适用有关法律违反国家法律的基本原则或者社会公共利益的，不予适用。",
+      "order": 4
+    }
+  ]
+}

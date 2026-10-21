@@ -1,0 +1,28 @@
+{
+  "id": "sfjs-887eec0842",
+  "officialId": "",
+  "title": "最高人民法院关于被告人对行为性质的辩解是否影响自首成立问题的批复",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院",
+  "promulgationDate": "2004-03-26",
+  "effectiveDate": "2004-04-01",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-887eec0842/metadata.json",
+    "docxPath": "data/laws/sfjs-887eec0842/official.docx"
+  },
+  "paragraphCount": 13,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-887eec0842-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "法释〔2004〕2号\n（2004年3月23日最高人民法院审判委员会第1312次会议通过 2004年3月26日最高人民法院公告公布 自2004年4月1日起施行）\n广西壮族自治区高级人民法院：\n你院2003年6月10日《关于被告人对事实性质的辩解是否影响投案自首的成立的请示》收悉。经研究，答复如下：\n根据刑法第六十七条第一款和最高人民法院《关于处理自首和立功具体应用法律若干问题的解释》第一条的规定，犯罪以后自动投案，如实供述自己的罪行的，是自首。被告人对行为性质的辩解不影响自首的成立。\n此复。",
+      "order": 1
+    }
+  ]
+}

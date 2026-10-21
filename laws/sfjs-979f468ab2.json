@@ -1,0 +1,28 @@
+{
+  "id": "sfjs-979f468ab2",
+  "officialId": "",
+  "title": "最高人民法院关于如何确定沿海、内河货物运输赔偿请求权时效期间问题的批复",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院",
+  "promulgationDate": "2001-05-24",
+  "effectiveDate": "2001-05-31",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-979f468ab2/metadata.json",
+    "docxPath": "data/laws/sfjs-979f468ab2/official.docx"
+  },
+  "paragraphCount": 9,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-979f468ab2-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "法释〔2001〕18号\n（2001年5月22日最高人民法院审判委员会第1176次会议通过 2001年5月24日最高人民法院公告公布 自2001年5月31日起施行）\n高级人民法院：\n你院浙高法〔2000〕267号《关于沿海、内河货物运输赔偿请求权诉讼时效期间如何计算的请示》收悉。经研究，答复如下：\n根据《中华人民共和国海商法》第二百五十七条第一款规定的精神，结合审判实践，托运人、收货人就沿海、内河货物运输合同向承运人要求赔偿的请求权，或者承运人就沿海、内河货物运输向托运人、收货人要求赔偿的请求权，时效期间为1年，自承运人交付或者应当交付货物之日起计算。\n此复。",
+      "order": 1
+    }
+  ]
+}

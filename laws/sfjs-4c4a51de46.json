@@ -1,0 +1,28 @@
+{
+  "id": "sfjs-4c4a51de46",
+  "officialId": "",
+  "title": "最高人民法院关于判决生效后当事人将判决确认的债权转让债权受让人对该判决不服提出再审申请人民法院是否受理问题的批复",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院",
+  "promulgationDate": "2011-01-07",
+  "effectiveDate": "2011-02-01",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-4c4a51de46/metadata.json",
+    "docxPath": "data/laws/sfjs-4c4a51de46/official.docx"
+  },
+  "paragraphCount": 13,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-4c4a51de46-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "法释〔2011〕2号\n（2010年12月16日最高人民法院审判委员会第1506次会议通过 2011年1月7日最高人民法院公告公布 自2011年2月1日起施行）\n海南省高级人民法院：\n你院《关于海南长江旅业有限公司、海南凯立中部开发建设股份有限公司与交通银行海南分行借款合同纠纷一案的请示报告》（〔2009〕琼民再终字第16号）收悉。经研究，答复如下：\n判决生效后当事人将判决确认的债权转让，债权受让人对该判决不服提出再审申请的，因其不具有申请再审人主体资格，人民法院应依法不予受理。",
+      "order": 1
+    }
+  ]
+}

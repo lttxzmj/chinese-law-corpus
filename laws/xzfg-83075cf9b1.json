@@ -1,0 +1,84 @@
+{
+  "id": "xzfg-83075cf9b1",
+  "officialId": "",
+  "title": "海关工作人员使用武器和警械的规定",
+  "category": "行政法规",
+  "issuingAuthority": "国务院",
+  "promulgationDate": "2011-01-08",
+  "effectiveDate": "",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/xzfg-83075cf9b1/metadata.json",
+    "docxPath": "data/laws/xzfg-83075cf9b1/official.docx"
+  },
+  "paragraphCount": 19,
+  "sectionCount": 0,
+  "articleCount": 8,
+  "sections": [],
+  "articles": [
+    {
+      "id": "xzfg-83075cf9b1-0001",
+      "articleNumber": 1,
+      "displayNumber": "第一条",
+      "path": [],
+      "text": "为保证海关工作人员依法使用武器和警械，履行职责，根据《中华人民共和国海关法》第六条的规定，制定本规定。",
+      "order": 1
+    },
+    {
+      "id": "xzfg-83075cf9b1-0002",
+      "articleNumber": 2,
+      "displayNumber": "第二条",
+      "path": [],
+      "text": "海关工作人员使用的武器和警械，经当地公安机关同意后由海关总署统一配发。海关工作人员执行缉私任务时，应当依照本规定使用武器和警械。\n海关工作人员使用的武器和警械包括：轻型枪支、电警棍、手铐及其他经批准列装的武器和警械。",
+      "order": 2
+    },
+    {
+      "id": "xzfg-83075cf9b1-0003",
+      "articleNumber": 3,
+      "displayNumber": "第三条",
+      "path": [],
+      "text": "配发给海关的武器和警械一律公用，不配发个人专用的武器和警械。\n海关工作人员持枪执行缉私任务时，应当随身携带当地公安机关核发的持枪证或者持枪通行证。",
+      "order": 4
+    },
+    {
+      "id": "xzfg-83075cf9b1-0004",
+      "articleNumber": 4,
+      "displayNumber": "第四条",
+      "path": [],
+      "text": "海关工作人员执行缉私任务，遇有下列情形之一的，可以开枪射击：\n(一)追缉逃跑的走私团伙或者遭遇武装掩护走私，非开枪不足以制服时；\n(二)走私分子或者走私嫌疑人以暴力抗拒检查，抢夺武器或者警械，威胁海关工作人员生命安全，非开枪不能自卫时；\n(三)走私分子或者走私嫌疑人以暴力劫夺查扣的走私货物、物品和其他证据，非开枪不能制止时。",
+      "order": 6
+    },
+    {
+      "id": "xzfg-83075cf9b1-0005",
+      "articleNumber": 5,
+      "displayNumber": "第五条",
+      "path": [],
+      "text": "海关工作人员执行缉私任务，遇有下列情形之一的，可以使用警械：\n(一)走私分子或者走私嫌疑人以暴力抗拒检查或者逃跑时；\n(二)走私分子或者走私嫌疑人以暴力抗拒查扣走私货物、物品和其他证据时；\n(三)执行缉私任务受到袭击需要自卫时；\n(四)遇有其他需要使用警械的情形时。",
+      "order": 10
+    },
+    {
+      "id": "xzfg-83075cf9b1-0006",
+      "articleNumber": 6,
+      "displayNumber": "第六条",
+      "path": [],
+      "text": "海关工作人员使用武器或者警械时，应当以制服对方为限度。海关工作人员依照本规定第四条的规定开枪射击时，除特别紧迫的情况外，应当先口头警告或者鸣枪警告，对方一有畏服表现，应当立即停止射击。开枪射击造成人员伤亡的，应当保护现场，并立即向上级海关和当地公安机关报告。",
+      "order": 15
+    },
+    {
+      "id": "xzfg-83075cf9b1-0007",
+      "articleNumber": 7,
+      "displayNumber": "第七条",
+      "path": [],
+      "text": "海关工作人员违反本规定，滥用武器或者警械的，应当根据情节，依法追究有关人员的责任。",
+      "order": 16
+    },
+    {
+      "id": "xzfg-83075cf9b1-0008",
+      "articleNumber": 8,
+      "displayNumber": "第八条",
+      "path": [],
+      "text": "本规定自发布之日起施行。",
+      "order": 17
+    }
+  ]
+}

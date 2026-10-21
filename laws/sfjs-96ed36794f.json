@@ -1,0 +1,276 @@
+{
+  "id": "sfjs-96ed36794f",
+  "officialId": "",
+  "title": "最高人民法院、最高人民检察院关于执行《中华人民共和国刑法》确定罪名的补充规定（六）",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院、最高人民检察院",
+  "promulgationDate": "2015-10-30",
+  "effectiveDate": "2015-11-01",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-96ed36794f/metadata.json",
+    "docxPath": "data/laws/sfjs-96ed36794f/official.docx"
+  },
+  "paragraphCount": 105,
+  "sectionCount": 0,
+  "articleCount": 32,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-96ed36794f-0120-1",
+      "articleNumber": 120001,
+      "displayNumber": "第一百二十条之一",
+      "path": [],
+      "text": "（《刑法修正案（九）》第六条）\n帮助恐怖活动罪\n（取消资助恐怖活动罪罪名）",
+      "order": 1
+    },
+    {
+      "id": "sfjs-96ed36794f-0120-2",
+      "articleNumber": 120002,
+      "displayNumber": "第一百二十条之二",
+      "path": [],
+      "text": "（《刑法修正案（九）》第七条）\n准备实施恐怖活动罪",
+      "order": 5
+    },
+    {
+      "id": "sfjs-96ed36794f-0120-3",
+      "articleNumber": 120003,
+      "displayNumber": "第一百二十条之三",
+      "path": [],
+      "text": "（《刑法修正案（九）》第七条）\n宣扬恐怖主义、极端主义、煽动实施恐怖活动罪",
+      "order": 7
+    },
+    {
+      "id": "sfjs-96ed36794f-0120-4",
+      "articleNumber": 120004,
+      "displayNumber": "第一百二十条之四",
+      "path": [],
+      "text": "（《刑法修正案（九）》第七条）\n利用极端主义破坏法律实施罪",
+      "order": 9
+    },
+    {
+      "id": "sfjs-96ed36794f-0120-5",
+      "articleNumber": 120005,
+      "displayNumber": "第一百二十条之五",
+      "path": [],
+      "text": "（《刑法修正案（九）》第七条）\n强制穿戴宣扬恐怖主义、极端主义服饰、标志罪",
+      "order": 11
+    },
+    {
+      "id": "sfjs-96ed36794f-0120-6",
+      "articleNumber": 120006,
+      "displayNumber": "第一百二十条之六",
+      "path": [],
+      "text": "（《刑法修正案（九）》第七条）\n非法持有宣扬恐怖主义、极端主义物品罪",
+      "order": 13
+    },
+    {
+      "id": "sfjs-96ed36794f-0237",
+      "articleNumber": 237,
+      "displayNumber": "第二百三十七条",
+      "path": [],
+      "text": "第一款、第二款（《刑法修正案（九）》第十三条第一款、第二款）\n强制猥亵、侮辱罪（取消强制猥亵、侮辱妇女罪罪名）",
+      "order": 15
+    },
+    {
+      "id": "sfjs-96ed36794f-0253-1",
+      "articleNumber": 253001,
+      "displayNumber": "第二百五十三条之一",
+      "path": [],
+      "text": "（《刑法修正案（九）》第十七条）\n侵犯公民个人信息罪\n（取消出售、非法提供公民个人信息罪和非法获取公民个人信息罪罪名）",
+      "order": 17
+    },
+    {
+      "id": "sfjs-96ed36794f-0260-1",
+      "articleNumber": 260001,
+      "displayNumber": "第二百六十条之一",
+      "path": [],
+      "text": "（《刑法修正案（九）》第十九条）\n虐待被监护、看护人罪",
+      "order": 20
+    },
+    {
+      "id": "sfjs-96ed36794f-0280",
+      "articleNumber": 280,
+      "displayNumber": "第二百八十条",
+      "path": [],
+      "text": "第三款（《刑法修正案（九）》第二十二条第三款）\n伪造、变造、买卖身份证件罪\n（取消伪造、变造居民身份证罪罪名）",
+      "order": 22
+    },
+    {
+      "id": "sfjs-96ed36794f-0280-1",
+      "articleNumber": 280001,
+      "displayNumber": "第二百八十条之一",
+      "path": [],
+      "text": "（《刑法修正案（九）》第二十三条）\n使用虚假身份证件、盗用身份证件罪",
+      "order": 25
+    },
+    {
+      "id": "sfjs-96ed36794f-0283",
+      "articleNumber": 283,
+      "displayNumber": "第二百八十三条",
+      "path": [],
+      "text": "（《刑法修正案（九）》第二十四条）\n非法生产、销售专用间谍器材、窃听、窃照专用器材罪\n（取消非法生产、销售间谍专用器材罪罪名）",
+      "order": 28
+    },
+    {
+      "id": "sfjs-96ed36794f-0284-1",
+      "articleNumber": 284001,
+      "displayNumber": "第二百八十四条之一",
+      "path": [],
+      "text": "第一款、第二款\n（《刑法修正案（九）》第二十五条第一款、第二款）\n组织考试作弊罪",
+      "order": 32
+    },
+    {
+      "id": "sfjs-96ed36794f-0284-1-r2",
+      "articleNumber": 20284001,
+      "displayNumber": "第二百八十四条之一",
+      "path": [],
+      "text": "第三款\n（《刑法修正案（九）》第二十五条第三款）\n非法出售、提供试题、答案罪",
+      "order": 35
+    },
+    {
+      "id": "sfjs-96ed36794f-0284-1-r3",
+      "articleNumber": 30284001,
+      "displayNumber": "第二百八十四条之一",
+      "path": [],
+      "text": "第四款\n（《刑法修正案（九）》第二十五条第四款）\n代替考试罪",
+      "order": 38
+    },
+    {
+      "id": "sfjs-96ed36794f-0286-1",
+      "articleNumber": 286001,
+      "displayNumber": "第二百八十六条之一",
+      "path": [],
+      "text": "（《刑法修正案（九）》第二十八条）\n拒不履行信息网络安全管理义务罪",
+      "order": 41
+    },
+    {
+      "id": "sfjs-96ed36794f-0287-1",
+      "articleNumber": 287001,
+      "displayNumber": "第二百八十七条之一",
+      "path": [],
+      "text": "（《刑法修正案（九）》第二十九条）\n非法利用信息网络罪",
+      "order": 44
+    },
+    {
+      "id": "sfjs-96ed36794f-0287-2",
+      "articleNumber": 287002,
+      "displayNumber": "第二百八十七条之二",
+      "path": [],
+      "text": "（《刑法修正案（九）》第二十九条）\n帮助信息网络犯罪活动罪",
+      "order": 46
+    },
+    {
+      "id": "sfjs-96ed36794f-0290",
+      "articleNumber": 290,
+      "displayNumber": "第二百九十条",
+      "path": [],
+      "text": "第三款（《刑法修正案（九）》第三十一条第二款）\n扰乱国家机关工作秩序罪",
+      "order": 48
+    },
+    {
+      "id": "sfjs-96ed36794f-0290-r2",
+      "articleNumber": 20000290,
+      "displayNumber": "第二百九十条",
+      "path": [],
+      "text": "第四款（《刑法修正案（九）》第三十一条第三款）\n组织、资助非法聚集罪",
+      "order": 50
+    },
+    {
+      "id": "sfjs-96ed36794f-0291-1",
+      "articleNumber": 291001,
+      "displayNumber": "第二百九十一条之一",
+      "path": [],
+      "text": "第二款（《刑法修正案（九）》第三十二条）\n编造、故意传播虚假信息罪",
+      "order": 52
+    },
+    {
+      "id": "sfjs-96ed36794f-0300",
+      "articleNumber": 300,
+      "displayNumber": "第三百条",
+      "path": [],
+      "text": "第二款\n（《刑法修正案（九）》第三十三条第二款）\n组织、利用会道门、邪教组织、利用迷信致人重伤、死亡罪\n（取消组织、利用会道门、邪教组织、利用迷信致人死亡罪罪名）",
+      "order": 54
+    },
+    {
+      "id": "sfjs-96ed36794f-0302",
+      "articleNumber": 302,
+      "displayNumber": "第三百零二条",
+      "path": [],
+      "text": "（《刑法修正案（九）》第三十四条）\n盗窃、侮辱、故意毁坏尸体、尸骨、骨灰罪\n（取消盗窃、侮辱尸体罪罪名）",
+      "order": 58
+    },
+    {
+      "id": "sfjs-96ed36794f-0307-1",
+      "articleNumber": 307001,
+      "displayNumber": "第三百零七条之一",
+      "path": [],
+      "text": "（《刑法修正案（九）》第三十五条）\n虚假诉讼罪",
+      "order": 62
+    },
+    {
+      "id": "sfjs-96ed36794f-0308-1",
+      "articleNumber": 308001,
+      "displayNumber": "第三百零八条之一",
+      "path": [],
+      "text": "第一款\n（《刑法修正案（九）》第三十六条第一款）\n泄露不应公开的案件信息罪",
+      "order": 65
+    },
+    {
+      "id": "sfjs-96ed36794f-0308-1-r2",
+      "articleNumber": 20308001,
+      "displayNumber": "第三百零八条之一",
+      "path": [],
+      "text": "第三款\n（《刑法修正案（九）》第三十六条第三款）\n披露、报道不应公开的案件信息罪",
+      "order": 68
+    },
+    {
+      "id": "sfjs-96ed36794f-0311",
+      "articleNumber": 311,
+      "displayNumber": "第三百一十一条",
+      "path": [],
+      "text": "（《刑法修正案（九）》第三十八条）\n拒绝提供间谍犯罪、恐怖主义犯罪、极端主义犯罪证据罪\n（取消拒绝提供间谍犯罪证据罪罪名）",
+      "order": 71
+    },
+    {
+      "id": "sfjs-96ed36794f-0350",
+      "articleNumber": 350,
+      "displayNumber": "第三百五十条",
+      "path": [],
+      "text": "（《刑法修正案（九）》第四十一条）\n非法生产、买卖、运输制毒物品、走私制毒物品罪\n（取消走私制毒物品罪和非法买卖制毒物品罪罪名）",
+      "order": 75
+    },
+    {
+      "id": "sfjs-96ed36794f-0360",
+      "articleNumber": 360,
+      "displayNumber": "第三百六十条",
+      "path": [],
+      "text": "第二款\n（《刑法修正案（九）》第四十三条）\n取消嫖宿幼女罪罪名",
+      "order": 79
+    },
+    {
+      "id": "sfjs-96ed36794f-0381",
+      "articleNumber": 381,
+      "displayNumber": "第三百八十一条",
+      "path": [],
+      "text": "（《全国人民代表大会常务委员会关于修改部分法律的决定》第二条）\n战时拒绝军事征收、征用罪\n（取消战时拒绝军事征用罪罪名）",
+      "order": 82
+    },
+    {
+      "id": "sfjs-96ed36794f-0390-1",
+      "articleNumber": 390001,
+      "displayNumber": "第三百九十条之一",
+      "path": [],
+      "text": "（《刑法修正案（九）》第四十六条）\n对有影响力的人行贿罪",
+      "order": 86
+    },
+    {
+      "id": "sfjs-96ed36794f-0410",
+      "articleNumber": 410,
+      "displayNumber": "第四百一十条",
+      "path": [],
+      "text": "（《全国人民代表大会常务委员会关于修改部分法律的决定》第二条）\n非法批准征收、征用、占用土地罪\n（取消非法批准征用、占用土地罪罪名）\n本规定自2015年11月1日起施行。",
+      "order": 89
+    }
+  ]
+}

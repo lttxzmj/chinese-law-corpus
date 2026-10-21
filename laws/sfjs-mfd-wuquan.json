@@ -9,8 +9,7 @@
   "status": "effective",
   "source": {
     "metadataPath": "data/laws/sfjs-mfd-wuquan/metadata.json",
-    "docxPath": "data/laws/sfjs-mfd-wuquan/official.docx",
-    "pdfPath": "data/laws/sfjs-mfd-wuquan/official.pdf"
+    "docxPath": "data/laws/sfjs-mfd-wuquan/official.docx"
   },
   "paragraphCount": 43,
   "sectionCount": 0,

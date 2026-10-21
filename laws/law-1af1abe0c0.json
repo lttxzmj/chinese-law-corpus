@@ -9,8 +9,7 @@
   "status": "effective",
   "source": {
     "metadataPath": "data/laws/law-1af1abe0c0/metadata.json",
-    "docxPath": "data/laws/law-1af1abe0c0/official.docx",
-    "pdfPath": "data/laws/law-1af1abe0c0/official.pdf"
+    "docxPath": "data/laws/law-1af1abe0c0/official.docx"
   },
   "paragraphCount": 197,
   "sectionCount": 28,

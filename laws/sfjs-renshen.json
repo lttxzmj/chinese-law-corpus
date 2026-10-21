@@ -9,8 +9,7 @@
   "status": "effective",
   "source": {
     "metadataPath": "data/laws/sfjs-renshen/metadata.json",
-    "docxPath": "data/laws/sfjs-renshen/official.docx",
-    "pdfPath": "data/laws/sfjs-renshen/official.pdf"
+    "docxPath": "data/laws/sfjs-renshen/official.docx"
   },
   "paragraphCount": 48,
   "sectionCount": 0,

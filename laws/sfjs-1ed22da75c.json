@@ -1,0 +1,28 @@
+{
+  "id": "sfjs-1ed22da75c",
+  "officialId": "",
+  "title": "最高人民法院关于如何处理人民检察院提出的暂缓执行建议问题的批复",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院",
+  "promulgationDate": "2000-07-10",
+  "effectiveDate": "2000-07-15",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-1ed22da75c/metadata.json",
+    "docxPath": "data/laws/sfjs-1ed22da75c/official.docx"
+  },
+  "paragraphCount": 9,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-1ed22da75c-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "法释〔2000〕16号\n（2000年6月30日最高人民法院审判委员会第1121次会议通过 2000年7月10日最高人民法院公告公布 自2000年7月15日起施行）\n广东省高级人民法院：\n你院粤高法民〔1998〕186号《关于检察机关对法院生效民事判决建议暂缓执行是否采纳的请示》收悉。经研究，答复如下：\n根据《中华人民共和国民事诉讼法》的规定，人民检察院对人民法院生效民事判决提出暂缓执行的建议没有法律依据。\n此复。",
+      "order": 1
+    }
+  ]
+}

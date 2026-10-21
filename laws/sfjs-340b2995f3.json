@@ -1,0 +1,92 @@
+{
+  "id": "sfjs-340b2995f3",
+  "officialId": "",
+  "title": "最高人民法院关于人民法院司法拍卖房产竞买人资格若干问题的规定",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院",
+  "promulgationDate": "2021-12-17",
+  "effectiveDate": "2022-01-01",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-340b2995f3/metadata.json",
+    "docxPath": "data/laws/sfjs-340b2995f3/official.docx"
+  },
+  "paragraphCount": 16,
+  "sectionCount": 0,
+  "articleCount": 9,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-340b2995f3-0001",
+      "articleNumber": 1,
+      "displayNumber": "第一条",
+      "path": [],
+      "text": "人民法院组织的司法拍卖房产活动，受房产所在地限购政策约束的竞买人申请参与竞拍的，人民法院不予准许。",
+      "order": 1
+    },
+    {
+      "id": "sfjs-340b2995f3-0002",
+      "articleNumber": 2,
+      "displayNumber": "第二条",
+      "path": [],
+      "text": "人民法院组织司法拍卖房产活动时，发布的拍卖公告载明竞买人必须具备购房资格及其相应法律后果等内容，竞买人申请参与竞拍的，应当承诺具备购房资格及自愿承担法律后果。",
+      "order": 2
+    },
+    {
+      "id": "sfjs-340b2995f3-0003",
+      "articleNumber": 3,
+      "displayNumber": "第三条",
+      "path": [],
+      "text": "人民法院在司法拍卖房产成交后、向买受人出具成交裁定书前，应当审核买受人提交的自其申请参与竞拍到成交裁定书出具时具备购房资格的证明材料；经审核买受人不符合持续具备购房资格条件，买受人请求出具拍卖成交裁定书的，人民法院不予准许。",
+      "order": 3
+    },
+    {
+      "id": "sfjs-340b2995f3-0004",
+      "articleNumber": 4,
+      "displayNumber": "第四条",
+      "path": [],
+      "text": "买受人虚构购房资格参与司法拍卖房产活动且拍卖成交，当事人、利害关系人以违背公序良俗为由主张该拍卖行为无效的，人民法院应予支持。\n依据前款规定，买受人虚构购房资格导致拍卖行为无效的，应当依法承担赔偿责任。",
+      "order": 4
+    },
+    {
+      "id": "sfjs-340b2995f3-0005",
+      "articleNumber": 5,
+      "displayNumber": "第五条",
+      "path": [],
+      "text": "司法拍卖房产出现流拍等无法正常处置情形，不具备购房资格的申请执行人等当事人请求以该房抵债的，人民法院不予支持。",
+      "order": 6
+    },
+    {
+      "id": "sfjs-340b2995f3-0006",
+      "articleNumber": 6,
+      "displayNumber": "第六条",
+      "path": [],
+      "text": "人民法院组织的司法拍卖房产活动，竞买人虚构购房资格或者当事人之间恶意串通，侵害他人合法权益或者逃避履行法律文书确定的义务的，人民法院应当根据情节轻重予以罚款、拘留；构成犯罪的，依法追究刑事责任。",
+      "order": 7
+    },
+    {
+      "id": "sfjs-340b2995f3-0007",
+      "articleNumber": 7,
+      "displayNumber": "第七条",
+      "path": [],
+      "text": "除前六条规定的情形外，人民法院组织司法拍卖房产活动的其他事宜，适用《最高人民法院关于人民法院网络司法拍卖若干问题的规定》《最高人民法院关于人民法院民事执行中拍卖、变卖财产的规定》以及《最高人民法院关于适用〈中华人民共和国民事诉讼法〉的解释》的有关规定。",
+      "order": 8
+    },
+    {
+      "id": "sfjs-340b2995f3-0008",
+      "articleNumber": 8,
+      "displayNumber": "第八条",
+      "path": [],
+      "text": "人民法院组织司法变卖房产活动的，参照适用本规定。",
+      "order": 9
+    },
+    {
+      "id": "sfjs-340b2995f3-0009",
+      "articleNumber": 9,
+      "displayNumber": "第九条",
+      "path": [],
+      "text": "本规定自2022年1月1日起施行。\n施行前最高人民法院公布的司法解释与本规定不一致的，以本规定为准。",
+      "order": 10
+    }
+  ]
+}

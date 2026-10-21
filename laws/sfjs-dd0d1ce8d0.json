@@ -1,0 +1,28 @@
+{
+  "id": "sfjs-dd0d1ce8d0",
+  "officialId": "",
+  "title": "最高人民法院关于对执行程序中的裁定的抗诉不予受理的批复",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院",
+  "promulgationDate": "1995-08-10",
+  "effectiveDate": "1995-08-10",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-dd0d1ce8d0/metadata.json",
+    "docxPath": "data/laws/sfjs-dd0d1ce8d0/official.docx"
+  },
+  "paragraphCount": 7,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-dd0d1ce8d0-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "1995年8月10日 法复〔1995〕5号\n广东省高级人民法院：\n你院粤高法〔1995〕37号《关于人民法院在执行程序中作出的裁定检察院是否有权抗诉的请示》收悉。经研究，答复如下：\n根据《中华人民共和国民事诉讼法》的有关规定，人民法院为了保证已发生法律效力的判决、裁定或者其他法律文书的执行而在执行程序中作出的裁定，不属于抗诉的范围。因此，人民检察院针对人民法院在执行程序中作出的查封财产裁定提出抗诉，于法无据，人民法院不予受理。",
+      "order": 1
+    }
+  ]
+}

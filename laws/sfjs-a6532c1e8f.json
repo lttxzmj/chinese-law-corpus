@@ -1,0 +1,28 @@
+{
+  "id": "sfjs-a6532c1e8f",
+  "officialId": "",
+  "title": "最高人民法院关于银行储蓄卡密码被泄露导致存款被他人骗取引起的储蓄合同纠纷应否作为民事案件受理问题的批复",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院",
+  "promulgationDate": "2005-07-25",
+  "effectiveDate": "2005-08-01",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-a6532c1e8f/metadata.json",
+    "docxPath": "data/laws/sfjs-a6532c1e8f/official.docx"
+  },
+  "paragraphCount": 14,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-a6532c1e8f-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "法释〔2005〕7号\n（2005年7月4日最高人民法院审判委员会第1358次会议通过 2005年7月25日最高人民法院公告公布 自2005年8月1日起施行）\n四川省高级人民法院：\n你院《关于存款人泄露银行储蓄卡密码导致存款被他人骗取引起的纠纷应否作为民事案件受理的请示》收悉。经研究，答复如下：\n因银行储蓄卡密码被泄露，他人伪造银行储蓄卡骗取存款人银行存款，存款人依其与银行订立的储蓄合同提起民事诉讼的，人民法院应当依法受理。\n此复。",
+      "order": 1
+    }
+  ]
+}

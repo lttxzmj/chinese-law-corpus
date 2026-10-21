@@ -1,0 +1,28 @@
+{
+  "id": "sfjs-3f37220c5a",
+  "officialId": "",
+  "title": "最高人民法院关于承运人就海上货物运输向托运人、收货人或提单持有人要求赔偿的请求权时效期间的批复",
+  "category": "司法解释",
+  "issuingAuthority": "最高人民法院",
+  "promulgationDate": "1997-08-05",
+  "effectiveDate": "1997-08-07",
+  "status": "effective",
+  "source": {
+    "metadataPath": "data/laws/sfjs-3f37220c5a/metadata.json",
+    "docxPath": "data/laws/sfjs-3f37220c5a/official.docx"
+  },
+  "paragraphCount": 10,
+  "sectionCount": 0,
+  "articleCount": 1,
+  "sections": [],
+  "articles": [
+    {
+      "id": "sfjs-3f37220c5a-full",
+      "articleNumber": 0,
+      "displayNumber": "全文",
+      "path": [],
+      "text": "法释〔1997〕3号\n（1997年7月11日最高人民法院审判委员会第921次会议通过 1997年8月5日最高人民法院公告公布 自1997年8月7日起施行）\n山东省高级人民法院：\n你院鲁法经〔1996〕74号《关于赔偿请求权时效期间的请示》收悉。经研究，答复如下：\n承运人就海上货物运输向托运人、收货人或提单持有人要求赔偿的请求权，在有关法律未予以规定前，比照适用《中华人民共和国海商法》第二百五十七条第一款的规定，时效期间为1年，自权利人知道或者应当知道权利被侵害之日起计算。\n此复。",
+      "order": 1
+    }
+  ]
+}
