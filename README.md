@@ -31,6 +31,7 @@ This corpus has moved to **[Gitee: chengzi_h/chinese-law-corpus](https://gitee.c
 - [Gitee 数据仓](https://gitee.com/chengzi_h/chinese-law-corpus)：本语料库的新家，数据在那里持续更新；
 - [法脉桌面端](https://lttxzmj.github.io/lawpulse-site/)（macOS / Windows）：离线法律库 + 法条笔记 + AI 合同审查，本语料的上游；
 - [网页版法规库](https://lttxzmj.github.io/lawpulse-site/laws/index.html)：每条法条一个可直链引用的页面；
+- [chinese-law-skills](https://github.com/lttxzmj/chinese-law-skills)：基于本语料的 Agent 技能库，含法条引用核验（治 AI 幻觉引用）与诉讼计算器；
 - [chinese-law-mcp](https://github.com/lttxzmj/chinese-law-mcp)：把本语料接入任意支持 MCP 的 AI 客户端。
 
 ## 版权与免责
